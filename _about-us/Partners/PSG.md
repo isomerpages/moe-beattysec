@@ -19,6 +19,8 @@ We firmly believe that we will add value to our students’ school experience as
 
 **Parents may contact the General Office at 63569108 to indicate your interest if you wish to be part of the Parent Support Group@Beatty.**
 
+Click [here](/files/psg%20registration%20form.pdf) for PSG Application Form
+
 ##### **Photos of Activities**
 
 <iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzDFQwGGdfYKyY3Bq8pl4D1KvubCPApxlSmYtpNotzKjTVda_zxwffYg1gV7cFvjEyv3oCK1vRlI2J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
