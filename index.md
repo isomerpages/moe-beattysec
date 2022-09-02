@@ -4,24 +4,20 @@ title: Beatty Secondary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Beatty Secondary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Announcements
+          description: ""
+          url: /announcements/
+        - title: Latest Happenings
+          description: ""
+          url: /latest-happenings/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,5 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
