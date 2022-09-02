@@ -31,7 +31,7 @@ Non Vi Sed Arte – Not with Force, but with Skill!_
 
 <img src="/images/janet%20signature.jpg" 
      style="width:15%" align = left>
-<br>		 
+<br><br>		 
 Janet Yeong<br>
 President, Beatty Alumni (2013 - 2021)
 
