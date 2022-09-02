@@ -6,13 +6,11 @@ third_nav_title: Sports and Games
 ---
 ### **Badminton**
 
-<img src="/images/badminton%201.jpg" 
-     style="width:49%" align=left>
+<img align="left" style="width:49%" src="/images/badminton%201.jpg">
 		 
-<img src="/images/badminton%202.jpg" 
-     style="width:49%" align=left>		 
+<img align="left" style="width:49%" src="/images/badminton%202.jpg">		 
 
-<iframe width="560" height="316" src="https://www.youtube.com/embed/itWLHcGHHGk" title="Beatty Secondary School - Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Badminton" src="https://www.youtube.com/embed/itWLHcGHHGk" height="316" width="560"></iframe>
 
 Badminton is an established CCA in Beatty Secondary School. Members in the CCA are taught the proper skills and techniques and they display the school core values throughout their learning process. We place great emphasis on the importance of sportsmanship, be it in a competition or friendly match. We believe that the values are crucial in preparing our Beattyians for the challenges they will face in and out of the court.
 
@@ -31,21 +29,20 @@ Badminton is an established CCA in Beatty Secondary School. Members in the CCA a
 
 ##### **Training Schedule**
 **Boys:**<br>
-Every Tuesday & Thursday 3:30pm – 6:30pm
+Every Tuesday &amp; Thursday 3:30pm – 6:30pm
 
 **Girls:**<br>
-Every Monday 3:30pm – 6:30pm   <br>
+Every Monday 3:30pm – 6:30pm&nbsp;  <br>
 Every Friday 2:30pm – 5:30pm
 
 ##### **Achievements and Highlights (2019 – 2020)**
 *   Both the boys’ and girls’ squads participated in the South Zone National School Games (NSG) ‘B’ and ‘C’ Division Badminton Championships 2019 and 2020
 *   ‘C’ Division girls’ squad attained fourth placing in the South Zone NSG Badminton Championships 2019 and qualified for the national round of the NSG Badminton Championships 2019
 *   5th National Deaf Games 2019 – Badminton
-	*   1st position for Singles (under 18 Open Category): Alex Liew
-	*   2nd position for Singles (under 18 Open Category): Jonathan Chua
-	*   3rd position for Singles (under 18 Open Category): Muhammad Haziq Bin Razali
+	*   1st&nbsp;position for Singles (under 18 Open Category): Alex Liew
+	*   2nd&nbsp;position for Singles (under 18 Open Category): Jonathan Chua
+	*   3rd&nbsp;position for Singles (under 18 Open Category): Muhammad Haziq Bin Razali
 
 ##### **Photos of Activities**
 	
-<img src="/images/bmt.gif" 
-     style="width:75%">
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBCrWaYuYZ_TNMeU80agjshysTOwtUrdJIE41Wy83HC1dxV-1psHGAmAPLIiJf2JiFMrix9UZMZiyj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
