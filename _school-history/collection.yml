@@ -2,4 +2,5 @@ collections:
   school-history:
     output: true
     order:
+      - Brief History of First School Building.md
       - Beatty's Principals.md
