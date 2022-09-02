@@ -95,6 +95,3 @@ Mobile phones and electronic gadgets are to be switched off at all times within 
 
 ##### **Note:**
 The full set of school Rules & Regulations is found in the Student Handbook.
-
-
-
