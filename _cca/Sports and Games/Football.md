@@ -6,13 +6,11 @@ third_nav_title: Sports and Games
 ---
 ### **Football**
 
-<img src="/images/football%201.jpg" 
-     style="width:49%" align=left>
+<img align="left" style="width:49%" src="/images/football%201.jpg">
 		 
-<img src="/images/football%202.jpg" 
-     style="width:49%" align=left>		 
+<img align="left" style="width:49%" src="/images/football%202.jpg">		 
 		 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6sZiDMU2NQ" title="Beatty Secondary School - Football" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Football" src="https://www.youtube.com/embed/Z6sZiDMU2NQ" height="315" width="560"></iframe>
 
 Beatty Secondary School’s Football Team aims to develop skilled football players as well as to nurture strong values and a strong sense of self-discipline in our footballers. Football sessions are developed to be fun and engaging whilst instilling the rigour and toughness that will enable our footballers to be mentally and physically resilient players.
 
@@ -38,5 +36,4 @@ Golden Boot Award Winner - Bishwa Raj Ale<br>
 
 ##### **Photos of Activities**
 
-
-
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuXQePNAkb-nQQ6PW6TzLKZDyvUd-XEOf6GjtLSWi-7BlSQg_1eI4R5DPHsbZ5y0pXL2cm2RgbWYBD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
