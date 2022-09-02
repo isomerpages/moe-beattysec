@@ -7,7 +7,7 @@ description: ""
 
 <figure>
 <img src="/images/brief%20history%201.jpg" 
-     style="width:55%">
+     style="width:65%">
 <figcaption> <strong> A panoramic view of the school in the 1950s  
  </strong> </figcaption>
 </figure>
