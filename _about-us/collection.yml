@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Student Management/School Safety.md
       - Student Management/.keep
       - Partners/SAC.md
       - Partners/PSG.md
