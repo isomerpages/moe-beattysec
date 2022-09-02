@@ -6,10 +6,10 @@ third_nav_title: Sports and Games
 ---
 ### **Wushu**
 
-<img align="left" style="width:49%" src="/images/wushu%201.jpg">
-<img align="left" style="width:49%" src="/images/wushu%202.jpg">		
+<img src="/images/wushu%201.jpg" style="width:49%" align="left">
+<img src="/images/wushu%202.jpg" style="width:49%" align="left">		
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zdRY2LlSbAs" title="Beatty Secondary School - Wushu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Wushu" src="https://www.youtube.com/embed/zdRY2LlSbAs" height="315" width="560"></iframe>
 
 Beatty Secondary School’s Wushu team focuses on character building and skills development. To achieve this aim, we incorporate passion in all our trainings and performances, respect for our coaches, teachers, seniors and one another, as well as dedication to our craft.
 
@@ -51,4 +51,6 @@ _**Colours Award 2021**_
 *   Koh Jing Wei
 *   Leong Shu Ting Jolene
 
+##### **Photos of Activities**
 
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRe_PBnUBHbf3lkUyrhgsIWPuiS16FIv3XwwXxi_---hhSe10fN01ql-2w9lrxtHiRf1sdj5vSpSoSA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
