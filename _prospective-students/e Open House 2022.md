@@ -5,9 +5,10 @@ description: ""
 ---
 ### **e-Open House 2022**
 
-<img src="/images/Principal.jpeg" style="width:55%;margin-right:15px;" align = "left">
-##### **Our Principal, Mr Harman Johll <br>
-A Beacon of Innovation**
+<img src="/images/Principal.jpeg" 
+     style="width:65%">
+
+##### **Our Principal, Mr Harman Johll** <br>**A Beacon of Innovation**
 
 _"The first thing we must all do is love and care for our children; everything else will fall in place. To love and care is to do what is required for each child to realise and actualise his or her potential, and to gradually become the best version of themselves. It is about learning who they are, learning with and from them, and to then know what they need most at each stage of their journey so as to set them on the right course to lead meaningful, purposeful lives. This can only be possible if we work together as a cohesive community of students, parents and educators with deep resolve coupled with commitment to the cause."_
 
