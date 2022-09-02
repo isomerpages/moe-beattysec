@@ -36,3 +36,6 @@ Janet Yeong<br>
 President, Beatty Alumni (2013 - 2021)
 
 ![](/images/BAMC.png)
+
+* click [here](/files/Presidents%20Report%20from%201%20June%202020%20to%2031%20Aug%202021.pdf) for Presidents Report from 1 June 2020 to 31 Aug 2021
+* click [here](/files/ba_membership_applicationform.pdf) for Beatty Alumni Membership Form
