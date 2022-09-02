@@ -55,3 +55,9 @@ Access the following link to register your interest for the **Live Engagement S
 ![](/images/Join%20Us%20At%20Beatty.jpg)
 
 ##### **Connect with Us!**
+
+<img src="/images/FBicon.png" style="width:8%;margin-right:15px;" align = "left">[Beatty Secondary School - Non Vi Sed Arte](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160)
+<br><br><br>
+<img src="/images/IGicon.png" style="width:8%;margin-right:15px;" align = "left">[@beattysecsch](https://www.instagram.com/beattysecsch/)
+<br><br><br>
+<img src="/images/WEBicon.png" style="width:8%;margin-right:15px;" align = "left">[https://beattysec.moe.edu.sg/](https://beattysec.moe.edu.sg/)
