@@ -4,3 +4,58 @@ permalink: /cca/sports-and-games/canoe/
 description: ""
 third_nav_title: Sports and Games
 ---
+### **Canoeing**
+
+<img src="/images/canoe%201.jpg" style="width:49%" align="left">
+<img src="/images/canoe%202.jpg" style="width:49%" align="left">		 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Canoeing" src="https://www.youtube.com/embed/qYSblRQlhfk" height="315" width="560"></iframe>
+
+Beatty Secondary School’s Canoeing Team seeks to mould our Beattyians into young adults who possess not only physical prowess, but also positive character traits.  
+  
+Every year, the Canoeing Team participates in three competitions: The Singapore Canoe Marathon, The National Junior Canoe Sprint Championships and the National School Canoeing Championships. Through these competitions, our students have the opportunities to display their passion for the sport, sportsmanship, resilience and teamwork. We also provide them with opportunities to take part in various programmes to equip them with vital leadership and life skills.  
+  
+Canoeing is one of the three Direct School Admission (DSA) CCAs offered by Beatty Secondary School.
+
+| Teacher In Charge |  |  |
+|:---:|:---:|:---:|
+| Ms Zhuang Huizhi Dawne (IC) | [zhuang_huizhi_dawne@moe.edu.sg](mailto:zhuang_huizhi_dawne@moe.edu.sg) | 62569108 Ext 148 |
+| Mr Chan Jen Wuu (2IC) - Covering IC | [chan_jen_wuu@moe.edu.sg](mailto:chan_jen_wuu@moe.edu.sg) | 62569108 Ext 148 |
+| Mrs Sharon Fong | [sharon_fong@moe.edu.sg](mailto:sharon_fong@moe.edu.sg) | 62569108 Ext 213 |
+| Mr Jack Chan | [chan_zhi_hung@moe.edu.sg](mailto:chan_zhi_hung@moe.edu.sg) | 62569108 |
+|
+
+##### **Training Schedule**
+Every Monday 3:30pm – 6:30pm @ MacRitchie Reservoir<br>
+Every Friday 2:30pm – 5:30pm @ MacRitchie Reservoir<br>
+[Semester 1] Every Wednesday 3:30pm - 6:30pm @ MacRitchie Reservoir (*Sec 1 members are exempted from it)
+
+##### **Achievements and Highlights**
+_**Singapore Canoe Marathon 2020**_
+*   Lim Zheng Kai \[5th in U14 Men 12km – JK1\]
+*   Dyllan Sim and Gerrell Chan \[5th in U14 Men 12km – JK2\]
+*   Jamie Song and Freya Swallow \[Silver Medal, 2nd in U14 Women 12km – JK2\]
+*   Jovinna Chow and Tee Wei Wen \[4th in U14 Women 12km – K2\]
+
+**_Singapore Canoe Marathon 2019_**
+*   Muhammad Aqil Azka Bin Muhammad Nasir and Nathanael Foo  
+    \[Bronze Medal, 3rdin U14 Men 12km ‐ JK2\]
+		
+**_National Schools Canoeing Championship 2019_**
+*   Serene Bravin and Adryna Nabilah Binte Ahmad Husaini  
+    \[Bronze Medal, 4thin C-Girls 500m - K2\]
+		
+**_Colours Award 2019_**
+*   Serene Ann Bravin
+*   Adryna Nabilah Binte Ahmad Husaini
+
+**_Highlights for 2020_**
+*   CCA Sports Exposure for Sec 1 students
+*   CCA Open House
+*   Welcome Party for Sec 1 members
+*   1-Star Kayaking Certification
+*   Singapore Canoe Marathon 2020
+
+##### **Photos of Activities**
+
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCpvJ64txY31H9-aFGyMXKIHGGv-t-wX1gqnICYSJCDI8TdxOATj1DySCKmjRMwA2impRxrR9YRHWe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
