@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Sports and Games/.keep
+      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Drama Club.md
