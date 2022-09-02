@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/School Vision, Mission and Philosophy.md
       - Our School/School Values.md
       - Our School/School History.md
       - Our School/School Crest.md
