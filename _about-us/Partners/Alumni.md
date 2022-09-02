@@ -25,8 +25,7 @@ Special mention goes to our Patron, Mr Low Cheng Lum for his unwavering and gene
   
 Since its humble inauguration in 1993, our Alumni has come a long way in nurturing comradeship and the Beatty Family spirit since **yesterday**, which remains **today** and will certainly flourish **tomorrow**.  
   
-_We will always do our best to bring glory to Beatty.  
-  
+_We will always do our best to bring glory to Beatty.  <br>
 Non Vi Sed Arte – Not with Force, but with Skill!_
 
 <img src="/images/janet%20signature.jpg" 
