@@ -7,7 +7,6 @@ third_nav_title: Sports and Games
 ### **Football**
 
 <img align="left" style="width:49%" src="/images/football%201.jpg">
-		 
 <img align="left" style="width:49%" src="/images/football%202.jpg">		 
 		 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Football" src="https://www.youtube.com/embed/Z6sZiDMU2NQ" height="315" width="560"></iframe>
