@@ -5,4 +5,6 @@ description: ""
 third_nav_title: Partners
 ---
 ### **SAC**
-![](/images/SAC.jpg)
+
+<img src="/images/sac1.jpg" 
+     style="width:20%">
