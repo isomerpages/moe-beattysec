@@ -69,7 +69,6 @@ All applicants can apply for DSA-SEC through the centralized DSA-Sec Portal.
 | Late Nov 2022 | Allocation Results Release |
 |
 
-7\.  You may contact the General Office at 62569108 if you have queries regarding the DSA process. Alternatively, you could contact Mr Kelvin Goh (SH/PE & CCA) at 62569108 ext 210 or Ms Tng Ee Hwei (HOD/PE & CCA) at 62569108 ext 121, or email us at beatty\_ss@moe.edu.sg.
+7\.  You may contact the General Office at 62569108 if you have queries regarding the DSA process. Alternatively, you could contact Mr Kelvin Goh (SH/PE & CCA) at 62569108 ext 210 or Ms Tng Ee Hwei (HOD/PE & CCA) at 62569108 ext 121, or email us at [beatty\_ss@moe.edu.sg](mailto:beatty\_ss@moe.edu.sg).
 
 8\.  For more information on DSA-Sec, please refer to: [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-
