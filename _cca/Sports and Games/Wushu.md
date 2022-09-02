@@ -26,4 +26,29 @@ Wushu is one of the three Direct School Admission (DSA) CCAs offered by Beatty S
 |
 
 ##### **Weekly Schedule**
+Every Monday 4:00pm – 6:00pm<br>
+Every Wednesday 3:30pm - 5:30pm (In Semester 1 for selected members to prepare for the competitions)<br>
+Every Friday 2:00pm – 4:00pm
+
+The frequency of trainings may increase during the competition seasons.
+
+##### **Achievements and Highlights**
+*   Participated in the 15th National Inter-School Wushu Championship 2019 and the 17th National Inter-School Wushu Championship 2021
+*   Performed at the school’s Chinese New Year Concert, Annual Awards Day and National Day Concert
+*   Participated in an exchange programme (Sports Appreciation Programme) with Japan
+
+##### **Outstanding Individuals**
+
+| | | |
+|:---:|---|:---:|
+| Leong Shu Ting Jolene | ‘B’ Division Girls 1st International Nan Quan<br>‘B’ Division Girls 1st International Nan Dao | 3rd<br>6th |
+| Koh Jing Wei | ‘B’ Division Boys Formulated 42-Style Taiji Sword <br> ‘B’ Division Boys Formulated 42-Style Taijiquan | 3rd <br>7th|
+| Ng Xing Wen Avlynn | ‘B’ Division Girls 1st International Cudgel <br> ‘B’ Division Girls 2nd International Changquan | 5th <br> 5th|
+| Lee Zheng Teng | ‘B’ Division Boys 2nd International Changquan <br> ‘B’ Division Boys 1st International Cudgel| 8th <br>8th  |
+|
+
+_**Colours Award 2021**_
+*   Koh Jing Wei
+*   Leong Shu Ting Jolene
+
 
