@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Sports and Games/.keep
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/Boys' Brigade.md
