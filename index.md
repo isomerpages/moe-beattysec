@@ -23,7 +23,7 @@ sections:
       subtitle: apply to Beatty Secondary via
       description: based on talent areas
       button: click here
-      url: https://beattysec.moe.edu.sg/prospective-students/direct-school-admission-dsa
+      url: https://staging.d20c7gu3ctms61.amplifyapp.com/prospective-students/dsa/
       image: /images/banner 1.jpg
       alt: Image alt text
   - infopic:
