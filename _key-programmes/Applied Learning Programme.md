@@ -32,9 +32,10 @@ The emphasis of projects is guided by this learning goal and aimed at ‘Smart L
 ##### **External Showcase**
 *   Maker Faire Singapore: Singapore Maker Extravaganza 2018 (ALP Ambassadors)
 
+<img src="/images/ALP_Logo.png" 
+     style="width:20%" align=right>
+
 ##### **Competition**
 *   Inaugural Digital Making, National Infocomm Challenge 2018  
     (Attainment: Best Integrated Solution)
 		
-<img src="/images/ALP_Logo.png" 
-     style="width:20%" align=right>
