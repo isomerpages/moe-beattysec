@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Alumni.md
       - Partners/FM.md
       - Partners/.keep
       - Year Book.md
