@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Singapore Student Learning Space.md
       - For Teachers.md
       - For Students & Parents/For Students and Parents.md
       - For Students & Parents/Parents Gateway.md
