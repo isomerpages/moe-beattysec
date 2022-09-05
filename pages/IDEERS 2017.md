@@ -15,14 +15,16 @@ Beatty came in 2nd place at the 8th National Earthquake Competition organised by
 
 <img src="/images/ideers%202.jpg" 
      style="width:65%">
+<figure>
 
 <img src="/images/ideers%203.jpg" 
      style="width:49%" align=left>
 <img src="/images/ideers%204.jpg" 
      style="width:49%" align=right>		 
-<br><br><br>
-<br><br><br>
-<br><br><br>
 <br><br><br><br>
 <br><br><br><br>
-Beattyians at the IDEERS competition in Taiwan		 
+<br><br><br><br>
+<br><br><br><br>
+<figcaption> <strong> Beattyians at the IDEERS competition in Taiwan
+ </strong> </figcaption>
+</figure>
