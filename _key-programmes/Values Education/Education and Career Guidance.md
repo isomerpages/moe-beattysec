@@ -31,3 +31,14 @@ Education and Career Guidance (ECG) aims to equip students with the necessary kn
 | **Sec 4** | Career planning and making informed decision for post-sec education | - Learn about job roles@Skillsfuture portal<br>- ECG Day<br>- EAE talk / EAE Application workshops <br>- Polytechnic Open House visits<br>- Interviewing Skills Workhop<br>- 4NA/NT EM |
 |
 
+##### **ECG Counselling Booking**
+For students who would like to explore more about subject choices, ask about post-secondary education options or find out more about their career interests, strengths and passions, they could make appointments through their Form Teachers or self-referral using the QR code below.
+
+
+For self-referral, please scan the QR code to book your request.
+<img src="/images/ecg4.png" style="width:25%;margin-right:15px;" align = "right">
+
+The QR code can be found in your classroom. Once the appointment has been confirmed, you will be notified through your Form Teacher.
+
+
+
