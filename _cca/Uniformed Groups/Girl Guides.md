@@ -36,7 +36,7 @@ Every Friday 2:30pm – 6:00pm  <br>
 Alternate Tuesdays 3:30pm – 5:30pm (odd weeks for student leaders only)
 
 ##### **Achievements and Highlights**
-**_Achievements _**
+_**Achievements**_
 *   Puan Nor Aishah Award – Gold Award (2019)
 *   All secondary three Guides – Gold proficiency badges
 *   All secondary two Guides – Silver proficiency badges
