@@ -6,10 +6,10 @@ third_nav_title: Performing Arts
 ---
 ### **Choir**
 
-<img align="left" style="width:49%" src="/images/choir1.jpg">
-<img align="left" style="width:49%" src="/images/choir2.jpg">
+<img src="/images/choir1.jpg" style="width:49%" align="left">
+<img src="/images/choir2.jpg" style="width:49%" align="left">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERPyIJEf3H0" title="Beatty Secondary School - Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Choir" src="https://www.youtube.com/embed/ERPyIJEf3H0" height="315" width="560"></iframe>
 
 Beatty Secondary School’s Choir comprises passionate individuals who aspire to share their love for music and singing. We stage regular performances during school events such as the Annual Awards Day concert and the National Day Celebrations. In addition, the Choir works with external organisations to bring music and joy to the general masses during public events and participates in the Singapore Youth Festival Arts Presentation.
 
@@ -22,19 +22,19 @@ Beatty Secondary School’s Choir comprises passionate individuals who aspire to
 |
 
 ##### **Weekly Schedule**
-Every Monday  & Every Wednesday: 3:30pm – 5:30pm
+Every Monday&nbsp; &amp; Every Wednesday: 3:30pm – 5:30pm
 
 ##### **Achievements and Highlights**
 **_Achievements_**
-*    Certificate of Commendation at the Singapore Youth Festival Arts Presentation 2019
+*   &nbsp;Certificate of Commendation at the Singapore Youth Festival Arts Presentation 2019
 
 **_Highlights_**
 *   Performed at the school’s CCA Open House, Annual Awards Day concert and National Day concert
-*   Performed at the Toa Payoh West-Balestier 54th National Day Dinner 2019
+*   Performed at the Toa Payoh West-Balestier 54th&nbsp;National Day Dinner 2019
 *   Virtual Choir singing the song ‘Home’ for Toa Payoh West-Balestier/Thomson 55th National Day Celebrations 2020
 *   Virtual Choir singing the song ‘Home’ for the school’s National Day Celebrations on 7 August 2020
 *   Organised an Intra-CCA Song Composition Competition 2020 to show appreciation to the COVID-19 frontline workers
-*   Winning video by SOP1 group was posted on our school’s [Facebook page](https://www.facebook.com/336733456925160/posts/693195541278948/?vh=e&extid=d265VjxLT99tSUQf&d=n)
+*   Winning video by SOP1 group was posted on our school’s&nbsp;[Facebook page](https://www.facebook.com/336733456925160/posts/693195541278948/?vh=e&amp;extid=d265VjxLT99tSUQf&amp;d=n)
 
-
-
+##### **Photos of Activities**
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRy_3YqhMg9PMoXyweIWh_Emy_lajJMUnfBwN01W7fjrPPpj25X-9O5QBcxFdUb4sQbT7UH6Wa5NIvj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
