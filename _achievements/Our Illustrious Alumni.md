@@ -35,7 +35,7 @@ description: ""
 <img style="width:20%" src="/images/ABalakumaran.png" align=left>
 </a></p>	
 		 
-		 		 
+
 ##### **Articles**
 Read about [Ms Lim Xin Chelsea](http://www.tnp.sg/news/singapore/ndp-2016-produced-and-singaporeans), an ex-Beattyian who exemplified Creativity and Passion.<br>
 Read about [Ms Chua Hui Min](http://www.tnp.sg/news/singapore-news/student-hits-animation-success-her-fourth-try), an ex-Beattyian who exemplified Committment and Passion.<br>
