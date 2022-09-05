@@ -27,3 +27,9 @@ description: ""
 | **NCDCC** | Bronze | Silver | Gold   |
 | **Infocomm Club** | School Digital Media Awards 2017 Photo Essay Competition (Secondary) - Silver Award | Drone Odyssey Challenge 2018 - 4th Prize |   |
 |
+
+| Sports | 2017 | 2018 |
+|:---:|:---:|:---:|
+| **Swimming** | **National Schools Games Swimming Competition**<br>'B' Division Girls 50m Backstroke - 8th<br>'B' Division Girls 4 x 50m Freestyle Relay - 8th | National Schools Games Swimming Competition<br>'B' Division Girls 100m Backstroke – 6th<br>'B' Division Girls 50m Backstroke – 7th<br>'B' Division Girls 4 x 50m Freestyle Relay - 8th |
+| **Taekwondo** | **National Schools Games Taekwondo Competition**<br>'C' Division Girls - Poom Belt 1st & 4th<br>'B' Division Girls - Red Belt 3rd | National Schools Games Taekwondo Competition<br>'C' Division Girls - Poom Belt - 2nd |
+| **National Inclusive Athletics Challenge** | 3 Gold, 5 Silver, 2 Bronze medals | 2 Gold, 4 Silver, 3 Bronze medals |
