@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### **Girl Guides**
-<img align="left" style="width:49%" src="/images/gg1.jpg">
-<img align="left" style="width:49%" src="/images/gg2.jpg">
+<img src="/images/gg1.jpg" style="width:49%" align="left">
+<img src="/images/gg2.jpg" style="width:49%" align="left">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9B3Tl7W_uvA" title="Beatty Secondary School - Girl Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Girl Guides" src="https://www.youtube.com/embed/9B3Tl7W_uvA" height="315" width="560"></iframe>
 
 Girl Guides in Beatty Secondary School provides opportunities for our Guides to discover and develop their strengths, skills and potential in guiding to the fullest.We aim to develop girls of courage, confidence and character who will make the school and community a better place.
 
 We have a comprehensive Five-Point Programme which enables our Guides to develop in the following five areas:
-*   Personal & Social Development
+*   Personal &amp; Social Development
 *   Home
 *   Outdoor
 *   Community
@@ -45,7 +45,7 @@ Alternate Tuesdays 3:30pm – 5:30pm (odd weeks for student leaders only)
 **_Highlights_**
 *   Events and Competitions organised by the Headquarters (HQ)
 
-	*   World Thinking Day Celebrations & Competitions
+	*   World Thinking Day Celebrations &amp; Competitions
 	*   Wee Kim Wee Challenge (once every two years)
 
 *   HQ Yeoman (Values In Action)
@@ -64,11 +64,11 @@ Alternate Tuesdays 3:30pm – 5:30pm (odd weeks for student leaders only)
 
 	*   CCA Open House
 	*   Total Defence Day (commemorating one of the pillars of Total Defence)
-	*   Annual Awards Day (Parade Contingent & Reception)
-	*   National Day Celebrations (Parade Contingent & Flag Party)
+	*   Annual Awards Day (Parade Contingent &amp; Reception)
+	*   National Day Celebrations (Parade Contingent &amp; Flag Party)
 	*   Sports Carnival (Games)
 	*   Teachers’ Day (Reception)
-	*   Graduation Day  (Reception)
+	*   Graduation Day&nbsp; (Reception)
 	*   Beatty Recognition Day (Reception)
 
 *   Inter-CCA activities
@@ -77,3 +77,7 @@ Alternate Tuesdays 3:30pm – 5:30pm (odd weeks for student leaders only)
 	*   Co-hosted students from Mihara City, Japan, for the Japanese Cultural Exchange Programme, with Scouts
 
 *   Girl Guides’ Public Cookie Sale
+
+##### **Photos of Activites**
+
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQY1ASAjOdGFNhJL7dcppvHCqPcaZwU4nF7BVwhimN4rhla2fJ14ISDUhm34SHjulMrq0bpo6cXDQag/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
