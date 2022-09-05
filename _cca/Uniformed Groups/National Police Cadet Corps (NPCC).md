@@ -6,10 +6,10 @@ third_nav_title: Uniformed Groups
 ---
 ### **National Police Cadet Corps (NPCC)**
 
-<img align="left" style="width:49%" src="/images/npcc%201.jpg">
-<img align="left" style="width:49%" src="/images/npcc%202.jpg">
+<img src="/images/npcc%201.jpg" style="width:49%" align="left">
+<img src="/images/npcc%202.jpg" style="width:49%" align="left">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vgQah_O-9C4" title="Beatty Secondary School - National Police Cadet Corps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - National Police Cadet Corps" src="https://www.youtube.com/embed/vgQah_O-9C4" height="315" width="560"></iframe>
 
 The National Police Cadet Corps (NPCC) was formed in 1959 and has become one of the popular youth uniformed organisations in Singapore. Beatty Secondary School was one of the pioneer schools that included NPCC in its list of Co-Curricular Activities when the Corps was first formed.
 
@@ -47,4 +47,4 @@ Selected Wednesdays 3:30pm - 6:30pm (make-up session for public holidays, etc.)
 
 ##### **Photos of Activites**
 
-
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr9we3jiKPYoN195epAGLPPveXDYpLbg9x4nBHB3NAtZkz5aRrNBWBTGY_5ETc39vhP2B-8j62qRHf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
