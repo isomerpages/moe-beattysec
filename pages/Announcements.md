@@ -14,6 +14,6 @@ description: ""
 *   **PSG Let's Go Green Initiative**  
     Click [here](https://beattysec.moe.edu.sg/qql/slot/u182/Partnership/PSG%20in%20Pictures/PSG_go%20green%20poster.jpeg) for more information
 *   **2021 Sec 4E,4T & 5N Students**  
-    SSGC and CCA certificates ready for collection. Click [here](https://beattysec.moe.edu.sg/others/sgc-and-cca-certificates-ready-for-collection) for more information.
+    SSGC and CCA certificates ready for collection. Click [here](https://staging.d20c7gu3ctms61.amplifyapp.com/announcements/certificate-collection/) for more information.
 *   **ALP and LLP  
     ** Read about our school's exciting [Applied Learning Programme](https://staging.d20c7gu3ctms61.amplifyapp.com/key-programmes/alp/) and [Learning for Life Programme](https://staging.d20c7gu3ctms61.amplifyapp.com/key-programmes/llp/) .
