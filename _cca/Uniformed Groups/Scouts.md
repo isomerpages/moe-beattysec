@@ -23,7 +23,7 @@ Over the past few decades, the Beatty Beaver Scouts has produced three Queen’s
 &nbsp;Every Thursday 3:30pm – 6:30pm&nbsp;<br>
 &nbsp;Selected Saturday 9:00am – 12:00pm (Campfire - Mostly in March, April and July)
  
- ##### **Student Leaders**
+##### **Student Leaders**
 **Scribe:**&nbsp;Leonard Ang Kai Ze  <br>
 **Quartermaster:**&nbsp;Gerald Yeo Guo Can  <br>
 **Media and Publicity:**&nbsp;Chia Seng Hing  <br>
