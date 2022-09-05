@@ -6,10 +6,10 @@ third_nav_title: Uniformed Groups
 ---
 ### **National Civil Defence Cadet Corps (NCDCC)**
 
-<img align="left" style="width:49%" src="/images/ncdcc%201.jpg">
-<img align="left" style="width:49%" src="/images/ncdcc%202.jpg">
+<img src="/images/ncdcc%201.jpg" style="width:49%" align="left">
+<img src="/images/ncdcc%202.jpg" style="width:49%" align="left">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/92yh7Sg8q24" title="Beatty Secondary School - National Civil Defence Cadet Corps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - National Civil Defence Cadet Corps" src="https://www.youtube.com/embed/92yh7Sg8q24" height="315" width="560"></iframe>
 
 Our National Civil Defence Cadet Corps (NCDCC) unit aims to provide a purposeful and meaningful journey through which our cadets will be given the chance to learn Civil Defence related lifesaving skills, lead in the CCA and serve the community in various service learning projects. The main objectives of NCDCC are to:
 
@@ -21,7 +21,7 @@ Our National Civil Defence Cadet Corps (NCDCC) unit aims to provide a purposeful
 
 Regular training sessions occur at the unit level, where our cadets are given the opportunities to train with peers with similar experiences to master the knowledge and skills required for promotion to their next rank. Core NCDCC activities include first aid, foot drills and performing community service. Our cadets also acquire various essential life skills such as fire safety and rescue methods as well as participate in other enrichment and teambuilding activities organised by the unit.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KtzPWlHfR9E" title="NCDCC - Together As One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NCDCC - Together As One" src="https://www.youtube.com/embed/KtzPWlHfR9E" height="315" width="560"></iframe>
 
 | Teacher In Charge |
 | --- |
@@ -54,3 +54,4 @@ Selected Tuesdays 3:30pm – 5:30pm (make-up sessions for public holidays, etc.)
 
 ##### **Photos of Activities**
 
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTddk4AHI3263K--lWRw39r-Pzt-SpenniOFrq_b6My29_KuaHUnPbjsEXxzSFu8UsDC1n5Jm7cE6oY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
