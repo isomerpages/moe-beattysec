@@ -37,4 +37,3 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 ##### **At Beatty Secondary School, the following Sexuality Education lessons will be taught in 2022:**
 **Secondary 1**
-
