@@ -10,6 +10,7 @@ description: ""
 ![](/images/Liu%20Shuen%20Wei.png)
 ![](/images/Noe%20Noe%20Su%20Aung.png)
 ![](/images/Tan%20Qiuyi.png)
+
 ![](/images/Zhang%20Hongjie.png)
 ![](/images/Lim%20Jing%20Kai.png)
 ![](/images/Oh%20Ying%20Jie.png)
@@ -31,7 +32,22 @@ description: ""
 <img style="width:20%" src="/images/Tan%20Qiuyi.png" align=left>
 </a></p>	
 
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Zhang%20Hongjie.png" align=left>
+</a></p>
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Lim%20Jing%20Kai.png" align=left>
+</a></p>
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Oh%20Ying%20Jie.png" align=left>
+</a></p><p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/KellyKhiew.png" align=left>
+</a></p>	
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/ABalakumaran.png" align=left>
+</a></p>	
 		 
+		 		 
 ##### **Articles**
 Read about [Ms Lim Xin Chelsea](http://www.tnp.sg/news/singapore/ndp-2016-produced-and-singaporeans), an ex-Beattyian who exemplified Creativity and Passion.<br>
 Read about [Ms Chua Hui Min](http://www.tnp.sg/news/singapore-news/student-hits-animation-success-her-fourth-try), an ex-Beattyian who exemplified Committment and Passion.<br>
