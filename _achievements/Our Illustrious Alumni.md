@@ -5,7 +5,16 @@ description: ""
 ---
 ### **Our Illustrious Alumni**
 
-
+![](/images/TEO%20WEN%20PIN%20FELIX.jpg)
+![](/images/Chan%20Zheng%20Qi.jpg)
+![](/images/Liu%20Shuen%20Wei.png)
+![](/images/Noe%20Noe%20Su%20Aung.png)
+![](/images/Tan%20Qiuyi.png)
+![](/images/Zhang%20Hongjie.png)
+![](/images/Lim%20Jing%20Kai.png)
+![](/images/Oh%20Ying%20Jie.png)
+![](/images/KellyKhiew.png)
+![](/images/ABalakumaran.png)
 
 ##### **Articles**
 Read about [Ms Lim Xin Chelsea](http://www.tnp.sg/news/singapore/ndp-2016-produced-and-singaporeans), an ex-Beattyian who exemplified Creativity and Passion.<br>
