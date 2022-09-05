@@ -18,9 +18,9 @@ Beatty came in 2nd place at the 8th National Earthquake Competition organised by
 <figure>
 
 <img src="/images/ideers%203.jpg" 
-     style="width:49%" align=left>
+     style="width:49.5%" align=left>
 <img src="/images/ideers%204.jpg" 
-     style="width:49%" align=right>		 
+     style="width:49.5%" align=right>		 
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
