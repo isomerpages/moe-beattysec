@@ -36,4 +36,6 @@ Every Thursday 3:30pm – 6:30pm
 *   Performed for school events such as CCA Open House, Chinese New Year Celebrations & Hari Raya Celebrations
 *   Participated in the Muara Festival at the Esplanade Outdoor Theatre from 2017 to 2019
 
+##### **Photos of Activities**
+
 
