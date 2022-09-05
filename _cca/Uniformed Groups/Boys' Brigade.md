@@ -6,10 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### **Boys' Brigade**
 
-<img src="/images/boys%20brigade.jpg" 
-     style="width:49%">
+<img style="width:49%" src="/images/boys%20brigade.jpg">
 		 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfxALpY2TbU" title="Beatty Secondary School - Boys' Brigade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Boys' Brigade" src="https://www.youtube.com/embed/lfxALpY2TbU" height="315" width="560"></iframe>
 
 Beatty Secondary School’s Boys' Brigade Company was founded in 1975 as the 10th Singapore Company (BB).
 
@@ -36,7 +35,7 @@ Every Saturday 8:00am – 12:30pm (Parade)
 **_Highlights_**
 *   Organised company outings to Pulau Ubin, Gardens by the Bay and Former Ford Factory in 2019
 *   Participated in the school’s Annual Awards Day as part of the uniformed groups marching contingent as well as bagpipe band performance in 2019
-*   Held the company’s annual camps in March (in school) and in June (at the Boys’ Brigade & Girls’ Brigade Campsite) in 2019
+*   Held the company’s annual camps in March (in school) and in June (at the Boys’ Brigade &amp; Girls’ Brigade Campsite) in 2019
 *   Organised a food donation drive in school for BB CARES (Community Activities Rallying Everyone to Serve) in collaboration with The Food Bank Singapore in 2019
 *   Bagpipe band performances at the Toa Payoh West-Balestier National Day Observance Parade 2019 and National Day Heartlands Celebration 2019 @ Central Singapore
 *   Took part in the Marksmanship Training Enrichment Programme and acquired the basics of shooting in 2021
@@ -44,3 +43,4 @@ Every Saturday 8:00am – 12:30pm (Parade)
 
 ##### **Photos of Activities**
 
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSE5Pa0Okw1EmrAQBvWZcHKxZPz4GkbFe_0J-pwelWFPZ6qxIm5nFjtmbJ7HzDtxYhZgO8OT0BB36Cc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
