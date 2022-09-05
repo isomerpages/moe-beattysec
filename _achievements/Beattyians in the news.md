@@ -12,14 +12,14 @@ Read about our Safe Cycling Workshop conducted on 18th Feb [here](http://www.za
 
 Read about our school's first combined Lohei event for the Chinese New Year [here](http://www.zbcomma.sg/archives/20843).  **broken link**
 
-[Congratulations to our Science Busker Fair](https://beattysec.moe.edu.sg/others/science-buskers-competition-at-science-centre) for placing second and winning the viewers' choice award.
+[Congratulations to our Science Busker Fair](https://staging.d20c7gu3ctms61.amplifyapp.com/achievements/news/) for placing second and winning the viewers' choice award.
 
-[Congratulations to our N!E!Mation! team](https://beattysec.moe.edu.sg/others/n-e-mation-12) for finishing in the top 20 in Singapore.
+[Congratulations to our N!E!Mation! team](https://staging.d20c7gu3ctms61.amplifyapp.com/achievements/news/) for finishing in the top 20 in Singapore.
 
-[Congratulations to our Earthquake Challenge team](https://beattysec.moe.edu.sg/others/ideers-2017) for finishing third in Taiwan's IDEERS.
+[Congratulations to our Earthquake Challenge team](https://staging.d20c7gu3ctms61.amplifyapp.com/achievements/news/) for finishing third in Taiwan's IDEERS.
 
-[Congratulations to our Chinese News Making team](https://beattysec.moe.edu.sg/others/chinese-news-making-competition) for finishing second in the competition organised by SPH.
+[Congratulations to our Chinese News Making team](https://staging.d20c7gu3ctms61.amplifyapp.com/achievements/news/) for finishing second in the competition organised by SPH.
 
-[Congratulations to our Games Creation team](https://beattysec.moe.edu.sg/others/singapore-games-creation-competition) for finishing in the top 30 in the competition organised by Nangyang Polytechnic. 
+[Congratulations to our Games Creation team](https://staging.d20c7gu3ctms61.amplifyapp.com/achievements/news/) for finishing in the top 30 in the competition organised by Nangyang Polytechnic. 
 
 [Congratulations to our Photoessay team](https://sdma.moe.edu.sg/cos/o.x?ptid=588&c=/sdma/sdma_gal&func=view&rid=4529) **broken link** for clinching the Silver Award (Photoessay category) at the 2017 Schools Digital Media Award jointly organised by MOE and Ngee Ann Polytechnic.
