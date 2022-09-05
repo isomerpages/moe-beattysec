@@ -9,7 +9,7 @@ third_nav_title: Performing Arts
 <img src="/images/choir1.jpg" style="width:49%" align="left">
 <img src="/images/choir2.jpg" style="width:49%" align="left">
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Choir" src="https://www.youtube.com/embed/ERPyIJEf3H0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERPyIJEf3H0" title="Beatty Secondary School - Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Beatty Secondary School’s Choir comprises passionate individuals who aspire to share their love for music and singing. We stage regular performances during school events such as the Annual Awards Day concert and the National Day Celebrations. In addition, the Choir works with external organisations to bring music and joy to the general masses during public events and participates in the Singapore Youth Festival Arts Presentation.
 
