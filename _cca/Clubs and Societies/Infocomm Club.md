@@ -34,4 +34,3 @@ Every Thursday: 3:30pm – 6:30pm
 ##### **Photos of Activities**
 
 <iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1S4mmHTmCDZuY-yExYhqUZgl751LihBJa9Fad1A01LG3pArsZz02WZ4ko9dMKnGuT_crOxVp6Ol3Z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
