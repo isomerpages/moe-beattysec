@@ -13,4 +13,4 @@ description: ""
 
 
 
-Click [here](https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space) for more information to reset your SLS Password
+Click [here](https://staging.d20c7gu3ctms61.amplifyapp.com/useful-links/singapore-sls/) for more information to reset your SLS Password
