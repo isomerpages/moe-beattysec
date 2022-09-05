@@ -24,7 +24,7 @@ Education and Career Guidance (ECG) aims to equip students with the necessary kn
 ##### **ECG Objectives and Key Programmes by levels**
 
 | Level | Objective | Key Programme |
-|:---:|:---:|:---:|
+|:---:|:---:|---|
 | **Sec 1** | Self-Awareness | - Discover Learning Styles and work values@Skillsfuture portal |
 | **Sec 2** | Career exploration and making informed choices at streaming | - Course Discovery Day <br>- Explore Career Interests@Skillsfuture portal |
 | **Sec 3** | Career exploration and planning | - Discover World of Work@Skillsfuture portal <br>- Learning Journey to institutions of higher learning and industries <br>- NYP attachment <br>- Work Attachment Programme <br>- AEM and EM<br>- EAE talk<br>- 3NA/NT EM |
@@ -39,6 +39,3 @@ For self-referral, please scan the QR code to book your request.
 <img src="/images/ecg4.png" style="width:25%;margin-right:15px;" align = "right">
 
 The QR code can be found in your classroom. Once the appointment has been confirmed, you will be notified through your Form Teacher.
-
-
-
