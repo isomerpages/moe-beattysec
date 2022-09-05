@@ -74,5 +74,3 @@ _**Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or l
 <figcaption> <strong> 5. You should see your child(ren)’s school announcements and activities (if any)
  </strong> </figcaption>
 </figure>
-
-
