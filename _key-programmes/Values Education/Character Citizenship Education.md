@@ -24,9 +24,6 @@ Curriculum time is every Wednesday and on some Thursdays. (one hour per lesson)
 |  **Level Outcomes**  |  A positive and committed student with a strong sense of belonging to the school.  |  A team player who values others and exhibits creativity and critical thinking in problem-solving.  |  A confident leader who cares for others and contributes actively to the community.  |  A global citizen who is a leader with integrity and rooted to Singapore.  |
 | **Values** |  |  Integrity<br><br>Responsibility<br><br>Resilience<br><br>Care<br><br>Creativity<br> |  |
 |  **SE Competencies**  | | Self –awareness<br><br>Self-management<br><br>Social awareness<br><br>Relationship management<br><br>Responsible decision making<br> |      |
-|  **CCE Curriculum** |  |    <br>LiVE Lessons<br><br>Cyber wellness<br><br>Education and Career Guidance<br><br>Sexuality Education<br><br>Social Skills<br><br>Circle Time |      |
-|  **Learning Experiences**  | | <br>Co-curricular Activities<br><br>National Education<br><br>VIA (Values-in-Action)<br><br>Student Leadership Programme<br><br>Environmental Programme<br><br>Assembly programmes<br> |    |
+|  **CCE Curriculum** |  |  LiVE Lessons<br><br>Cyber wellness<br><br>Education and Career Guidance<br><br>Sexuality Education<br><br>Social Skills<br><br>Circle Time |      |
+|  **Learning Experiences**  | | Co-curricular Activities<br><br>National Education<br><br>VIA (Values-in-Action)<br><br>Student Leadership Programme<br><br>Environmental Programme<br><br>Assembly programmes<br> |    |
 |
-
-
-
