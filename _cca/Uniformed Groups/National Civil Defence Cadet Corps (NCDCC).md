@@ -22,6 +22,7 @@ Our National Civil Defence Cadet Corps (NCDCC) unit aims to provide a purposeful
 Regular training sessions occur at the unit level, where our cadets are given the opportunities to train with peers with similar experiences to master the knowledge and skills required for promotion to their next rank. Core NCDCC activities include first aid, foot drills and performing community service. Our cadets also acquire various essential life skills such as fire safety and rescue methods as well as participate in other enrichment and teambuilding activities organised by the unit.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NCDCC - Together As One" src="https://www.youtube.com/embed/KtzPWlHfR9E" height="315" width="560"></iframe>
+<br>
 
 | Teacher In Charge |
 | --- |
