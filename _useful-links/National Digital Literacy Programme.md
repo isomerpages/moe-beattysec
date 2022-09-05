@@ -6,11 +6,7 @@ description: ""
 ### **National Digital Literacy Programme**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. Throughout their educational journey, students will be able to acquire digital skills across four components in the “Find, Think, Apply, Create” framework.
 
-<img src="/images/ndlp.png" 
-     style="width:100%">
-		 
-<img src="/images/ndlp.png" 
-     style="width:80%">		 
+![](/images/ndlp.png)
 		 
 One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
