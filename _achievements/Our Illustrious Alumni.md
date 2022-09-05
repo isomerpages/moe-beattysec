@@ -15,7 +15,23 @@ description: ""
 ![](/images/Oh%20Ying%20Jie.png)
 ![](/images/KellyKhiew.png)
 ![](/images/ABalakumaran.png)
+ 
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/TEO%20WEN%20PIN%20FELIX.jpg" align=left>
+</a></p>
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Chan%20Zheng%20Qi.jpg" align=left>
+</a></p>
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Liu%20Shuen%20Wei.png" align=left>
+</a></p><p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Noe%20Noe%20Su%20Aung.png" align=left>
+</a></p>	
+<p><a href="https://scmobile.moe.edu.sg/login">
+<img style="width:20%" src="/images/Tan%20Qiuyi.png" align=left>
+</a></p>	
 
+		 
 ##### **Articles**
 Read about [Ms Lim Xin Chelsea](http://www.tnp.sg/news/singapore/ndp-2016-produced-and-singaporeans), an ex-Beattyian who exemplified Creativity and Passion.<br>
 Read about [Ms Chua Hui Min](http://www.tnp.sg/news/singapore-news/student-hits-animation-success-her-fourth-try), an ex-Beattyian who exemplified Committment and Passion.<br>
