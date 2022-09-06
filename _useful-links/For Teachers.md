@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Useful Links for Teachers**
 
-##### **Beattyians' Links**
+#### **Beattyians' Links**
 
 <p><a href="https://vle.learning.moe.edu.sg/login">
 <img style="width:30%" src="/images/SLS%20tcher.jpg" align=left>
@@ -51,7 +51,7 @@ description: ""
 
 <br>
 
-##### **MOE Related Links (May require VPN)**
+#### **MOE Related Links (May require VPN)**
 
 <br>
 <p><a href="https://intranet.moe.gov.sg/">
