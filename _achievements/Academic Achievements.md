@@ -7,10 +7,10 @@ description: ""
 
 | Event | Recognition |
 |:---:|:---:|
-| Live On Design Competition 2020<br>(Organised by National Organ Transplant Unit) | Caden Goh Ding En (3N2) − Merit Award |
-| Live On Design Competition 2020<br> (Organised by National Organ Transplant Unit) | Nur Riana Puspita Dewi Binte Sabri − Merit Award |
+| Live On Design Competition 2020<br>(Organised by National Organ Transplant Unit) | ![](/images/Caden%20Goh.jpg) <br> Caden Goh Ding En (3N2) − Merit Award |
+| Live On Design Competition 2020<br> (Organised by National Organ Transplant Unit) | ![](/images/Nur%20Riana.jpg) <br> Nur Riana Puspita Dewi Binte Sabri − Merit Award |
 | Animation and Game Making Competition 2020<br>(Organised by Computer Education Unit/CPDD) |  Elly Syazneera Binte Mohd Fadel (2T1) – Animation Category, Silver Award<br>Muhammad Nur Syahir B Haroon (3T1) –<br>Game Category, Bronze Award |
-| SYF Art Exhibition  | Goh Si Hua - Certificate of Recognition<br>(Special Mention) |
+| SYF Art Exhibition  | <img src="/images/Goh%20Si%20Hua.png" style="width:65%"><br> Goh Si Hua - Certificate of Recognition<br>(Special Mention) |
 | "Our Estate. Our Home" GRC Interschool Art Competition 2018  | 1st Position - Goh Si Hua |
 |  10 Word Sentence Short Story Competition | Mark Alfonso - Top 3<br>Cristina Gale - Consolation<br>Chia Seng Hing - Consolation<br>Tiarra Tynisha - Consolation  |
 | Model United Nations Youth Conference  | Abdul Mateen -Best Delegate for Human Rights Council<br> Jordan Ng - Honorable Mention |
@@ -32,3 +32,16 @@ description: ""
 | (Applied Learning Programme) Inaugural Digital Making,<br>National Infocomm Challenge 2018 |  Best Integrated Solution |
 |
 
+
+
+
+![](/images/GRCInterschoolArtCompetition.png)
+![](/images/10Word.png)
+![](/images/uppersec.png)
+![](/images/lowersec.png)
+![](/images/Science%20Buskers%20Festival%202018.jpeg)
+![](/images/Create%20Our%20Own%20Newspapers%20Competition%20upper%20sec.png)
+![](/images/Create%20Our%20Own%20Newspapers%20Competition%20lower%20sec.png)
+![](/images/Tamil%20Literary%20Competition.jpg)
+![](/images/Tamil%20Budding%20Writers%20and%20Artists.jpg)
+![](/images/Sorkalam%202018.jpg)
