@@ -22,6 +22,7 @@ description: ""
 
 [AskNLearn](https://lms.asknlearn.com/BEATTY_SS/login.aspx)
 
+<br>
 <p><a href="https://icon.moe.edu.sg/">
 <img style="width:49%" src="/images/icon2%20tcher.jpg" align=left>
 </a></p>
@@ -29,6 +30,7 @@ description: ""
 
 [iCON 2.0](https://icon.moe.edu.sg/)
 
+<br>
 <p><a href="http://www.internationalsos.com/MasterPortal/">
 <img style="width:49%" src="/images/isos%20tcher.jpg" align=left>
 </a></p>
@@ -36,6 +38,7 @@ description: ""
 
 [ISOS Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/)
 
+<br>
 <p><a href="https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/">
 <img style="width:49%" src="/images/FB%20tcher.jpg" align=left>
 </a></p>
@@ -43,6 +46,7 @@ description: ""
 
 [Beatty Secondary Facebook Page](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/)
 
+<br>
 <p><a href="https://pg.moe.edu.sg/">
 <img style="width:49%" src="/images/PG%20tcher.jpg" align=left>
 </a></p>
