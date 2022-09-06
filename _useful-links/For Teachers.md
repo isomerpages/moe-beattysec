@@ -33,7 +33,7 @@ description: ""
 <img style="width:30%" src="/images/isos%20tcher.jpg" align=left>
 </a></p>
 
-[ISOS Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/)
+[ISOS Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/)- **broken link**
 
 <br>
 <p><a href="https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/">
@@ -58,7 +58,7 @@ description: ""
 <img style="width:30%" src="/images/intranet%20tcher.jpg" align=left>
 </a></p>
 
-[Ministry of Education (Intranet)](https://intranet.moe.gov.sg/)
+[Ministry of Education (Intranet)](https://intranet.moe.gov.sg/)- **broken link**
 
 <br>
 <p><a href="https://www.moe.gov.sg/">
@@ -72,14 +72,14 @@ description: ""
 <img style="width:30%" src="/images/sc2%20tcher.png" align=left>
 </a></p>
 
-[School Cockpit](https://schoolcockpit.moe.edu.sg/)
+[School Cockpit](https://schoolcockpit.moe.edu.sg/)- **broken link**
 
 <br>
 <p><a href="https://schoolcockpit.moe.gov.sg/">
 <img style="width:30%" src="/images/scplus%20tcher.jpg" align=left>
 </a></p>
 
-[School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
+[School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)- **broken link**
 
 <br>
 <p><a href="https://scmobile.moe.edu.sg/">
@@ -93,14 +93,14 @@ description: ""
 <img style="width:30%" src="/images/traisi%20tcher.jpg" align=left>
 </a></p>
 
-[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
+[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)- **broken link**
 
 <br>
 <p><a href="https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fmydesk.opal.moe.edu.sg%2F">
 <img style="width:30%" src="/images/opal%20tcher.jpg" align=left>
 </a></p>
 
-[OPAL](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fmydesk.opal.moe.edu.sg%2F)
+[OPAL](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fmydesk.opal.moe.edu.sg%2F)- **broken link**
 
 <br>
 <p><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/">
@@ -109,7 +109,7 @@ description: ""
 
 **image unavailable**
 
-[HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
+[HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)- **broken link**
 
 <br>
 <p><a href="http://www.seab.gov.sg/">
@@ -123,7 +123,7 @@ description: ""
 <img style="width:30%" src="/images/schoolbag%20tcher.jpg" align=left>
 </a></p>
 
-[Schoolbag](https://schoolbag.sg/)
+[Schoolbag](https://schoolbag.sg/)- **broken link**
 
 <br>
 
