@@ -8,9 +8,9 @@ description: ""
 ##### **Beattyians' Links**
 
 <p><a href="https://vle.learning.moe.edu.sg/login">
-<img style="width:49%" src="/images/SLS%20tcher.jpg" align=left>
+<img style="width:30%" src="/images/SLS%20tcher.jpg" align=left>
 </a></p>
-<br>
+
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
