@@ -15,15 +15,15 @@ description: ""
 |  10 Word Sentence Short Story Competition |![](/images/10Word.png) Mark Alfonso - Top 3<br>Cristina Gale - Consolation<br>Chia Seng Hing - Consolation<br>Tiarra Tynisha - Consolation  |
 | Model United Nations Youth Conference  | Abdul Mateen -Best Delegate for Human Rights Council<br> Jordan Ng - Honorable Mention |
 | Chinese Newspaper Making Competition 2019 | ![](/images/uppersec.png)Upper Sec - Silver Award<br>![](/images/lowersec.png)LowerSec - Recognition Award |
-|  Science Buskers Festival 2018 | Reached Finals  |
+|  Science Buskers Festival 2018 |<img src="/images/Science%20Buskers%20Festival%202018.jpeg" style="width:65%">Reached Finals  |
 | National Earthquake Challenge organised by Singapore Poly | 1st Runner Up |
 | 2018 SYF Art Exhibition: Artist and Citizenship  | Certificate of Recognition (Special Mention) |
-| Create Our Own Newspapers Competition organised by ZB SPH, CPCLL and Xin Min Sec School  | Upper Sec Team – Silver Award<br>Lower Sec Team – Silver Award |
+| Create Our Own Newspapers Competition organised by ZB SPH, CPCLL and Xin Min Sec School  | ![](/images/Create%20Our%20Own%20Newspapers%20Competition%20upper%20sec.png)Upper Sec Team – Silver Award<br> ![](/images/Create%20Our%20Own%20Newspapers%20Competition%20lower%20sec.png)Lower Sec Team – Silver Award |
 | Chinese Creative Writing Competition organised by Hokkien Huey Kuan  | Silver Award |
-| Tamil Literary Competition organised by<br>Raffles Institution | Consolation Prize in Oratorical<br>Consolation Prize in Singing |
+| Tamil Literary Competition organised by<br>Raffles Institution |![](/images/Tamil%20Literary%20Competition.jpg) Consolation Prize in Oratorical<br>Consolation Prize in Singing |
 |  Tamil Literary Competition organised by Guangyang Secondary School | 2nd Prize in Essay Writing Competition<br>3rd Prize in Oratorical Competition<br>3rd Prize in Singing Competition |
-|  Tamil Budding Writers and Artists organised by CPDD and MOE | Gold Awards (2 students) |
-| Sorkalam 2018 organised by PA IEACS and Central Singapore CDC  | Reached Semi-Finals |
+|  Tamil Budding Writers and Artists organised by CPDD and MOE | ![](/images/Tamil%20Budding%20Writers%20and%20Artists.jpg)Gold Awards (2 students) |
+| Sorkalam 2018 organised by PA IEACS and Central Singapore CDC  |![](/images/Sorkalam%202018.jpg) Reached Semi-Finals |
 |  Navarasa Thiruvizha 2018 organised by Kallang CC IEAC | Consolation Prize in Rangoli Kolam Competition |
 | Plain English Speaking Award (PESA)  | Daniella Yeo |
 |  All IN! Young Writers’ Festival | Alicia Sim Yan Ting – Consolation Prize for the 10-word story competition |
@@ -32,16 +32,3 @@ description: ""
 | (Applied Learning Programme) Inaugural Digital Making,<br>National Infocomm Challenge 2018 |  Best Integrated Solution |
 |
 
-
-
-
-
-
-
-
-![](/images/Science%20Buskers%20Festival%202018.jpeg)
-![](/images/Create%20Our%20Own%20Newspapers%20Competition%20upper%20sec.png)
-![](/images/Create%20Our%20Own%20Newspapers%20Competition%20lower%20sec.png)
-![](/images/Tamil%20Literary%20Competition.jpg)
-![](/images/Tamil%20Budding%20Writers%20and%20Artists.jpg)
-![](/images/Sorkalam%202018.jpg)
