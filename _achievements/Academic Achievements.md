@@ -7,14 +7,14 @@ description: ""
 
 | Event | Recognition |
 |:---:|:---:|
-| Live On Design Competition 2020<br>(Organised by National Organ Transplant Unit) | ![](/images/Caden%20Goh.jpg) <br> Caden Goh Ding En (3N2) − Merit Award |
-| Live On Design Competition 2020<br> (Organised by National Organ Transplant Unit) | ![](/images/Nur%20Riana.jpg) <br> Nur Riana Puspita Dewi Binte Sabri − Merit Award |
+| Live On Design Competition 2020<br>(Organised by National Organ Transplant Unit) | ![](/images/Caden%20Goh.jpg)  Caden Goh Ding En (3N2) − Merit Award |
+| Live On Design Competition 2020<br> (Organised by National Organ Transplant Unit) | ![](/images/Nur%20Riana.jpg)  Nur Riana Puspita Dewi Binte Sabri − Merit Award |
 | Animation and Game Making Competition 2020<br>(Organised by Computer Education Unit/CPDD) |  Elly Syazneera Binte Mohd Fadel (2T1) – Animation Category, Silver Award<br>Muhammad Nur Syahir B Haroon (3T1) –<br>Game Category, Bronze Award |
-| SYF Art Exhibition  | <img src="/images/Goh%20Si%20Hua.png" style="width:65%"><br> Goh Si Hua - Certificate of Recognition<br>(Special Mention) |
-| "Our Estate. Our Home" GRC Interschool Art Competition 2018  | 1st Position - Goh Si Hua |
-|  10 Word Sentence Short Story Competition | Mark Alfonso - Top 3<br>Cristina Gale - Consolation<br>Chia Seng Hing - Consolation<br>Tiarra Tynisha - Consolation  |
+| SYF Art Exhibition  | <img src="/images/Goh%20Si%20Hua.png" style="width:65%"> Goh Si Hua - Certificate of Recognition<br>(Special Mention) |
+| "Our Estate. Our Home" GRC Interschool Art Competition 2018  | ![](/images/GRCInterschoolArtCompetition.png) 1st Position - Goh Si Hua |
+|  10 Word Sentence Short Story Competition |![](/images/10Word.png) Mark Alfonso - Top 3<br>Cristina Gale - Consolation<br>Chia Seng Hing - Consolation<br>Tiarra Tynisha - Consolation  |
 | Model United Nations Youth Conference  | Abdul Mateen -Best Delegate for Human Rights Council<br> Jordan Ng - Honorable Mention |
-| Chinese Newspaper Making Competition 2019 | Upper Sec - Silver Award<br>LowerSec - Recognition Award |
+| Chinese Newspaper Making Competition 2019 | ![](/images/uppersec.png)Upper Sec - Silver Award<br>![](/images/lowersec.png)LowerSec - Recognition Award |
 |  Science Buskers Festival 2018 | Reached Finals  |
 | National Earthquake Challenge organised by Singapore Poly | 1st Runner Up |
 | 2018 SYF Art Exhibition: Artist and Citizenship  | Certificate of Recognition (Special Mention) |
@@ -35,10 +35,10 @@ description: ""
 
 
 
-![](/images/GRCInterschoolArtCompetition.png)
-![](/images/10Word.png)
-![](/images/uppersec.png)
-![](/images/lowersec.png)
+
+
+
+
 ![](/images/Science%20Buskers%20Festival%202018.jpeg)
 ![](/images/Create%20Our%20Own%20Newspapers%20Competition%20upper%20sec.png)
 ![](/images/Create%20Our%20Own%20Newspapers%20Competition%20lower%20sec.png)
