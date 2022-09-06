@@ -53,14 +53,78 @@ description: ""
 
 ##### **MOE Related Links (May require VPN)**
 
-![](/images/intranet%20tcher.jpg)
-![](/images/MOE%20tcher.jpg)
-![](/images/sc2%20tcher.png)
-![](/images/scplus%20tcher.jpg)
-![](/images/scmobile%20tcher.jpg)
-![](/images/traisi%20tcher.jpg)
-![](/images/opal%20tcher.jpg)
-![](/images/seab%20tcher.jpg)
-![](/images/schoolbag%20tcher.jpg)
+<br>
+<p><a href="https://intranet.moe.gov.sg/">
+<img style="width:30%" src="/images/intranet%20tcher.jpg" align=left>
+</a></p>
+
+[Ministry of Education (Intranet)](https://intranet.moe.gov.sg/)
+
+<br>
+<p><a href="https://www.moe.gov.sg/">
+<img style="width:30%" src="/images/MOE%20tcher.jpg" align=left>
+</a></p>
+
+[Ministry of Education](https://www.moe.gov.sg/)
+
+<br>
+<p><a href="https://schoolcockpit.moe.edu.sg/">
+<img style="width:30%" src="/images/sc2%20tcher.png" align=left>
+</a></p>
+
+[School Cockpit](https://schoolcockpit.moe.edu.sg/)
+
+<br>
+<p><a href="https://schoolcockpit.moe.gov.sg/">
+<img style="width:30%" src="/images/scplus%20tcher.jpg" align=left>
+</a></p>
+
+[School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
+
+<br>
+<p><a href="https://scmobile.moe.edu.sg/">
+<img style="width:30%" src="/images/scmobile%20tcher.jpg" align=left>
+</a></p>
+
+[SC Mobile](https://scmobile.moe.edu.sg/)
+
+<br>
+<p><a href="https://traisi.moe.gov.sg/AD/login.asp">
+<img style="width:30%" src="/images/traisi%20tcher.jpg" align=left>
+</a></p>
+
+[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
+
+<br>
+<p><a href="https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fmydesk.opal.moe.edu.sg%2F">
+<img style="width:30%" src="/images/opal%20tcher.jpg" align=left>
+</a></p>
+
+[OPAL](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fmydesk.opal.moe.edu.sg%2F)
+
+<br>
+<p><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/">
+<img style="width:30%" src="/images/seab%20tcher.jg" align=left>
+</a></p> 
+
+**image unavailable**
+
+[HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
+
+<br>
+<p><a href="http://www.seab.gov.sg/">
+<img style="width:30%" src="/images/seab%20tcher.jpg" align=left>
+</a></p>
+
+[Singapore Examinations & Assessment Board](http://www.seab.gov.sg/)
+
+<br>
+<p><a href="https://schoolbag.sg/">
+<img style="width:30%" src="/images/schoolbag%20tcher.jpg" align=left>
+</a></p>
+
+[Schoolbag](https://schoolbag.sg/)
+
+<br>
 
 Click [here](https://staging.d20c7gu3ctms61.amplifyapp.com/useful-links/singapore-sls/) for more information to reset your SLS Password
