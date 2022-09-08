@@ -5,6 +5,10 @@ description: ""
 third_nav_title: For Students & Parents
 ---
 ### **Parents Gateway**
+
+<img src="/images/PGlogo.png" 
+     style="width:25%">
+
 Parents Gateway is an initiative by MOE to enable parents with SingPass to interact with schools more conveniently on administrative matters. Parents will also be able to use this app to stay updated on school’s programme and activities.
 
 Through this app, Parents will be able to:
