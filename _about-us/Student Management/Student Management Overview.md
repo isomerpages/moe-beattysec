@@ -28,7 +28,7 @@ Every Beattyian has the responsibility to ensure the safety of others by behavin
 | Discipline Mistress | Ms Fauziah Binte Mohd Shariff | 62569108 Ext 189 |
 |:---:|:---:|:---:|
 | SH/Student Management | Mr Mok Choong Leng | 62569108 Ext 211 |
-| Discipline Level Coordinators |  |  |
+| **Discipline Level Coordinators** |  |  |
 | Sec 1 Level | Mdm Chiang Heng Jiak<br>Mdm Siti Zubaidah | 62569108 Ext 139<br>62569108 Ext 138 |
 | Sec 2 Level | Mr Sin Lai Keong | 62569108 Ext 213 |
 | Sec 3 Level | Mr Sivaneson | 62569108 Ext 148 |
@@ -61,6 +61,3 @@ Activities/programmes are designed to be engaging and meaningful with the aim to
 * Racial Harmony promotion booth 
 * VIA activities 
 * Counselling
-
-
-
