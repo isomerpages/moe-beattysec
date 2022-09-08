@@ -47,34 +47,34 @@ _**Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or l
 <figure>
 <img src="/images/pg1.jpg" 
      style="width:25%">
-<figcaption> <strong> 1. Tap on “Log in with SingPass”	
- </strong> </figcaption>
+<figcaption>  1. Tap on “Log in with SingPass”	
+ </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pg2.jpg" 
      style="width:25%">
-<figcaption> <strong> 2. Log in with your SingPass (2FA)		
- </strong> </figcaption>
+<figcaption>  2. Log in with your SingPass (2FA)		
+ </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pg3.jpg" 
      style="width:25%">
-<figcaption> <strong> 3. Tap on “Retrieve” to retrieve your child(ren)’s information	
- </strong> </figcaption>
+<figcaption>  3. Tap on “Retrieve” to retrieve your child(ren)’s information	
+ </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pg4.jpg" 
      style="width:25%">
-<figcaption> <strong> 4. Tap on “Done” to complete on-boarding	
- </strong> </figcaption>
+<figcaption>  4. Tap on “Done” to complete on-boarding	
+ </figcaption>
 </figure>
 
 <figure>
 <img src="/images/pg5.jpg" 
      style="width:25%">
-<figcaption> <strong> 5. You should see your child(ren)’s school announcements and activities (if any)
- </strong> </figcaption>
+<figcaption>  5. You should see your child(ren)’s school announcements and activities (if any)
+  </figcaption>
 </figure>
