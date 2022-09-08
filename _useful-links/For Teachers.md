@@ -104,12 +104,13 @@ description: ""
 
 <br>
 <p><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/">
-<img style="width:30%" src="/images/seab%20tcher.jg" align=left>
+<img style="width:30%" src="/images/hrms.jpg" align=left>
 </a></p> 
 
-**image unavailable**
 
 [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)- **broken link**
+
+
 
 <br>
 <p><a href="http://www.seab.gov.sg/">
