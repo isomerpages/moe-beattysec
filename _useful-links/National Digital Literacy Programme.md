@@ -50,4 +50,11 @@ Every iPad comes with one year of hardware repair coverage through its one-year
 ##### **Resources for Students/Parents**
 [Parent Handbook (I) & (II) on Learning with a Personal Learning Device](https://www.yumpu.com/en/document/view/65806200/parent-handbook-i-on-learning-with-a-personal-learning-device "Parent Handbook (I) on Learning with a Personal Learning Device")
 
-**yumpu embedded**
+
+<p><a href="https://www.yumpu.com/en/document/view/65806200/parent-handbook-i-on-learning-with-a-personal-learning-device">
+<img style="width:26%" src="/images/ndlpph1.jpg" align=left>
+</a></p>
+
+<p><a href="https://www.yumpu.com/en/document/view/65806207/parent-handbook-ii-on-learning-with-a-personal-learning-device">
+<img style="width:26%" src="/images/ndlpph2.jpg" align=left>
+</a></p>
