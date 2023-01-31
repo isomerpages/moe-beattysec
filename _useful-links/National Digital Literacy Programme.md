@@ -27,8 +27,8 @@ Each PLD bundle will come with the Apple Pencil (1st Generation) & Logitech Keyb
 | Apple iPad 10.2" 64GB, Wi-Fi (2021)<br>_with 3-year Apple Care+ for Schools & 3-year insurance_ | $566.00 |
 | Apple Pencil (1st Generation) | $105.00 |
 | Logitech Keyboard Case (Ruggedized Combo 3) | $116.00 |
-|  Total (without GST) | $787.00 |
-| (Total with GST)  | $842.09 |
+|  Total (without GST) | $794.00 |
+| (Total with GST)  | $857.50 |
 |
 
 | Warranty & Insurance | |
