@@ -15,5 +15,5 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /latest-happenings/
-      background: /images/Banner.png
+      background: /images/HeroBanner.png
 ---
