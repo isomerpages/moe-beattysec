@@ -3,7 +3,7 @@ url: https://www.beattysecondaryschool.com.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#000c53"
-  secondary-color: "#ffe200"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
