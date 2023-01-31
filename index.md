@@ -2,7 +2,7 @@
 layout: homepage
 title: Beatty Secondary School
 description: Brief site description here
-image: /images/logo.png
+image: /images/BTlogo.png
 permalink: /
 notification: ""
 sections:
@@ -20,3 +20,4 @@ sections:
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
 ---
+
