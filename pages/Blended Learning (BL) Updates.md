@@ -1393,7 +1393,8 @@ Mondays – Fridays 9:00 am – 4:00 pm
 
 
 **SLS Helpdesk** (any other help school admin cannot resolve)
-Email: [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)
+
+Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 Tel: (65) 6702 6513
 
 Mondays ― Fridays: 9:00 am - 9:00 pm
