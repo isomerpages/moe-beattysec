@@ -15,7 +15,7 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /latest-happenings/
-        - title: Blended Learning Updates
+        - title: Blended Learning (BL) Updates
           description: ""
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
