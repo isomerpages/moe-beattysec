@@ -3,142 +3,1438 @@ title: Blended Learning (BL) Updates
 permalink: /blended-learning-updates/
 description: ""
 ---
-
-### **Blended Learning (BL) Updates**
-
-**Instructions for Blended Learning for Secondary 1, 2 & 3**
-
-Dear Parents/ Guardians and students,
-
-Blended Learning for Term 3 will begin on 6 July for all Secondary 1 to 3 students and will take place on the Wednesday of every EVEN week.
-
-The subjects rostered for blended learning days in Semester 2 is as follow.
-
-##### **Sec 1 E / 1 NA / 2 E / 2NA**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| English | English | English | English | English | English |
-| Math | Math | Math | Math | Math | Math |
-| Science | Science | Science | Science | Science | Science |
-| MTL | MTL | MTL | MTL | MTL | MTL |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-##### **Sec 1 NT / 2 NT**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| English | English | English | English | English | English |
-| Math | Math | Math | Math | Math | Math |
-| Science | MTL | Science | Science | Science | MTL |
-| ENT | ENT | ENT | CPA | ENT | ENT |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-##### **Sec 3E1**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| Math | English | English | English | English | English |
-| MTL | A Math | Math | A Math | Math | MTL |
-| A Math | Physics | MTL | Physics | MTL | Social Studies |
-| Biology | Chemistry | Elective Geo / Elective His | Chemistry | Biology | Biology |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-##### **Sec 3E2 / 3E3 / 3E4 / 3E5**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| Math | English | English | English | English | English |
-| MTL | A Math/ POA | Math | A Math/ POA | Math | MTL |
-| A Math/ POA | Science (Chem) | MTL | Science (Chem) | MTL | Social Studies |
-| Geo /Lit /DT /Art /FN | Science<br>(Phy / Bio) | Elective Geo / Elective His | Science<br>(Phy / Bio) | Geo /Lit /DT /Art /FN | Geo /Lit /DT /Art /FN |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-##### **Sec 3 NA**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| English | English | English | MTL | English | English |
-| Math | Math | Math | Science<br>(Phy / Bio) | Math | Math |
-| MTL | Science (Chem) | MTL | Science (Chem) | MTL | MTL |
-| A Math/ POA/ DT/ Art/ FN | Science<br>(Phy / Bio) | Elective Geo / Elective His | A Math/ POA/ DT/ Art/ FN | A Math/ POA/ DT/ Art/ FN | Social Studies |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-##### **Sec 3NT**
-
-|  |  | Term 3 |  |  | Term 4 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| W2<br>(6 Jul) | W4<br>(20 Jul) | W6<br>(3 Aug) | W8<br>(17 Aug) | W10<br>(31 Aug) | W1<br>(21 Sep) |
-| English | English | English | Math | English | English |
-| Math | Math | Math | SET/Science | Math | MTL |
-| MTL | MTL | MTL | DT/FS/EBS | MTL | DT/FS/EBS |
-| CPA | DT/FS/EBS | SET/Science | CPA | SET/Science | CPA |
-| SIL | SIL | SIL | SIL | SIL | - |
-|
-
-Students are required to complete all lessons assigned on the blended learning day itself.
-
-The plans and instructions for blended learning assignments will be made available to parents via a link in Parents Gateway. Students will also receive the links from their FTs.
-
-All instructions for blended learning lessons will be available by 9pm on the Tuesday before the blended learning day.
-
-Do check with your child’s FTs if you have any queries.
-
----------------------------------------------------------------------------
-
-##### **Blended Learning (BL) Information**
-
-Some of the BL lessons will be available via the Singapore Student Learning Space (SLS). All students are required to complete the lessons assigned to them by the stipulated deadline in the SLS during this duration. The link to the site is [https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/)
-
-More information on accessing the SLS is available at [https://staging.d20c7gu3ctms61.amplifyapp.com/useful-links/singapore-sls/](https://staging.d20c7gu3ctms61.amplifyapp.com/useful-links/singapore-sls/)
-
-For help in accessing SLS, you may contact the following:
-
-| Task | Contact (in the following order) |
-|---|---|
-| Resetting of SLS passwords | 1. Self-reset via verified email or security questions <br>2. Form Teachers <br>3. School Administrators<br>4. SLS Login Issues Form |
-| To unlock SLS accounts | 1. School Admin<br>2. SLS Login Issues Form |
-|
-
-##### **Useful Contacts:**
-**Beatty Sec School Based SLS Helpline**
-
-| School Admin | Ext | Email |
-|---|---|---|
-| Mr Rohmannan | 6256 9108 Ext 167 | [rohmannan_amran@moe.edu.sg](mailto:rohmannan_amran@moe.edu.sg) |
-| Mrs Florence Ng | 6256 9108 Ext 123 | [chan_hui_lian@moe.edu.sg](mailto:chan_hui_lian@moe.edu.sg) |
-| Ms Yuen Shu Yan | 6256 9108 Ext 205 | [yuen_shu_yan@moe.edu.sg](mailto:yuen_shu_yan@moe.edu.sg) |
-| Mr Chan Jen Wuu | 6256 9108 Ext 148 | [chan_jen_wuu@moe.edu.sg](mailto:chan_jen_wuu@moe.edu.sg) |
-| Mrs Parthi | 6256 9108 Ext 135 | [buvana_ramalingam@moe.edu.sg](mailto:buvana_ramalingam@moe.edu.sg) |
-|
-
-**SLS Login Issues Form**<br>
-[https://go.gov.sg/beattysls](https://go.gov.sg/beattysls)<br>
-Mondays – Fridays 9:00am – 4:00pm
-
-**SLS Helpdesk** (any other help school admin cannot resolve)  <br>
-Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  <br>
-Tel: (65) 6702 6513
-
-Mondays ― Fridays: 9:00 am - 9:00 pm  <br>
-Saturdays: 9:00 am - 9:00 pm  <br>
-\*Closed on Sundays & Public Holidays 
-
-**iMTL**   <br>
-Email address:  [helpdesk@mail-imtl.moe.edu.sg](mailto:helpdesk@mail-imtl.moe.edu.sg)  <br>
-Tel:  (65) 6848 8900
-
-Operating Hours  <br>
-Mondays to Fridays: 7:00 am – 7:00 pm  <br>
-Saturdays: 7:00 am – 2:00 pm   <br>
-\*Closed on Sundays & Public Holidays
+<p><b>Instructions  for Blended Learning</b></p>
+<p>Dear  Parents/ Guardians and students,</p>
+<p>Blended  Learning for Term 1 will begin on 25 Jan for all Secondary 1 to 4 students and  will take place on the Wednesday of every EVEN week. </p>
+<p>The  subjects rostered for blended learning days in Semester 1 are as follows.</p>
+<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; width: 796px;">Secondary 1 &amp; 2<br>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+			
+<td>Math
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+			
+<td>Science
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+	
+</tbody>
+</table>
+<br>
+<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; width: 796px;">Secondary 3 Express
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Pure Chem / Sci Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Pure Chem / Sci Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Pure Chem / Sci Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Pure Chem / Sci Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+		
+</tr>
+	
+</tbody>
+</table>
+<br>
+<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; width: 796px;">Secondary 3 Normal (A)
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / A Math / POA
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Sc Chem
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Sc Chem
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Sc Chem
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Sc Chem
+</td>
+			
+<td>&nbsp;
+</td>
+		
+</tr>
+	
+</tbody>
+</table><br>
+<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; width: 796px;">&nbsp;Secondary 3 Normal (T)
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T / ART
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T / ART
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T / ART
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T / ART
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+		
+</tr>
+	
+</tbody>
+</table><br>
+<table border="1" cellspacing="0" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; ">Secondary 4 Express / 5 Normal (A)
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+			
+<td>Math
+</td>
+			
+<td>A Math / POA
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Sci Physics / Sci Bio / Pure Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Sci Physics / Sci Bio / Pure Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Sci Physics / Sci Bio / Pure Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+			
+<td>Sci Physics / Sci Bio / Pure Chem
+</td>
+			
+<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+			
+<td>&nbsp;
+</td>
+			
+<td>Pure Physics
+</td>
+		
+</tr>
+	
+</tbody>
+</table><br>
+<table border="1" cellspacing="0" style="background-color: initial;" class="iveo_table ives_tab_modern2">
+<tbody>
+<tr>
+<th colspan="8" style="text-align: center; ">Secondary 4 Normal (A)
+</th>
+</tr>
+<tr>
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+</tr>
+<tr>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+<td>English
+</td>
+</tr>
+<tr>
+<td>MTL
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+<td>MT
+</td>
+</tr>
+<tr>
+<td>Math
+</td>
+<td>F&amp;N / D&amp;T / Art / A Math / POA
+</td>
+<td>Math
+</td>
+<td>FN/DT/Art/ AM/POA
+</td>
+<td>Math
+</td>
+<td>FN/DT/Art/ AM/POA
+</td>
+<td>Math
+</td>
+<td>FN/DT/Art/ AM/POA
+</td>
+</tr>
+<tr>
+<td>Sci Physics / Sci Bio
+</td>
+<td>&nbsp;
+</td>
+<td>Sci Physics / Sci Bio
+</td>
+<td>&nbsp;
+</td>
+<td>Sci Physics / Sci Bio
+</td>
+<td>&nbsp;
+</td>
+<td>Sci Physics / Sci Bio
+</td>
+<td>&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="1" cellspacing="0" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th colspan="8" style="text-align: center; ">Secondary 4 Normal (T)
+</th>
+		
+</tr>
+		
+<tr>
+			
+<th>
+<div style="text-align: center;">T1W4
+</div>
+<div style="text-align: center;">25 Jan
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W6
+</div>
+<div style="text-align: center;">8 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W8
+</div>
+<div style="text-align: center;">22 Feb
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T1W10
+</div>
+<div style="text-align: center;">8 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W2
+</div>
+<div style="text-align: center;">29 Mar
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W4
+</div>
+<div style="text-align: center;">12 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W6
+</div>
+<div style="text-align: center;">26 Apr
+</div>
+</th>
+			
+<th>
+<div style="text-align: center;">T2W8
+</div>
+<div style="text-align: center;">10 May
+</div>
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+			
+<td>English
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+			
+<td>MTL
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T
+</td>
+			
+<td>Math
+</td>
+			
+<td>EBS / NFS / D&amp;T
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+			
+<td>SET / Science
+</td>
+		
+</tr>
+	
+</tbody>
+</table>
+<br>
+<p>Students are  required to complete all lessons assigned on the blended learning day itself.</p><p>
+  The plans and  instructions for blended learning assignments will be made available to parents  via a link in Parents Gateway. Students will also receive the links from their  FTs.</p><p>All instructions  for blended learning lessons will be available by 9pm on the Tuesday before the  blended learning day.</p><p>
+  Do check with  your child’s FTs if you have any queries.</p><br><hr><br><p><b style="background-color: initial;"><i></i></b></p><p><a href="https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space" target="_blank"></a></p><p><b><i>Blended Learning (BL) Information</i></b></p><p>Some of the BL lessons will be available via the Singapore Student Learning Space (SLS). All students are required to complete the lessons assigned to them by the stipulated deadline in the SLS during this duration. The link to the site is <a href="https://vle.learning.moe.edu.sg/" target="_blank">https://vle.learning.moe.edu.sg/</a></p><p>More information on accessing the SLS is available at <a href="https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space" target="_blank">https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space</a></p><p>For help in accessing SLS, you may contact the following:</p>
+<table border="1" cellspacing="0" class="iveo_table ives_tab_modern2" style="width: 795px;">
+<tbody>
+<tr>
+<th style="width: 257px;">Task<br>
+</th>
+<th style="width: 539px;">Contact (in the following order)<br>
+</th>
+</tr>
+<tr>
+<td style="height: 45.85pt; vertical-align: top; width: 166.25pt;">Resetting of SLS passwords
+</td>
+<td style="height: 45.85pt; vertical-align: top; width: 355.5pt;">1. Self-reset via verified email or security questions&nbsp;<br>2. Form Teachers&nbsp;<br>3. School Administrators
+<br>4. SLS Login Issues Form
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; width: 166.25pt;">To unlock SLS accounts
+</td>
+<td style="vertical-align: top; width: 355.5pt;">1. School Admin
+<br>2. SLS Login Issues Form
+</td>
+</tr>
+</tbody>
+</table><p><strong><br>Useful Contacts:</strong></p><p><strong>Beatty Sec School Based SLS Helpline</strong></p>
+<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+	
+<tbody>
+		
+<tr>
+			
+<th style="width: 178px;">
+			School Admin
+			
+</th>
+			
+<th style="width: 167px;">
+			Ext
+			
+</th>
+			
+<th style="width: 450px;">
+			Email
+			
+</th>
+		
+</tr>
+		
+<tr>
+			
+<td>
+			Mr Rohmannan
+			
+</td>
+			
+<td>
+			6256 9108 Ext 167
+			
+</td>
+			
+<td>
+			<a href="mailto:rohmannan_amran@moe.edu.sg" target="">rohmannan_amran@moe.edu.sg</a>
+			
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>
+			Mrs Florence Ng
+			
+</td>
+			
+<td>6256 9108 Ext 123<br>
+</td>
+			
+<td><a href="mailto:chan_hui_lian@moe.edu.sg" target="">chan_hui_lian@moe.edu.sg</a><br>
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>
+			Ms Yuen Shu Yan
+			
+</td>
+			
+<td>6256 9108 Ext 205<br>
+</td>
+			
+<td><a href="mailto:yuen_shu_yan@moe.edu.sg" target="">yuen_shu_yan@moe.edu.sg</a><br>
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>
+			Ms Irene Ng
+</td>
+			
+<td>6256 9108 Ext&nbsp;214 <br>
+</td>
+			
+<td><a href="mailto:ng_hoon_ling_irene@moe.edu.sg" target="">ng_hoon_ling_irene@moe.edu.sg</a><br>
+</td>
+		
+</tr>
+		
+<tr>
+			
+<td>
+			Mrs Parthi
+			
+</td>
+			
+<td>6256 9108 Ext 135<br>
+</td>
+			
+<td><a href="mailto:buvana_ramalingam@moe.edu.sg" target="">buvana_ramalingam@moe.edu.sg</a><br>
+</td>
+		
+</tr>
+	
+</tbody>
+</table>
+<p><br><b>SLS Login Issues Form</b><br><a href="https://go.gov.sg/beattysls" target="">https://go.gov.sg/beattysls</a><b><br></b></p><p><span style="background-color: initial;">Mondays – Fridays 9:00 am – 4:00 pm</span><br></p><p><strong>SLS Helpdesk</strong>&nbsp;(any other help school admin cannot resolve)<br>Email:&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" target="_blank">helpdesk@sls.ufinity.com</a><br>Tel: (65) 6702 6513</p><p>Mondays ― Fridays: 9:00 am - 9:00 pm<br>Saturdays: 9:00 am - 9:00 pm<br>*Closed on Sundays &amp; Public Holidays<strong>&nbsp;</strong></p><p><strong>iMTL&nbsp;</strong><br>Email address:&nbsp;&nbsp;<a href="mailto:helpdesk@mail-imtl.moe.edu.sg" target="_blank">helpdesk@mail-imtl.moe.edu.sg</a><br>Tel:&nbsp; (65) 6848 8900</p><p>Operating Hours<br>Mondays to Fridays: 7:00 am – 7:00 pm<br>Saturdays: 7:00 am – 2:00 pm&nbsp;<br>*Closed on Sundays &amp; Public Holidays&nbsp;</p>
