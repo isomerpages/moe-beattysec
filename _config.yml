@@ -1,6 +1,6 @@
 title: Beatty Secondary School
 url: https://www.beattysecondaryschool.com.sg
-favicon: /images/logo.png
+favicon: /images/BTlogo.png
 colors:
   primary-color: "#000c53"
   secondary-color: "#001386"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d20c7gu3ctms61.amplifyapp.com
 prod: https://master.d20c7gu3ctms61.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/BTlogo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
