@@ -1321,9 +1321,9 @@ Do check with your child’s FTs if you have any queries.
 
 ### **Blended Learning (BL) Information**
 
-Some of the BL lessons will be available via the Singapore Student Learning Space (SLS). All students are required to complete the lessons assigned to them by the stipulated deadline in the SLS during this duration. The link to the site is https://vle.learning.moe.edu.sg/
+Some of the BL lessons will be available via the Singapore Student Learning Space (SLS). All students are required to complete the lessons assigned to them by the stipulated deadline in the SLS during this duration. The link to the site is [https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/)
 
-More information on accessing the SLS is available at https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space
+More information on accessing the SLS is available at [https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space](https://beattysec.moe.edu.sg/useful-links/singapore-student-learning-space)
 
 **For help in accessing SLS, you may contact the following:**
 
@@ -1402,7 +1402,7 @@ Saturdays: 9:00 am - 9:00 pm
 
 **iMTL**
 
-Email address:  helpdesk@mail-imtl.moe.edu.sg
+Email address:  [helpdesk@mail-imtl.moe.edu.sg](mailto:helpdesk@mail-imtl.moe.edu.sg)
 Tel:  (65) 6848 8900
 
 Operating Hours
