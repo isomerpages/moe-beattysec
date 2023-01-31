@@ -40,25 +40,14 @@ Curious to know what else Beatty Secondary School has to offer? Enjoy a **360**
 
 Find out more about what students, alumni, teachers and parents have to say about The **Beatty Experience** in our corporate brochure!
 
-**yumpu corporate brochure**
 
-**document**
-
-![](/images/Live%20Engagement%20Session%20with%20School%20Leaders%202022.jpg)
-
-Access the following link to register your interest for the **Live Engagement Session** with the School Leaders:<br>
-[go.gov.sg/beattysecopenhouse22](http://go.gov.sg/beattysecopenhouse22)
-
-**Details of Zoom Webinar:** <br>
-**ID:** 859 2182 9620<br>
-**Passcode:** 280522
 
 ![](/images/Join%20Us%20At%20Beatty.jpg)
 
 ##### **Connect with Us!**
 
 <img src="/images/FBicon.png" style="width:8%;margin-right:15px;" align = "left">[Beatty Secondary School - Non Vi Sed Arte](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160)
-<br><br><br>
+<br>
 <img src="/images/IGicon.png" style="width:8%;margin-right:15px;" align = "left">[@beattysecsch](https://www.instagram.com/beattysecsch/)
-<br><br><br>
+<br>
 <img src="/images/WEBicon.png" style="width:8%;margin-right:15px;" align = "left">[https://beattysec.moe.edu.sg/](https://beattysec.moe.edu.sg/)
