@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Beatty Secondary School
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Announcements
