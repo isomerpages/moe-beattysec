@@ -1353,7 +1353,7 @@ More information on accessing the SLS is available at https://beattysec.moe.edu.
 Beatty Sec School Based SLS Helpline
 
 Mondays – Fridays 9:00 am – 4:00 pm
-<table border="1" cellspacing="0">
+<table cellspacing="0">
 	<tbody>
 		<tr>
 			<th>School Admin</th>
@@ -1388,19 +1388,19 @@ Mondays – Fridays 9:00 am – 4:00 pm
 	</tbody>
 </table>
 
-**SLS Login Issues Form:** https://go.gov.sg/beattysls
+**SLS Login Issues Form:** [https://go.gov.sg/beattysls](https://go.gov.sg/beattysls)
 
 
 
-**SLS Helpdesk (any other help school admin cannot resolve)**
-Email: helpdesk@sls.ufinity.com
+**SLS Helpdesk** (any other help school admin cannot resolve)
+Email: [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com)
 Tel: (65) 6702 6513
 
 Mondays ― Fridays: 9:00 am - 9:00 pm
 Saturdays: 9:00 am - 9:00 pm
 *Closed on Sundays & Public Holidays 
 
-**iMTL **
+**iMTL**
 
 Email address:  helpdesk@mail-imtl.moe.edu.sg
 Tel:  (65) 6848 8900
@@ -1408,4 +1408,4 @@ Tel:  (65) 6848 8900
 Operating Hours
 Mondays to Fridays: 7:00 am – 7:00 pm
 Saturdays: 7:00 am – 2:00 pm 
-*Closed on Sundays & Public Holidays 
+*Closed on Sundays & Public Holidays
