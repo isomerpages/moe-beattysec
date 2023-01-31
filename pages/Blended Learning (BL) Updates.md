@@ -7,7 +7,7 @@ description: ""
 <p>Dear  Parents/ Guardians and students,</p>
 <p>Blended  Learning for Term 1 will begin on 25 Jan for all Secondary 1 to 4 students and  will take place on the Wednesday of every EVEN week. </p>
 <p>The  subjects rostered for blended learning days in Semester 1 are as follows.</p>
-<table border="1" cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
+<table cellspacing="0" style="width: 100%;" class="iveo_table ives_tab_modern2">
 	
 <tbody>
 		
