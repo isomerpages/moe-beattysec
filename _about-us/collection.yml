@@ -1,0 +1,23 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our School/Our School.md
+      - Our School/School Vision, Mission and Philosophy.md
+      - Our School/School Values.md
+      - Our School/School History.md
+      - Our School/School Crest.md
+      - Our School/School Song.md
+      - Our School/.keep
+      - Our People.md
+      - Student Management/Student Management Overview.md
+      - Student Management/School Rules & Regulations.md
+      - Student Management/School Safety.md
+      - Student Management/.keep
+      - Partners/SAC.md
+      - Partners/PSG.md
+      - Partners/Alumni.md
+      - Partners/FM.md
+      - Partners/.keep
+      - Year Book.md

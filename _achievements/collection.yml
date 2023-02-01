@@ -1,0 +1,8 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Beattyians in the news.md
+      - Academic Achievements.md
+      - CCA Achievements.md
+      - Our Illustrious Alumni.md
