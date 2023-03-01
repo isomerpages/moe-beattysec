@@ -6,9 +6,8 @@ third_nav_title: Sports and Games
 ---
 ### **Badminton**
 
-<img align="left" style="width:49%" src="/images/badminton%201.jpg">
-		 
-<img align="left" style="width:49%" src="/images/badminton%202.jpg">		 
+![Badminton Boys](/images/CCA%202022/badminton-boys.jpg)
+
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Badminton" src="https://www.youtube.com/embed/itWLHcGHHGk" height="316" width="560"></iframe>
 
