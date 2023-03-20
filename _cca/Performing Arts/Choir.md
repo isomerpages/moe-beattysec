@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### **Choir**
-
-<img src="/images/choir1.jpg" style="width:49%" align="left">
-<img src="/images/choir2.jpg" style="width:49%" align="left">
+![Choir Lower Sec](/images/CCA%202022/choir-lower-secondary.png)
+<br>
+![Choir Upper Sec](/images/CCA%202022/choir-upper-secondary.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ERPyIJEf3H0" title="Beatty Secondary School - Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
