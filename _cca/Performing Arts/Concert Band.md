@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### **Concert Band**
-
-<img src="/images/cb1.jpg" style="width:49%" align="left">
-<img src="/images/cb2.jpg" style="width:49%" align="left">
+![Concert Band Lower Sec](/images/CCA%202022/concert-band-lower-secondary-.png)
+<br>
+![Concert Band Upper Sec](/images/CCA%202022/concert-band-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Concert Band" src="https://www.youtube.com/embed/UGrH8wmyu20" height="315" width="560"></iframe>
 
@@ -35,4 +35,3 @@ Every Monday and Thursday 3:30pm – 6:30pm
 ##### **Photos of Activities**
 
 <iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpUyWsVa-gPDVeUekvWFPxLNcxjCCgj9YL_FrHXRr7VV-l5ZBM5hzehSR58PwguU70luDR_TOYPm4c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
