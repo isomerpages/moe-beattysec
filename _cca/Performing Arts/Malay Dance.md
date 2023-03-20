@@ -6,8 +6,9 @@ third_nav_title: Performing Arts
 ---
 ### **Malay Dance**
 
-<img src="/images/md1.jpg" style="width:49%" align="left">
-<img src="/images/md2.jpg" style="width:49%" align="left">
+![Malay Dance Lower Sec](/images/CCA%202022/malay-dance-lower-secondary.png)
+<br>
+![Malay Dance Upper Sec](/images/CCA%202022/malay-dance-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Malay Dance" src="https://www.youtube.com/embed/nvsw9DGLh2Q" height="315" width="560"></iframe>
 
