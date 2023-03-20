@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### **Chinese Orchestra**
-
-<img src="/images/co1.jpg" style="width:49%" align="left">
-<img src="/images/co2.jpg" style="width:49%" align="left">
+![CO Lower Secondary](/images/CCA%202022/chinese-orchestra-lower-secondary.png)
+<br>
+![CO Upper Secondary](/images/CCA%202022/chinese-orchestra-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Chinese Orchestra" src="https://www.youtube.com/embed/Aa4cTbcGowk" height="315" width="560"></iframe>
 
