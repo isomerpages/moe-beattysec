@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sports and Games
 ---
 ### **Canoeing**
-
-<img src="/images/canoe%201.jpg" style="width:49%" align="left">
-<img src="/images/canoe%202.jpg" style="width:49%" align="left">		 
+![Canoeing Lower Sec](/images/CCA%202022/canoeing-lower-secondary.png)
+<br>
+![Canoeing Upper Sec](/images/CCA%202022/canoeing-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Canoeing" src="https://www.youtube.com/embed/qYSblRQlhfk" height="315" width="560"></iframe>
 
