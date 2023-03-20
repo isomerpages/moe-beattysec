@@ -57,7 +57,7 @@ third_nav_title: For Students & Parents
 
 <br>
 <p><a href="http://nus.edu.sg/">
-<img style="width:30%" src="/images/student7.jpg" align=left>
+<img style="width:10%" src="/images/student7.jpg" align=left>
 </a></p>
 
 [National University of Singapore](http://nus.edu.sg/)
@@ -83,7 +83,7 @@ third_nav_title: For Students & Parents
 [Singapore Institute of Technology](https://www.singaporetech.edu.sg/)
 
 <p><a href="https://www.sutd.edu.sg/">
-<img style="width:30%" src="/images/student11.jpg" align=left>
+<img style="width:10%" src="/images/student11.jpg" align=left>
 </a></p>
 
 [Singapore University of Technology and Design](https://www.sutd.edu.sg/)
@@ -102,7 +102,7 @@ third_nav_title: For Students & Parents
 [Singapore Polytechnic](https://www.sp.edu.sg/)
 
 <p><a href="https://www.np.edu.sg/Pages/default.aspx">
-<img style="width:30%" src="/images/student14.jpg" align=left>
+<img style="width:10%" src="/images/student14.jpg" align=left>
 </a></p>
 
 [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
