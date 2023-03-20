@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### **Girl Guides**
-<img src="/images/gg1.jpg" style="width:49%" align="left">
-<img src="/images/gg2.jpg" style="width:49%" align="left">
+![GG Lower Sec](/images/CCA%202022/girl-guides-lower-secondary.png)
+<br>
+![GG Upper Sec](/images/CCA%202022/girl-guides-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Girl Guides" src="https://www.youtube.com/embed/9B3Tl7W_uvA" height="315" width="560"></iframe>
 
