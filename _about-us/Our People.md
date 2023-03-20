@@ -4,7 +4,7 @@ permalink: /about-us/our-people/
 description: ""
 ---
 ### **Our People**
-![SMC](/images/school-management-committee-2-(superimpose).png)
+![SMC](/images/Our%20People/school-management-committee-2-(superimpose).png)
 <br>
 ![Aesthetic & Technology](/images/Our%20People/aesthetics-and-technology-department-2.png)
 <br>
