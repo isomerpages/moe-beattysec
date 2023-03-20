@@ -26,50 +26,40 @@ third_nav_title: For Students & Parents
 
 [Beatty Secondary Facebook Page](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/)
 
-<br>
 <p><a href="https://www.moe.gov.sg/">
 <img style="width:10%" src="/images/student4.jpg" align=left>
 </a></p>
 
 [MOE Website](https://www.moe.gov.sg/)
 
-<br>
 <p><a href="https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni">
 <img style="width:10%" src="/images/student5.jpg" align=left>
 </a></p>
 
 [Beatty Alumni](https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni)
 
-<br>
-
 #### **For Parents**
-<br>
+
 <p><a href="https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway">
 <img style="width:10%" src="/images/student6.jpg" align=left>
 </a></p>
 
 [Parents Gateway](https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway)
 
-<br>
-
 #### **Institutes of Higher Learning**
 ##### **Universities in Singapore**
-
-<br>
 <p><a href="http://nus.edu.sg/">
 <img style="width:10%" src="/images/student7.jpg" align=left>
 </a></p>
 
 [National University of Singapore](http://nus.edu.sg/)
 
-<br>
 <p><a href="https://www.ntu.edu.sg/Pages/home.aspx">
 <img style="width:10%" src="/images/student8.jpg" align=left>
 </a></p>
 
 [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)
 
-<br>
 <p><a href="https://www.smu.edu.sg/">
 <img style="width:10%" src="/images/student9.jpg" align=left>
 </a></p>
