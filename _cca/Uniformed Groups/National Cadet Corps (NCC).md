@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### **National Cadet Corps (NCC)**
 
-<img src="/images/NCC%20%20L.jpg" style="width:49%" align="left">
-<img src="/images/NCC%20R.jpg" style="width:49%" align="left">		 
+![NCC Lower Sec](/images/CCA%202022/national-cadet-corps-lower-secondary.png)
+<br>
+![NCC Upper Sec](/images/CCA%202022/national-cadet-corps-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - National Cadet Corps" src="https://www.youtube.com/embed/6lpor7JIP-Y" height="315" width="560"></iframe>
 
