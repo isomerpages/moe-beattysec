@@ -7,6 +7,7 @@ third_nav_title: For Students & Parents
 ### **Useful links for Students and Parents**
 
 #### **Beattyian Links**
+
 <p><a href="https://vle.learning.moe.edu.sg/login">
 <img style="width:10%" src="/images/student1.png" align=left>
 </a></p>
@@ -19,7 +20,6 @@ third_nav_title: For Students & Parents
 
 [Student iCON](https://workspace.google.com/dashboard)
 
-<br>
 <p><a href="https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/">
 <img style="width:10%" src="/images/student3.jpg" align=left>
 </a></p>
