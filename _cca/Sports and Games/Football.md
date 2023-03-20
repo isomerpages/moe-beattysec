@@ -7,6 +7,7 @@ third_nav_title: Sports and Games
 ### **Football**
 ![FootBall Lower Sec](/images/CCA%202022/football-lower-secondary.png)
 <br>
+![](/images/CCA%202022/football-upper-secondary.png)
 		 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Football" src="https://www.youtube.com/embed/Z6sZiDMU2NQ" height="315" width="560"></iframe>
 
