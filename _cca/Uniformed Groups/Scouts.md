@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### **Scouts**
-<img src="/images/scouts1.jpg" style="width:49%" align="left">
-<img src="/images/scouts2.jpg" style="width:49%" align="left">
+![Scouts](/images/CCA%202022/scouts.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Scouts" src="https://www.youtube.com/embed/XKI6k-AfPJY" height="315" width="560"></iframe>
 
