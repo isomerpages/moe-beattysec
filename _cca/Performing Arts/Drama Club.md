@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### **Drama Club**
-<img src="/images/dc1.jpg" style="width:49%" align="left">
-<img src="/images/dc2.jpg" style="width:49%" align="left">
+![Drama Club Lower Sec](/images/CCA%202022/drama-club-lower-secondary.png)
+<br>
+![Drama Club Upper Sec](/images/CCA%202022/drama-club-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Drama Club" src="https://www.youtube.com/embed/DHbsEjG6Ojw" height="315" width="560"></iframe>
 
