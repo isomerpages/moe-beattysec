@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ### **Modern Dance**
-
-<img src="/images/modern%20dance1.jpg" style="width:49%" align="left">
-<img src="/images/modern%20dance2.jpg" style="width:49%" align="left">
+![Modern Dance](/images/CCA%202022/modern-dance-lower-secondary.png)
+<br>
+![Modern Dance](/images/CCA%202022/modern-dance-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Modern Dance" src="https://www.youtube.com/embed/YEsEvH7pVYQ" height="315" width="560"></iframe>
 
@@ -37,4 +37,3 @@ Every Tuesday and Wednesday 3:30pm – 5:30pm
 ##### **Photos of Activities**
 
 <iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7YAS01ipvD0wiVRtf0x-cDIebfmxnDUO7LfSx2Wj1e7XptvOeFgZm7cTUtr_YaGP69tc2i8NPWpJU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
