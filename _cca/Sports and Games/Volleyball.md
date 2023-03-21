@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sports and Games
 ---
 ### **Volleyball**
-
-<img src="/images/volleyball%201.jpg" style="width:49%" align="left">
-<img src="/images/volleyball%202.jpg" style="width:49%" align="left">		
+![Volleyball Lower Secondary](/images/CCA%202022/volleyball-lower-secondary.png)
+<br>
+![Volleyball Upper Secondary](/images/CCA%202022/volleyball-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Volleyball" src="https://www.youtube.com/embed/9iZE2rYRlPA" height="315" width="560"></iframe>
 

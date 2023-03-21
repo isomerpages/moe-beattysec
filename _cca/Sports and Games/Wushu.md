@@ -6,9 +6,9 @@ third_nav_title: Sports and Games
 ---
 ### **Wushu**
 
-<img src="/images/wushu%201.jpg" style="width:49%" align="left">
-<img src="/images/wushu%202.jpg" style="width:49%" align="left">		
-
+![Wushu Lower Sec](/images/CCA%202022/wushu-lower-secondary.png)
+<br>
+![Wushu Upper Sec](/images/CCA%202022/wushu-upper-secondary.png)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Wushu" src="https://www.youtube.com/embed/zdRY2LlSbAs" height="315" width="560"></iframe>
 
 Beatty Secondary School’s Wushu team focuses on character building and skills development. To achieve this aim, we incorporate passion in all our trainings and performances, respect for our coaches, teachers, seniors and one another, as well as dedication to our craft.

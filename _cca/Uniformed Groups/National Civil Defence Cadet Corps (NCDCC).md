@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### **National Civil Defence Cadet Corps (NCDCC)**
 
-<img src="/images/ncdcc%201.jpg" style="width:49%" align="left">
-<img src="/images/ncdcc%202.jpg" style="width:49%" align="left">
+![NCDCC Lower Sec](/images/CCA%202022/national-civil-defence-cadet-corps-lower-secondary.png)
+<br>
+![NCDCC Upper Sec](/images/CCA%202022/national-civil-defence-cadet-corps-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - National Civil Defence Cadet Corps" src="https://www.youtube.com/embed/92yh7Sg8q24" height="315" width="560"></iframe>
 

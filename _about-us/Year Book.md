@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Year Book**
 
-**pls refer to trello notes**
+[![](/images/Beatty_YearBook2022.png)](https://online.fliphtml5.com/obrr/nplh/)

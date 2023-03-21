@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### **Boys' Brigade**
-
-<img style="width:49%" src="/images/boys%20brigade.jpg">
+![BB Lower Sec](/images/CCA%202022/boys'-brigade-lower-secondary.png)
+<br>
+![BB Upper Sec](/images/CCA%202022/boys'-brigade-upper-secondary.png)
 		 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Boys' Brigade" src="https://www.youtube.com/embed/lfxALpY2TbU" height="315" width="560"></iframe>
 

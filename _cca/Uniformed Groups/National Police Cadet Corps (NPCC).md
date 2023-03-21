@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### **National Police Cadet Corps (NPCC)**
 
-<img src="/images/npcc%201.jpg" style="width:49%" align="left">
-<img src="/images/npcc%202.jpg" style="width:49%" align="left">
+![NPCC Lower Sec](/images/CCA%202022/national-police-cadet-corps-lower-secondary.png)
+<br>
+![NPCC Upper Sec](/images/CCA%202022/national-police-cadet-corps-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - National Police Cadet Corps" src="https://www.youtube.com/embed/vgQah_O-9C4" height="315" width="560"></iframe>
 

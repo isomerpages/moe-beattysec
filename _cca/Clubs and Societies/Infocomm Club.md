@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 ### **Infocomm Club**
-
-<img src="/images/infocomm%201.jpg" style="width:49%" align="left">
-<img src="/images/infocomm%202.jpg" style="width:49%" align="left">
+![Infocomm Lower Sec](/images/CCA%202022/infocomm-club-lower-secondary.png)
+<br>
+![Infocomm Upper Sec](/images/CCA%202022/infocomm-club-upper-secondary.png)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Beatty Secondary School - Infocomm Club" src="https://www.youtube.com/embed/jHnx7MgqUrk" height="315" width="560"></iframe>
 
