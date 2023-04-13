@@ -4,7 +4,7 @@ permalink: /key-programmes/instructional-programme/permalink/
 description: ""
 third_nav_title: Instructional Programme
 ---
-The Aesthetics &amp; Technology Department is committed to nurturing Beattyians to be creative and self-directed learners and critical thinkers. The Department comprises the Art Unit, Design and Technology Unit, Nutrition and Food Science Unit and Music Unit.
+The Aesthetics and Technology Department is committed to nurturing Beattyians to be creative and self-directed learners and critical thinkers. The Department comprises the Art Unit, Design and Technology Unit, Nutrition and Food Science Unit and Music Unit.
 
 #### **Art Unit Highlights and Achievements**
 - Participated in the Live On Design Competition 2019 organised by the National Organ Transplant Unit
