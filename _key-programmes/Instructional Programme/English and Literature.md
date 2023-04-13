@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 The English Language and Literature Department is committed to nurturing Beattyians to become confident speakers, proficient writers, effective listeners, keen readers and critical thinkers.
-
 #### **Programme**
 For the English Language &amp; Literature Department, promoting effective communication in the spoken and written form is paramount. Various programmes have been put in place to offer our students an array of platforms to express themselves clearly, creatively and confidently.
 
@@ -14,7 +13,7 @@ At Beatty Secondary School, we believe in inculcating a passion for reading in e
 
 We are also collaborating with the National Library Board (NLB) to inculcate the love of reading and learning in our students through learning journeys to the Tampines National Library. These learning journeys are followed with reading activities to allow students to promote and share about the books they have read, such as the 3NT Book Trailer project. Through these initiatives, we aim to build a school-wide reading culture and promote a lifelong reading habit in our students.
 
-#### **Enrichment Programmes**&nbsp;
+#### **Enrichment Programmes**
 This year, the department is conducting a public speaking programme for Secondary One students to develop students’ confidence in speaking to an audience and hone their presentation skills. In the process, students will learn about word and sentence stress, oral delivery techniques such as posture and gestures as well as how to craft an engaging speech for an audience. They will deliver a speech and be formally assessed individually at the end of the twelve-session programme.
 
 As for the Secondary Two students, the department is conducting a Media and Communication Programme to develop students’ critical thinking and persuasive speaking skills. This is a collaboration between the English and Humanities Departments, where students will apply the analytical skills taught in History to form their own opinions on the topics assigned to them in the programme. Through role-playing as experts on a given topic and presenting their views in the form of a talk show, students will explore alternative viewpoints and substantiate their opinions on the issue. This programme is aimed at developing twenty-first century skills such as critical thinking, self-directed learning and effective communication skills.
