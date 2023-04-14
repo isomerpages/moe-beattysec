@@ -32,8 +32,8 @@ This year, the celebration began with class bonding activities where students ma
 
 - ##### **Hari Raya Celebrations**
 Other than language acquisition, the Malay Language Unit believes in deepening students’ understanding of cultural elements through the celebration of festivals. Hari Raya Aidilfitri is traditionally celebrated in our Beatty Ohana through the following activities:
-•	Introduction to Hari Raya songs
-•	Quiz on Hari Raya festivities
+	-	Introduction to Hari Raya songs
+	-	Quiz on Hari Raya festivities
 
 
 - ##### **Deepavali Celebrations**
@@ -41,6 +41,6 @@ In order to promote multi-culturalism amongst the school population, the Tamil L
 
 ##### **MTL Reading Programme**
 The reading programme is incorporated into the MTL curriculum. This serves as a platform for our students to inculcate the love of reading varied MTL texts which come in the form of newspapers, novels, short stories and articles. MTL teachers seek opportunities to extend students’ learning by discussing these materials during MTL lessons so that they can gain knowledge and find relevance in the materials they read.
-
+<br><br>
 
 <div align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKMIvblZTC0NeHPukpaPAtQGYzZpMI4BFfxTcbFdrkebHsKXXR5d2h46MMOEF2Qma9uwq7B3XnTtvl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe></div>
