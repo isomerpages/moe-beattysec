@@ -23,6 +23,6 @@ Field studies and overseas cultural immersion promote compassionate and engaged 
 ##### **Humanities Challenge and Model United Nations Conferences**
 
 Competitions like the Geography and History Challenge and conferences like the Model United Nation offer a chance for participants to gain substantial experience, showcase skills, analyse and evaluate outcomes, and uncover personal aptitude. These opportunities also encourage students to adopt innovative techniques and develop their ideas and skills.
-<br><br>
+<br>
 
 <div align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRA_Oh7BD838x7IJQaOkEsPVDJwJ066jCUMphj8A7yQkfNaxXzClfTXKiIOwc61GHm_YZ-EYjvQ4Ts8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe></div>
