@@ -6,6 +6,8 @@ third_nav_title: Instructional Programme
 ---
 ### Physical Education &amp; Co-Curricular Activities Department
 
+![](/images/Our%20People/physical-education-department-2.png)
+
 The Physical Education &amp; Co-Curricular Activities (PE &amp; CCA) Department seeks to equip every Beattyian with the necessary skills, knowledge and attitude in sports to enjoy a lifetime of active and healthy living.
 
 #### **Programmes**
