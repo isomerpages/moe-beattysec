@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 #### Mother Tongue Languages Department
+![](/images/Our%20People/mother-tongue-language-department-2.png)
 
 The Mother Tongue Languages (MTL) Department aims to nurture Beattyians to be passionate about their mother tongue language, appreciate the various cultures and be lifelong learners.
 
