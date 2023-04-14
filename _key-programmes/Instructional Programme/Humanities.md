@@ -12,15 +12,15 @@ Every student in Beatty Secondary School will develop an appreciation for and in
 
 #### **Programmes**
 
-**Critical Thinking Skills through Inquiry and Socratic Questioning**
+##### **Critical Thinking Skills through Inquiry and Socratic Questioning**
 
 These teaching strategies across all subjects give students varied learning experiences, cater to the unique learning style of each student and help students become better thinkers, and active and independent learners.
 
-**Experiential Learning through local field studies and internationalisation**
+##### **Experiential Learning through local field studies and internationalisation**
 
 Field studies and overseas cultural immersion promote compassionate and engaged learning by providing students with the opportunities to create, innovate and lead in a real-life environment. Cultural awareness of multiple perspectives and character values underpin these programmes.
 
-**Humanities Challenge and Model United Nations Conferences**
+##### **Humanities Challenge and Model United Nations Conferences**
 
 Competitions like the Geography and History Challenge and conferences like the Model United Nation offer a chance for participants to gain substantial experience, showcase skills, analyse and evaluate outcomes, and uncover personal aptitude. These opportunities also encourage students to adopt innovative techniques and develop their ideas and skills.
 <br><br>
