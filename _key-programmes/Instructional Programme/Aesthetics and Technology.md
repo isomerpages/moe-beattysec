@@ -6,6 +6,8 @@ third_nav_title: Instructional Programme
 ---
 ### Aesthetics and Technology Department
 
+![](/images/Our%20People/aesthetics-and-technology-department-2.png)
+
 The Aesthetics and Technology Department is committed to nurturing Beattyians to be creative and self-directed learners and critical thinkers. The Department comprises the Art Unit, Design and Technology Unit, Nutrition and Food Science Unit and Music Unit.
 
 #### **Art Unit Highlights and Achievements**
@@ -42,4 +44,4 @@ The Aesthetics and Technology Department is committed to nurturing Beattyians to
 -	Japan Cultural Exchange Programme with Mihara, Japan: Pop Band Jamming Experience 
 -	Beatty Music Morning Classic Programme
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2WRh9i4qauxWOefTqbeMIiBziZq_VMuSOgKZvl_KhOK0KtFLDT5M_nQIoRWLOwGufUEMnaHpIeRVI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+<div align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2WRh9i4qauxWOefTqbeMIiBziZq_VMuSOgKZvl_KhOK0KtFLDT5M_nQIoRWLOwGufUEMnaHpIeRVI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe></div>
