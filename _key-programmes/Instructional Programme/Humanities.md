@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ### Humanities Department
+![](/images/Our%20People/humanities-department-2.png)
 
 The Humanities, comprising Geography, History, Social Studies and Elements of Business, provide multiple lenses to help students understand the world we live in where globalisation and rapid technological advancements are enhancing the connectedness and interdependency across countries. We equip students with critical thinking, responsible decision making and communication skills as well as global perspectives to become confident people, active contributors and concerned citizens. These skills are crucial in enabling our students to navigate the complexities of a rapidly changing world.
 
