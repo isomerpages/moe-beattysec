@@ -1,6 +1,6 @@
 ---
 title: Information and Communications Technology
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/ict/
 description: ""
 third_nav_title: Instructional Programme
 ---

@@ -1,6 +1,6 @@
 ---
 title: Physical Education and Co Curricular Activities
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/pe/
 description: ""
 third_nav_title: Instructional Programme
 ---

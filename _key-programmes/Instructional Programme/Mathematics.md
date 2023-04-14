@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/ma/
 description: ""
 third_nav_title: Instructional Programme
 ---

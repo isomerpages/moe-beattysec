@@ -29,8 +29,10 @@ links:
       - title: Clubs and Societies
         url: /cca/clubs-and-societies/
   - title: Key Programmes
-    url: /key-programmes/llp/
+    url: /key-programmes/instructional-programme/
     sublinks:
+      - title: Instructional Programme
+        url: /key-programmes/instructional-programme/
       - title: Learning for Life Programme
         url: /key-programmes/llp/
       - title: Applied Learning Programme

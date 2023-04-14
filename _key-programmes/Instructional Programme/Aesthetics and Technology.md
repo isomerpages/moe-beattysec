@@ -1,6 +1,6 @@
 ---
 title: Aesthetics and Technology
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/at/
 description: ""
 third_nav_title: Instructional Programme
 ---

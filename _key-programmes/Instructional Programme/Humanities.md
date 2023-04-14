@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/hum/
 description: ""
 third_nav_title: Instructional Programme
 ---

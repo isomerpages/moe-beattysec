@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/mtl/
 description: ""
 third_nav_title: Instructional Programme
 ---

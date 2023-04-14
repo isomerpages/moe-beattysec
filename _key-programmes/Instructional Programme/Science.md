@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/sc/
 description: ""
 third_nav_title: Instructional Programme
 ---

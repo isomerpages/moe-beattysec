@@ -1,6 +1,6 @@
 ---
 title: English and Literature
-permalink: /key-programmes/instructional-programme/permalink/
+permalink: /key-programmes/instructional-programme/el/
 description: ""
 third_nav_title: Instructional Programme
 ---
