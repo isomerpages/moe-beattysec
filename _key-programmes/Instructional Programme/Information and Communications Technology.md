@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ### ICT Department
+![](/images/Our%20People/information%20and%20communication%20technology%20department%202.png)
 
 The Information and Communications Technology (ICT) Department seeks to
 
