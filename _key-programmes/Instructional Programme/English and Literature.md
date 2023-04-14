@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ### English Language and Literature Department
+![](/images/Our%20People/english-language-and-literature-department-2.png)
+
 The English Language and Literature Department is committed to nurturing Beattyians to become confident speakers, proficient writers, effective listeners, keen readers and critical thinkers.
 #### **Programme**
 For the English Language &amp; Literature Department, promoting effective communication in the spoken and written form is paramount. Various programmes have been put in place to offer our students an array of platforms to express themselves clearly, creatively and confidently.
