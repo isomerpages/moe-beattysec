@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ### Science Department 
+![](/images/Our%20People/science-department-2.png)
+
 In this Volatile, Uncertain, Complex and Ambiguous (VUCA) world, the ability to think critically and inventively will help students to be lifelong learners in this ever changing society. As Leonardo da Vinci once said, “Learning never exhausts the mind”. The Science Department is committed to enthuse Beattyians to embrace the joy of learning Science and to nurture Beattyians to be passionate and appreciate the importance of Science in everyday life.
 
 Our strategy includes the use of real-world application contexts beyond textbooks to promote authentic learning. We also offer Science enrichment programmes to enable students to integrate information and concepts learned into their existing knowledge base and to apply that knowledge base to new problems and topics.
