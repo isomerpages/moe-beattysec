@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Secondary 1 Critical Inquiry Project.md
       - Instructional Programme/.keep
       - Instructional Programme/Aesthetics and Technology.md
       - Instructional Programme/English and Literature.md
