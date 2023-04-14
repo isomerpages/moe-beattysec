@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 ### Mathematics Department
+![](/images/Our%20People/mathematics-department-2.png)
 
 The Mathematics Department aims to develop our students’ competency and confidence in Mathematics through a rigorous curriculum that emphasises the application of mathematical concepts and skills in problem solving. This is in line with the national emphasis on the application of Mathematics to solve problems in real world contexts. Teaching and learning is differentiated and catered to the needs of our students.
 
