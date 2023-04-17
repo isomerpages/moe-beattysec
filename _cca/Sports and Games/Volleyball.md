@@ -21,9 +21,8 @@ Volleyball is one of the three Direct School Admission (DSA) CCAs offered by Bea
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mdm Rosniati Binte Zaharuddin (IC) | [rosniati_zaharudin@moe.edu.sg](mailto:rosniati_zaharudin@moe.edu.sg) | 62569108 Ext 130 |
-| Ms Loo Kit Wan (2IC) | [loo_kit_wan@moe.edu.sg](mailto:loo_kit_wan@moe.edu.sg) | 62569108 Ext 143 |
-| Ms Raistlina Kwek | [kwek_hwei_yee_raistlina@moe.edu.sg](mailto:kwek_hwei_yee_raistlina@moe.edu.sg) | 62569108 Ext 143 |
+| Mdm See Huey Yi (IC) |	see_huey_yi@moe.edu.sg |	62569108 EXT 212 |
+| Ms Raja Shahridah Binte Raja Suhaini |	raja_shahridah_raja_suhaini@moe.edu.sg |	62569108 EXT 206 |
 |
 
 ##### **Training Schedule**
