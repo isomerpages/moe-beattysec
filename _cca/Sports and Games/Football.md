@@ -22,7 +22,6 @@ Our footballers also took part in training sessions with Coach Toni Havanty from
 |Mr Sivaneson Krishnamoorthy (IC) |	sivaneson_krishnamoorthy@moe.edu.sg |	62569108 EXT 150 |
 | Mr Sugunan Menadea	| sugunan_menadea@moe.edu.sg |	62569108 EXT 151|
 |
-
 ##### **Weekly Schedule**
 Every Tuesday and Thursday:
 - C Div: 3:00pm – 4:30pm
