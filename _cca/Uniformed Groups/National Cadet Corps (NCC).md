@@ -23,18 +23,16 @@ The National Cadet Corps (NCC) is a uniformed group that nurtures our cadets to 
 *   Adventurous Spirit
 *   Safety
 
-| Teacher In Charge |
-| --- |
-| Mr Sugunan (IC) | [sugunan\_menadea@moe.edu.sg](mailto:sugunan\_menadea@moe.edu.sg) | 62569108 Ext 151 |
-| Ms Nadirah Binte Sharin (2IC) | [nadirah\_bte\_sharin@moe.edu.sg](mailto:nadirah\_bte\_sharin@moe.edu.sg) | 62569108 Ext 204 |
-| Mr Theva Kumar | [theva\_kumar\_panaigan@moe.edu.sg](mailto:theva\_kumar\_panaigan@moe.edu.sg) | 62569108 Ext 155 |
-| Mr Muhd Fazli B Zulkifli (AED) | [muhammad\_fazli\_zulkifli@moe.edu.sg](mailto:muhammad\_fazli\_zulkifli@moe.edu.sg) | 62569108 Ext 196 |
-| Mr Lai Ern Chuen | [lai\_ern\_chuen@moe.edu.sg](mailto:lai\_ern\_chuen@moe.edu.sg) | 62569108 Ext 218 |
+| Teacher In Charge | | |
+|:---:|:---:|:---:|
+| Mr Lai Ern Chuen (IC) |	lai_ern_chuen@moe.edu.sg |	62569108 EXT 218 |
+| Mr Theva Kumar (2IC) |	theva_kumar_panaigan@moe.edu.sg |	62569108 EXT 153 |
+| Mr Luqman Bin Mohd Ali |	luqman_mohamed_ali@moe.edu.sg |	62569108 EXT 212 |
 |
 
 ##### **Weekly Schedule**
 Every Friday 2:00pm – 6:00pm<br>
-Every Tuesday 3:30pm – 5:30pm (for cadets involved in the Precision Drills Squad (PDS) and Freestyle Exhibition Drills (FSD) training)
+Every Tuesday 3:30pm – 6:00pm (for cadets involved in the Precision Drills Squad (PDS) and Freestyle Exhibition Drills (FSD) training)
 
 ##### **Achievements and Highlights**
 **_Achievements_**
