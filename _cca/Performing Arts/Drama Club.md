@@ -19,11 +19,9 @@ Besides performing at school events and the SYF Arts Presentations, Drama Club c
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mrs Widya Barnwell (IC) | [widya_iryani_zulkassim@moe.edu.sg](mailto:widya_iryani_zulkassim@moe.edu.sg) | 62569108 Ext 141 |
-| Ms Jamie d/o Ishwarlal  (2IC) | [jamie_ishwarlal@moe.edu.sg](mailto:jamie_ishwarlal@moe.edu.sg) | 62569108 Ext 137 |
-| Mr Ibrahim Ab Latif  | [ibrahim_ab_latif@moe.edu.sg](mailto:ibrahim_ab_latif@moe.edu.sg) | 62569108 Ext 132 |
-| Ms Tan Seok Ting | [tan_seok_ting@moe.edu.sg](mailto:tan_seok_ting@moe.edu.sg) | 62569108 Ext 214 |
-| Ms Alice Wong (Trainee) | - | - |
+| Mrs Widya Barnwell (IC) |	widya_iryani_zulkassim@moe.edu.sg |	62569108 EXT 141 |
+| Mr Ibrahim Bin Ab Latif |	ibrahim_ab_latif@moe.edu.sg |	62569108 EXT 132 |
+| Ms Jamie Ishwarlal |	jamie_ishwarlal@moe.edu.sg |	62569108 EXT 137 |
 |
 
 ##### **Training Schedule**
