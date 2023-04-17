@@ -19,16 +19,16 @@ Wushu is one of the three Direct School Admission (DSA) CCAs offered by Beatty S
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mdm Wan Chia Jia (IC) | [wan_chia_jia@moe.edu.sg](mailto:wan_chia_jia@moe.edu.sg) | 62569108 Ext 156 |
-| Mr Teng Jun Boon (2IC) | [teng_jun_boon@moe.edu.sg](mailto:teng_jun_boon@moe.edu.sg) | 62569108 Ext 145 |
-| Ms Chua Geok Song (Sem 1) | [chua_geok_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg) | 62569108 Ext 149 |
-| Mdm Wang Fang (Sem 2) | [wang_fang_a@moe.edu.sg](mailto:wang_fang_a@moe.edu.sg) | 62569108 Ext 154 |
+| Mdm Wan Chia Jia (IC) |	wan_chia_jia@moe.edu.sg |	62569108 EXT 156 |
+| Mr Teng Jun Boon (2IC) |	teng_jun_boon@moe.edu.sg |	62569108 EXT 138 |
+| Mdm Er Lee Sim |	er_lee_sim@moe.edu.sg |	62569108 EXT 142 |
+| Mr Matthias Tay |	tay_soo_thiam@moe.edu.sg |	62569108 EXT 194 |
 |
 
 ##### **Weekly Schedule**
-Every Monday 4:00pm – 6:00pm<br>
-Every Wednesday 3:30pm - 5:30pm (In Semester 1 for selected members to prepare for the competitions)<br>
-Every Friday 2:00pm – 4:00pm
+Every Monday 3:30pm – 6:00pm<br>
+Every Wednesday 3:30pm - 6:00pm (School Team for odd weeks)<br>
+Every Friday 2:00pm – 4:30pm
 
 The frequency of trainings may increase during the competition seasons.
 
