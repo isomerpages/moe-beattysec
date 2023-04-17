@@ -19,16 +19,15 @@ Canoeing is one of the three Direct School Admission (DSA) CCAs offered by Beatt
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Ms Zhuang Huizhi Dawne (IC) | [zhuang_huizhi_dawne@moe.edu.sg](mailto:zhuang_huizhi_dawne@moe.edu.sg) | 62569108 Ext 148 |
-| Mr Chan Jen Wuu (2IC) - Covering IC | [chan_jen_wuu@moe.edu.sg](mailto:chan_jen_wuu@moe.edu.sg) | 62569108 Ext 148 |
-| Mrs Sharon Fong | [sharon_fong@moe.edu.sg](mailto:sharon_fong@moe.edu.sg) | 62569108 Ext 213 |
-| Mr Jack Chan | [chan_zhi_hung@moe.edu.sg](mailto:chan_zhi_hung@moe.edu.sg) | 62569108 |
+| Mr Benjamin Lee (IC) | lee_boon_sing_benjamin@moe.edu.sg |	62569108 EXT 211 |
+| Mr Johann Lim |	johann_lim_teck_leong@moe.edu.sg |	62569108 EXT 131 |
+| Mrs Sharon Fong |	tan_li_suan_sharon@moe.edu.sg |	62569108 EXT 213 |
 |
 
 ##### **Training Schedule**
-Every Monday 3:30pm – 6:30pm @ MacRitchie Reservoir<br>
-Every Friday 2:30pm – 5:30pm @ MacRitchie Reservoir<br>
-[Semester 1] Every Wednesday 3:30pm - 6:30pm @ MacRitchie Reservoir (*Sec 1 members are exempted from it)
+Every Monday &amp; Thursday 3:30pm – 6:30pm @ MacRitchie Reservoir<br>
+Every Friday 2:30pm – 5:00pm @ School<br>
+
 
 ##### **Achievements and Highlights**
 _**Singapore Canoe Marathon 2020**_
