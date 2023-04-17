@@ -26,14 +26,14 @@ We empower our Guides through fun and challenging programmes, unique experiences
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Ms Shivaani Thiagayson (IC) | [shivaani_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) | 62569108 Ext 132 |
-| Ms Pauline Fernandez(2IC) | [fernandez_pauline_esther@moe.edu.sg](mailto:fernandez_pauline_esther@moe.edu.sg) | 62569108 Ext 136 |
-| Mrs Han Nam Toon | [han_nam_toon@moe.edu.sg](mailto:han_nam_toon@moe.edu.sg) | 62569108 Ext 205 |
-| Ms Nur Arini Azlin | [arini_azlin_nur@moe.edu.sg](mailto:arini_azlin_nur@moe.edu.sg) | 62569108 |
+| Ms Nadirah Binte Sharin (IC) |	nadirah_bte_sharin@moe.edu.sg |	62569108 EXT 207 |
+| Ms Shivaani Thiagayson (2IC) |	shivaani_thiagayson@moe.edu.sg |	62569108 EXT 132 |
+| Mdm Noryati Binte Abd Rasid |	noryati_abd_rasid@moe.edu.sg |	62569108 EXT 157 |
+| Mdm Shanmugam Kalaichitra |	shanmugam_kalaichitra@moe.edu.sg |	62569108 EXT 149 |
 |
 
 ##### **Weekly Schedule**
-Every Friday 2:30pm – 6:00pm  <br>
+Every Friday 2:00pm – 5:30pm  <br>
 Alternate Tuesdays 3:30pm – 5:30pm (odd weeks for student leaders only)
 
 ##### **Achievements and Highlights**
