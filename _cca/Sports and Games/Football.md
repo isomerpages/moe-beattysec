@@ -19,13 +19,18 @@ Our footballers also took part in training sessions with Coach Toni Havanty from
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mr Sivaneson Krishnamoorthy (IC) | [sivaneson_krishnamoorthy@moe.edu.sg](mailto:sivaneson_krishnamoorthy@moe.edu.sg) | 62569108 Ext 148 |
-| Mr Luqman (2IC) | [luqman_mohamed_ali@moe.edu.sg](mailto:luqman_mohamed_ali@moe.edu.sg) | 62569108 Ext 212 |
-| Mr Matthias Tay | [tay_soo_thiam@moe.edu.sg](mailto:tay_soo_thiam@moe.edu.sg) | 62569108 Ext 194 |
+|Mr Sivaneson Krishnamoorthy (IC) |	sivaneson_krishnamoorthy@moe.edu.sg |	62569108 EXT 150 |
+| Mr Sugunan Menadea	| sugunan_menadea@moe.edu.sg |	62569108 EXT 151|
 |
 
 ##### **Weekly Schedule**
-Every Monday, Tuesday and Thursday 3:40pm – 5:40pm
+Every Tuesday and Thursday:
+- C Div: 3:00pm – 4:30pm
+- B Div: 4:30pm - 6:00pm
+
+Wednesday (For odd weeks during tournament season)
+- C Div: 3:00pm - 4:30pm
+- B Div: 4:30pm - 6:00pm
 
 ##### **Achievements and Highlights**
 _**National Schools Games Football Competition**_<br>
