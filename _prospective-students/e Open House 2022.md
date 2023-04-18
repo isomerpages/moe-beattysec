@@ -14,23 +14,23 @@ _"The first thing we must all do is love and care for our children; everything e
 Read about Mr Johll's personal convictions about education in this article:
 [https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html](https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html)
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/jXO1srIVg8U" title="Beatty Secondary School - Principal's Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/jXO1srIVg8U" title="Beatty Secondary School - Principal's Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 In this video, our Principal shares about the&nbsp;**school ethos and hopes**&nbsp;for the young charges in our Beatty Ohana. View it to find out how Beatty Secondary can help your child achieve his or her aspirations!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/Ci1Gaouayek" title="Beatty Secondary School - Sec 1 Public Speaking Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/Ci1Gaouayek" title="Beatty Secondary School - Sec 1 Public Speaking Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Check out our signature&nbsp;**Sec 1 Public Speaking Programme**&nbsp;by the English Language and Literature Department to transform our Beattyians into effective, eloquent and confident communicators!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/Yu0JGx2gvE8" title="Beatty Secondary School - Learning for Life Programme (DSA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/Yu0JGx2gvE8" title="Beatty Secondary School - Learning for Life Programme (DSA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Besides striving for academic excellence, Beattyians grow to become leaders in their own right. Watch our video on&nbsp;**Learning for Life Programme (LLP),**&nbsp;which focuses on student leadership, to know more about how we develop our students to be leaders!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/ML-VQZpejbs" title="Beatty Secondary School - Personalised Digital Learning Programme (PDLP)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/ML-VQZpejbs" title="Beatty Secondary School - Personalised Digital Learning Programme (PDLP)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 COVID-19 has made us think about how we could leverage technology to maximise and enrich students' learning as envisioned in the&nbsp;**Personalised Digital Learning Programme (PDLP)**. Check out how our creative staff tap on the affordances of the iPad to make learning fun and engaging for our young charges!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/LM4QMaoG4T8" title="Beatty Secondary School - A journey around our school" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/LM4QMaoG4T8" title="Beatty Secondary School - A journey around our school" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 Let's explore the various&nbsp;**facilities**&nbsp;in the school! Join Bryan, a primary six student, as he embarks on an exciting journey around the school!
 
