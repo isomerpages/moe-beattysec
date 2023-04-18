@@ -25,7 +25,7 @@ sections:
       description: "Apply to Beatty Secondary School via Direct School
         Admission  based on the following talent areas:"
       button: Find out more
-      url: /
+      url: /prospective-students/dsa/
       image: /images/slide1.PNG
       alt: Image alt text
 ---
