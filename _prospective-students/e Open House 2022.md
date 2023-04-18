@@ -40,7 +40,7 @@ Click [here](https://ths.li/suIQC8) to enjoy a **360° virtual tour**&nbsp;of th
 
 Find out more about what students, alumni, teachers and parents have to say about The **Beatty Experience** in our corporate brochure!
 
-
+https://online.fliphtml5.com/dmjzi/bsfq/
 
 ![](/images/Join%20Us%20At%20Beatty.jpg)
 
