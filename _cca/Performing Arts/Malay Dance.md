@@ -18,15 +18,16 @@ In order to inculcate a sense of belonging and ownership amongst our dancers, we
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mrs Buvana Parthi (IC) | [buvana_ramalingam@moe.edu.sg](mailto:buvana_ramalingam@moe.edu.sg) | 62569108 Ext 135 |
-| Mdm Suhaila (2IC) | [suhaila_rahman@moe.edu.sg](mailto:suhaila_rahman@moe.edu.sg) | 62569108 Ext 157 |
-| Ms Raja Shahridah  | [raja_shahridah_raja_suhaini@moe.edu.sg](mailto:raja_shahridah_raja_suhaini@moe.edu.sg) | 62569108 Ext 205 |
-| Ms Nur Rabiah (AED) | [nur_rabiah_ishak@moe.edu.sg](mailto:nur_rabiah_ishak@moe.edu.sg) | 62569108 Ext 171 |
+| Mrs Buvana Parthi (IC) |	buvana_ramalingam@moe.edu.sg |	62569108 EXT 135 |
+| Ms Nur Arini Azlin Binte Muhammad Rosli Nah |	arini_azlin_nur@moe.edu.sg |	62569108 EXT 208 |
+| Ms Nur Rabiah Bte Ishak |	nur_rabiah_ishak@moe.edu.sg |	62569108 EXT 171 |
+|Mdm Suhaila Binte Rahman |	suhaila_rahman@moe.edu.sg | 62569108 EXT 155 |
 |  
 
 ##### **Training Schedule**
-Every Tuesday 3:30pm – 5:30pm  <br>
-Every Thursday 3:30pm – 6:30pm
+Every Monday 3:30pm – 6:00pm<br>
+Every Thursday 3:30pm – 6:00pm<br>
+Saturday 9:00am - 12:00pm (for SYF Participants till April)
 
 ##### **Achievements and Highlights**
 **_Achievement_**
