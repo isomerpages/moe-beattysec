@@ -13,14 +13,14 @@ Over the past few decades, the Beatty Beaver Scouts has produced three Queen’s
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mr Xavier Ong (IC)  | [ong_guo_lin@moe.edu.sg](mailto:ong_guo_lin@moe.edu.sg) | 62569108 Ext 213 |
-| Mdm See Huey Yi (2IC) | [see_huey_yi@moe.edu.sg](mailto:see_huey_yi@moe.edu.sg) | 62569108 Ext 212 |
-| Mdm Fu Rong | [fu_rong@moe.edu.sg](mailto:fu_rong@moe.edu.sg) | 62569108 Ext 152 |
+| Mr Xavier Ong (IC) |	ong_guo_lin@moe.edu.sg |	62569108 EXT 213 |
+| Mdm Fu Rong |	fu_rong@moe.edu.sg |	62569108 EXT 152 |
+| Mr Isaac Cheung |	cheung_wan_ki_isaac@moe.edu.sg |	62569108 EXT 207 |
 |
 
 ##### **Weekly Schedule**
-&nbsp;Every Thursday 3:30pm – 6:30pm&nbsp;<br>
-&nbsp;Selected Saturday 9:00am – 12:00pm (Campfire - Mostly in March, April and July)
+Every Thursday 3:30pm – 6:30pm<br>
+Selected Friday's 2:30pm – 6:30pm (Make up sessions if Thursday is a public holiday)
  
 ##### **Student Leaders**
 **Scribe:**&nbsp;Leonard Ang Kai Ze  <br>

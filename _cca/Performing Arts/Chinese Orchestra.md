@@ -17,10 +17,11 @@ In order to develop our members musically, we provide them with various opportun
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mr Sin Lai Keong (IC) | [sin_lai_keong@moe.edu.sg](mailto:sin_lai_keong@moe.edu.sg) | 62569108 Ext 213 |
-| Mr Chiang Heng Jaik (2IC) | [chiang_heng_jaik@moe.edu.sg](mailto:chiang_heng_jaik@moe.edu.sg) | 62569108 Ext 139 |
-| Mdm Ho Fui Ling | [lim_chee_heong@moe.edu.sg](mailto:lim_chee_heong@moe.edu.sg) | 62569108 Ext 218 |
-| Mdm Li Hai Yu | [li_haiyu@moe.edu.sg](mailto:li_haiyu@moe.edu.sg) | 62569108 Ext 155 |
+| Mr Sin Lai Keong (IC) |	sin_lai_keong@moe.edu.sg |	62569108 EXT 213 |
+| Mr Chiang Heng Jaik (2IC) |	chiang_heng_jaik@moe.edu.sg |	62569108 EXT 139 |
+| Mdm Ho Fui Ling |	lim_chee_heong@moe.edu.sg |	62569108 EXT 218 |
+| Mdm Li Hai Yu |	li_haiyu@moe.edu.sg |	62569108 EXT 153 |
+| Ms Raistlina Kwek |	kwek_hwei_yee_raistlina@moe.edu.sg |	62569108 EXT 143 |
 |
 
 ##### **Weekly Schedule**

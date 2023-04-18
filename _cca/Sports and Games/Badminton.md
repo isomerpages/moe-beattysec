@@ -16,15 +16,15 @@ Badminton is an established CCA in Beatty Secondary School. Members in the CCA a
 
 | Teacher In Charge (Boys) |  |  |
 |:---:|:---:|:---:|
-| Ms Ellie Soh Yu Bin (IC) | [soh_yu_bin@moe.edu.sg](mailto:soh_yu_bin@moe.edu.sg) | 62569108 Ext 158 |
-| Mdm Wang Fang (Sem 1) | [wang_fang_a@moe.edu.sg](mailto:wang_fang_a@moe.edu.sg) | 62569108 Ext 154 |
-| Mdm Er Lee Sim (Sem 2) | [er_lee_sim@moe.edu.sg](mailto:er_lee_sim@moe.edu.sg) | 62569108 Ext 142 |
+| Mr Jack Chan (IC) |	chan_zhi_hung@moe.edu.sg |	62569108 EXT 210 |
+| Mdm Wang Fang | [wang_fang_a@moe.edu.sg](mailto:wang_fang_a@moe.edu.sg) | 62569108 Ext 154 |
 |
 
 | Teacher In Charge (Girls) |  |  |
 |:---:|:---:|:---:|
 | Mdm Nadiah Angelina Tan (IC) | [nadiah_angelina_tan@moe.edu.sg](mailto:nadiah_angelina_tan@moe.edu.sg) | 62569108 Ext 144 |
-| Mrs Domingo Alona | [domingo_alona_de_silva@moe.edu.sg](mailto:domingo_alona_de_silva@moe.edu.sg) | 62569108 Ext 171 |
+| Mrs Alona Domingo |	domingo_alona_de_silva@moe.edu.sg |	62569108 EXT 171	|
+Mdm Rosniati Binte Zaharudin |	rosniati_zaharudin@moe.edu.sg |	62569108 EXT 130 |
 |
 
 ##### **Training Schedule**
@@ -33,7 +33,7 @@ Every Tuesday &amp; Thursday 3:30pm – 6:30pm
 
 **Girls:**<br>
 Every Monday 3:30pm – 6:30pm&nbsp;  <br>
-Every Friday 2:30pm – 5:30pm
+Every Friday 2:30pm – 5:00pm
 
 ##### **Achievements and Highlights (2019 – 2020)**
 *   Both the boys’ and girls’ squads participated in the South Zone National School Games (NSG) ‘B’ and ‘C’ Division Badminton Championships 2019 and 2020

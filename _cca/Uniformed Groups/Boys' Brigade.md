@@ -19,13 +19,12 @@ We organise fun, meaningful and challenging activities such as badges attainment
 
 | Teachers in Charge |  |  |
 |:---:|:---:|:---:|
-| Mr Bobby Koh (IC) | [koh_yee_ee_bobby@moe.edu.sg](mailto:koh_yee_ee_bobby@moe.edu.sg) | 62569108 Ext 129 |
-| Mr Sim Yeow Chuan (2IC) | [sim_yeow_chuan@moe.edu.sg](mailto:sim_yeow_chuan@moe.edu.sg) | 62569108 Ext 207 |
+| Mr Sim Yeow Chuan (IC) |	sim_yeow_chuan@moe.edu.sg |	62569108 EXT 205 |
+| Mr Bobby Koh |	koh_yee_ee_bobby@moe.edu.sg |	62569108 EXT 129 |
 |
 
 ##### **Weekly Schedule**
-Every Friday 2:30pm – 4:30pm (Band Practice)  <br>
-Every Saturday 8:00am – 12:30pm (Parade)
+Every Saturday 7:30am – 12:30pm (Parade)
 
 ##### **Achievements and Highlights**
 **_Achievements_**

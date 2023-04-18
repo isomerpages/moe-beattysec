@@ -17,15 +17,15 @@ We specialise in the use of AV equipment, photography and videography. In additi
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mr Lee Kuan Leng Bernard (IC) | [lee_kuan_leng_bernard@moe.edu.sg](mailto:lee_kuan_leng_bernard@moe.edu.sg) | 62569108 Ext 215 |
-| Ms Khoo Xin Han (2IC) | [khoo_xin_han@moe.edu.sg](mailto:khoo_xin_han@moe.edu.sg) | 62569108 Ext 154 |
-| Mdm Yong May May | [yong_may_may@moe.edu.sg](mailto:yong_may_may@moe.edu.sg) | 62569108 Ext 128 |
-| Mr Jerrod Lo | [lo_chong_chiah@moe.edu.sg](mailto:lo_chong_chiah@moe.edu.sg) | 62569108 |
+| Mr Jerrod Lo (IC) |	lo_chong_chiah@moe.edu.sg |	62569108 EXT 137 |
+| Ms Khoo Xin Han (2IC) |	khoo_xin_han@moe.edu.sg |	62569108 EXT 154 |
+| Mr Ganesh Jaga Daseen |	ganesh_jaga_daseen@moe.edu.sg |	62569108 EXT 127 |
+| Mdm Yong May May |	yong_may_may@moe.edu.sg |	62569108 |
 |
 
 ##### **Training Schedule**
-Every Alternate Monday: 3:30pm – 6:30pm  <br>
-Every Thursday: 3:30pm – 6:30pm
+Every Even Week Monday: 3:30pm – 6:00pm  <br>
+Every Thursday: 3:30pm – 6:00pm
 
 ##### **Highlights**
 *   Photography and videography training

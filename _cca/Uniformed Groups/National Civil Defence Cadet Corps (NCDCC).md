@@ -25,11 +25,11 @@ Regular training sessions occur at the unit level, where our cadets are given th
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="NCDCC - Together As One" src="https://www.youtube.com/embed/KtzPWlHfR9E" height="315" width="560"></iframe>
 <br>
 
-| Teacher In Charge |
-| --- |
-| Ms Serena Tan (IC) | [tan\_hwee\_hwee\_serena@moe.edu.sg](mailto:tan\_hwee\_hwee\_serena@moe.edu.sg) | 62569108 Ext 145 |
-| Ms Farah Bte Mohamed Yusop (2IC) | [farah\_mohamed\_yusop@moe.edu.sg](mailto:farah\_mohamed\_yusop@moe.edu.sg) | 62569108 Ext 209 |
-| Mr Tay Boon Leong | [tay\_boon\_leong@moe.edu.sg](mailto:tay\_boon\_leong@moe.edu.sg) | 62569108 Ext 204 |
+| Teacher In Charge | | |
+| :---: | :---: | :---: |
+| Ms Serena Tan (IC) |	tan_hwee_hwee_serena@moe.edu.sg |	62569108 EXT 134 |
+| Ms Farah Binte Mohd Yusop |	farah_mohamed_yusop@moe.edu.sg |	62569108 EXT 209 |
+| Mr Subramaniam Kanesananthan |	subramaniam_kanesananthan@moe.edu.sg |	62569108 EXT 146 |
 |
 
 ##### **Training Schedule**

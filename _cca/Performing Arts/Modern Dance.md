@@ -17,10 +17,9 @@ Besides developing our students physically through the various dance movements, 
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Ms Nurhayati (IC) | [nurhayati_ahmad@moe.edu.sg](mailto:nurhayati_ahmad@moe.edu.sg) | 62569108 Ext 206 |
-| Mdm Jeerah (2IC) | [nur_jeerah_mohd_amin@moe.edu.sg](mailto:nur_jeerah_mohd_amin@moe.edu.sg) | 62569108 Ext 216 |
-| Ms Liem Peng Lan | [peng_lan_liem@moe.edu.sg](mailto:peng_lan_liem@moe.edu.sg) | 62569108 Ext 214 |
-| Ms Oh Ying Jie | [ying_jie_oh@moe.edu.sg](mailto:ying_jie_oh@moe.edu.sg) | 62569108 Ext 131 |
+| Mdm Nur Jeerah Binte Mohd Amin (IC) |	nur_jeerah_mohd_amin@moe.edu.sg |	62569108 EXT 216 |
+| Ms Chong Zhen Yi |	chong_zhen_yi@moe.edu.sg |	62569108 EXT 145 |
+| Ms Liem Peng Lan |	liem_peng_lan@moe.edu.sg |	62569108 EXT 214 |
 | 
 
 ##### **Training Schedule**

@@ -9,21 +9,22 @@ third_nav_title: Performing Arts
 <br>
 ![Choir Upper Sec](/images/CCA%202022/choir-upper-secondary.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ERPyIJEf3H0" title="Beatty Secondary School - Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ERPyIJEf3H0" title="Beatty Secondary School - Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Beatty Secondary School’s Choir comprises passionate individuals who aspire to share their love for music and singing. We stage regular performances during school events such as the Annual Awards Day concert and the National Day Celebrations. In addition, the Choir works with external organisations to bring music and joy to the general masses during public events and participates in the Singapore Youth Festival Arts Presentation.
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Ms Janne Ng (IC) | [janne_ng_ling_ling@moe.edu.sg](mailto:janne_ng_ling_ling@moe.edu.sg) | 62569108 Ext 209 |
-| Ms Ng Ying Hui (2IC) | [ng_ying_hui@moe.edu.sg](mailto:ng_ying_hui@moe.edu.sg) | 62569108 Ext 206 |
-| Ms Rosnita | [rosnita_abdul_ghani@moe.edu.sg](mailto:rosnita_abdul_ghani@moe.edu.sg) | 62569108 Ext 152 |
-| Ms Rosnani Said | [rosnani_said@moe.edu.sg](mailto:rosnani_said@moe.edu.sg) | 62569108 |
+| Mdm Janne Ng (IC) |	janne_ng_ling_ling@moe.edu.sg |	62569108 EXT 208 |
+| Ms Ng Ying Hui (2IC) |	ng_ying_hui@moe.edu.sg |	62569108 EXT 206 |
+| Mdm C M F Rosnita Binte Abdul Ghani |	rosnita_abdul_ghani@moe.edu.sg |	62569108 EXT 149 |
+| Ms Rosnani Bte Said |	rosnani_said@moe.edu.sg |	62569108 |
 |
 
 ##### **Weekly Schedule**
-Every Monday&nbsp; &amp; Every Wednesday: 3:30pm – 5:30pm
-
+Every Monday: 4:10pm – 6:10pm
+Every Friday: 1:45pm - 3:45pm
+ 
 ##### **Achievements and Highlights**
 **_Achievements_**
 *   &nbsp;Certificate of Commendation at the Singapore Youth Festival Arts Presentation 2019

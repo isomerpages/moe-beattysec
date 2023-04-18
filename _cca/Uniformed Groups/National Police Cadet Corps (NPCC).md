@@ -18,17 +18,16 @@ NPCC’s mission is to develop our cadets to become active citizens and communit
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Mdm Siti Zubaidah Bte Jumani (IC) | [siti_zubaidah_jumani@moe.edu.sg](mailto:siti_zubaidah_jumani@moe.edu.sg) | 62569108 Ext 138 |
-| Ms Jessica Kang (2IC) – Covering IC | [kang_pei_yi_jessica@moe.edu.sg](mailto:kang_pei_yi_jessica@moe.edu.sg)  | 62569108 Ext 131 |
-| Ms Dennesa Boon  | [boon_ka_ling_dennesa@moe.edu.sg](mailto:boon_ka_ling_dennesa@moe.edu.sg) | 62569108 Ext 215 |
-| Ms Chong Zhen Yi | [chong_zheng_yi@moe.edu.sg](mailto:chong_zheng_yi@moe.edu.sg) | 62569108 Ext 145 |
-| Mr Fadzrun | [mohamad_fadzrun_adnan@moe.edu.sg](mailto:mohamad_fadzrun_adnan@moe.edu.sg) | 62569108 |
-| Mr Leo Sing Ann | [leo_sing_ann@moe.edu.sg](mailto:leo_sing_ann@moe.edu.sg) | 62569108 |
+| Mdm Siti Zubaidah Binte Jum'Ani (IC) |	siti_zubaidah_jumani@moe.edu.sg |	62569108 EXT 138 |
+| Ms Dennesa Boon (2IC) |	boon_ka-ling_dennesa@moe.edu.sg |	62569108 EXT 215 |
+| Ms Jessica Kang |	kang_pei_yi_jessica@moe.edu.sg |	62569108 EXT 131 |
+| Mdm Krishnaleela Govindasamy |	krishnaleela_s_govindasamy@moe.edu.sg |	62569108 EXT 147 |
+| Mr Mohamad Fadzrun Bin Adnan |	mohamad_fadzrun_adnan@moe.edu.sg |	62569108 EXT 139 |
 |
 
 ##### **Weekly Schedule**
-Every Friday 2:00pm - 6:00pm<br>
-Selected Wednesdays 3:30pm - 6:30pm (make-up session for public holidays, etc.)
+Every Friday 2:30pm - 6:00pm<br>
+Selected Wednesdays 3:30pm - 6:00pm (make-up session for public holidays, etc.)
 
 ##### **Achievements and Highlights**
 **_Achievements_**
