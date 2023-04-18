@@ -5,8 +5,7 @@ description: ""
 ---
 ### **e-Open House 2022**
 
-<img src="/images/Principal.jpeg" 
-     style="width:65%">
+<img src="/images/Principal.jpeg" style="width:65%">
 
 ##### **Our Principal, Mr Harman Johll** <br>**A Beacon of Innovation**
 
@@ -15,28 +14,29 @@ _"The first thing we must all do is love and care for our children; everything e
 Read about Mr Johll's personal convictions about education in this article:
 [https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html](https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html)
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/jXO1srIVg8U" title="Beatty Secondary School - Principal's Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/jXO1srIVg8U" title="Beatty Secondary School - Principal's Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-In this video, our Principal shares about the **school ethos and hopes** for the young charges in our Beatty Ohana. View it to find out how Beatty Secondary can help your child achieve his or her aspirations!
+In this video, our Principal shares about the&nbsp;**school ethos and hopes**&nbsp;for the young charges in our Beatty Ohana. View it to find out how Beatty Secondary can help your child achieve his or her aspirations!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/Ci1Gaouayek" title="Beatty Secondary School - Sec 1 Public Speaking Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/Ci1Gaouayek" title="Beatty Secondary School - Sec 1 Public Speaking Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Check out our signature **Sec 1 Public Speaking Programme** by the English Language and Literature Department to transform our Beattyians into effective, eloquent and confident communicators!
+Check out our signature&nbsp;**Sec 1 Public Speaking Programme**&nbsp;by the English Language and Literature Department to transform our Beattyians into effective, eloquent and confident communicators!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/Yu0JGx2gvE8" title="Beatty Secondary School - Learning for Life Programme (DSA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/Yu0JGx2gvE8" title="Beatty Secondary School - Learning for Life Programme (DSA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Besides striving for academic excellence, Beattyians grow to become leaders in their own right. Watch our video on **Learning for Life Programme (LLP),** which focuses on student leadership, to know more about how we develop our students to be leaders!
+Besides striving for academic excellence, Beattyians grow to become leaders in their own right. Watch our video on&nbsp;**Learning for Life Programme (LLP),**&nbsp;which focuses on student leadership, to know more about how we develop our students to be leaders!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/ML-VQZpejbs" title="Beatty Secondary School - Personalised Digital Learning Programme (PDLP)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/ML-VQZpejbs" title="Beatty Secondary School - Personalised Digital Learning Programme (PDLP)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-COVID-19 has made us think about how we could leverage technology to maximise and enrich students' learning as envisioned in the **Personalised Digital Learning Programme (PDLP)**. Check out how our creative staff tap on the affordances of the iPad to make learning fun and engaging for our young charges!
+COVID-19 has made us think about how we could leverage technology to maximise and enrich students' learning as envisioned in the&nbsp;**Personalised Digital Learning Programme (PDLP)**. Check out how our creative staff tap on the affordances of the iPad to make learning fun and engaging for our young charges!
 
-<iframe width="570" height="321" src="https://www.youtube.com/embed/LM4QMaoG4T8" title="Beatty Secondary School - A journey around our school" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/LM4QMaoG4T8" title="Beatty Secondary School - A journey around our school" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Let's explore the various **facilities** in the school! Join Bryan, a primary six student, as he embarks on an exciting journey around the school!
+Let's explore the various&nbsp;**facilities**&nbsp;in the school! Join Bryan, a primary six student, as he embarks on an exciting journey around the school!
 
 **360 degree virtual tour of campus** <br>
-Curious to know what else Beatty Secondary School has to offer? Enjoy a **360****o** **virtual tour** of the school campus!
+Curious to know what else Beatty Secondary School has to offer?<br>
+Click [here](https://ths.li/suIQC8) to enjoy a **360° virtual tour**&nbsp;of the school campus!
 
 Find out more about what students, alumni, teachers and parents have to say about The **Beatty Experience** in our corporate brochure!
 
@@ -46,8 +46,8 @@ Find out more about what students, alumni, teachers and parents have to say abou
 
 ##### **Connect with Us!**
 
-<img src="/images/FBicon.png" style="width:8%;margin-right:15px;" align = "left">[Beatty Secondary School - Non Vi Sed Arte](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160)
+<img src="/images/FBicon.png" style="width:35px;" align="left">[Beatty Secondary School - Non Vi Sed Arte](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160)
 <br>
-<img src="/images/IGicon.png" style="width:8%;margin-right:15px;" align = "left">[@beattysecsch](https://www.instagram.com/beattysecsch/)
+<img src="/images/IGicon.png" style="width: 35px;" align="left">[@beattysecsch](https://www.instagram.com/beattysecsch/)
 <br>
-<img src="/images/WEBicon.png" style="width:8%;margin-right:15px;" align = "left">[https://beattysec.moe.edu.sg/](https://beattysec.moe.edu.sg/)
+<img src="/images/WEBicon.png" style="width:35px;" align="left">[https://beattysec.moe.edu.sg/](https://beattysec.moe.edu.sg/)
