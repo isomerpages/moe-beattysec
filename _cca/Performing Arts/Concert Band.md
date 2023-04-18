@@ -17,12 +17,11 @@ We also aim to stretch our students in their leadership skills by empowering the
 
 | Teacher In Charge |  |  |
 |:---:|:---:|:---:|
-| Ms Irene Ng (IC) | [ng_hoon_ling_irene@moe.edu.sg](mailto:ng_hoon_ling_irene@moe.edu.sg) | 62569108 Ext 214 |
-| Mrs Ivy Wong (2IC) | [pang_wai-san_ivy@moe.edu.sg](mailto:pang_wai-san_ivy@moe.edu.sg) | 62569108 Ext 147 |
-| Mr Teo Chye Keong | [teo_chye_keong@moe.edu.sg](mailto:teo_chye_keong@moe.edu.sg) | 62569108 Ext 213 |
-| Ms Glenda Chiang | [chiang_cheow_hwee_glenda@moe.edu.sg](mailto:chiang_cheow_hwee_glenda@moe.edu.sg) | 62569108 Ext 136 |
+| Ms Irene Ng (IC) |	ng_hoon_ling_irene@moe.edu.sg |	62569108 EXT 214 |
+| Mrs Ivy Wong (2IC) |	pang_wai-san_ivy@moe.edu.sg |	62569108 EXT 147 |
+| Ms Glenda Chiang |	chiang_cheow_hwee_glenda@moe.edu.sg |	62569108 EXT 136 |
+| Mr Teo Chye Keong |	teo_chye_keong@moe.edu.sg |	62569108 EXT 216 |
 | 
-
 ##### **Weekly Schedule**
 Every Monday and Thursday 3:30pm – 6:30pm
 
