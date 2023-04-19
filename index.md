@@ -19,5 +19,13 @@ sections:
           description: ""
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
+  - infopic:
+      title: DSA-SEC Application
+      subtitle: Beatty Secondary School
+      description: "Apply to Beatty Secondary School via Direct School
+        Admission  based on the following talent areas:"
+      button: Find out more
+      url: /prospective-students/dsa/
+      image: /images/slide1.PNG
+      alt: Image alt text
 ---
-
