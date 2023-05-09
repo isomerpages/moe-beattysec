@@ -10,7 +10,7 @@ description: ""
 **Date:** 13 May 2023<br>
 **Time:** 8:00am to 9:30am<br>
 **Zoom ID:** 827 9034 2571<br>
-**Passcode:** 099950<br><br>
+**Passcode:** 099950
 
 <hr>
 
