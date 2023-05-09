@@ -8,8 +8,8 @@ description: ""
 ![](/images/dsa%20e%20open%20house.jpeg)
 
 ### **DSA e-Open House**
-&gt; **Date:** 13 May 2023<br>**Time:** 8:00am to 9:30am<br>**Zoom ID:** 827 9034 2571<br>**Passcode:** 099950
-&gt; 
+**Date:** 13 May 2023<br>**Time:** 8:00am to 9:30am<br>**Zoom ID:** 827 9034 2571<br>**Passcode:** 099950
+
 
 We invite all interested 2023 Primary 6 students to apply for Beatty Secondary School via the DSA-Sec Exercise.
 
