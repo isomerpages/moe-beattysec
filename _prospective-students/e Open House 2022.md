@@ -3,7 +3,7 @@ title: e Open House 2022
 permalink: /prospective-students/e-openhouse-2022/
 description: ""
 ---
-### **e-Open House 2022**
+### **e-Open House**
 
 <img src="/images/Principal.jpeg" style="width:65%">
 
