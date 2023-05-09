@@ -3,8 +3,18 @@ title: Direct School Admission (DSA)
 permalink: /prospective-students/dsa/
 description: ""
 ---
-### **Direct School Admission – Sec (DSA-Sec) for 2024**
+![](/images/dsa%20e%20open%20house.jpeg)
 
+##### **DSA e-Open House**
+
+**Date:** 13 May 2023<br>
+**Time:** 8:00am to 9:30am<br>
+**Zoom ID:** 827 9034 2571<br>
+**Passcode:** 099950
+
+<hr>
+
+### **Direct School Admission – Sec (DSA-Sec) for 2024**
 We invite all interested 2023 Primary 6 students to apply for Beatty Secondary School via the DSA-Sec Exercise.
 
 Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, while keeping in mind the schools’ academic and non-academic requirements, and the programmes that are available to develop their potential and talents.
@@ -37,7 +47,7 @@ Badminton | 1. Physical Proficiency Aptitude Test<br><br>Applicants will be asse
 | **Performing Arts** | |
 | ----- | ----- |
 | Choir |	1.	Solo Performance Assessment<br><br>Applicants will be assessed on the following aspects:<br>- To prepare and sing one song of your choice (at least 2 minutes).<br><br>Applicants are required to prepare their own audio music, music scores and any other equipment that might be required to demonstrate their skills.<br><br> |
-| English Drama |	1.	Solo Performance Assessment<br><br>Applicants will be assessed on the following aspects:<br>- To prepare an enact 1-minute monologue performance based on a script of your choice.<br><br>2.	Drama Skills Assessment<br><br>Applicants will be assessed on the following aspects:<br>- Improvisation skills<br>- Vocal projection<br>- Spatial awareness.<br><br> |
+| English Drama |	1.	Solo Performance Assessment<br><br>Applicants will be assessed on the following aspects:<br>- To prepare and enact 1-minute monologue performance based on a script of your choice.<br><br>2.	Drama Skills Assessment<br><br>Applicants will be assessed on the following aspects:<br>- Improvisation skills<br>- Vocal projection<br>- Spatial awareness.<br><br> |
 | Chinese Orchestra | 1.	Solo Performance Assessment<br><br>Applicants are to prepare and perform one song of your choice (2 to 4 minutes long).<br><br>Applicants are required to use their own musical instruments, music scores and any other equipment that might be required to demonstrate their skills. 
 | Concert Band | 1.	Music Scales Test<br><br>Applicants are required to play Concert Bb, Eb and/or F scale by memory.<br><br>2. Solo Performance Assessment<br><br>Applicants are to perform two contrasting pieces of your choice (minimally 24 bars)<br><br>Applicants are required to find their own musical instruments, music scores and any other equipment needed to demonstrate their skills. |
 | Malay Dance |	Applicants will be assessed based on:<br><br>1.	1-minute individual Malay dance performance of your choice.<br><br>Please ensure that you have the music accompaniment for your dance performance<br><br>2.	Dance Skills Assessment<br><br>Applicants will be assessed on these aspects:<br>- Dance skills<br>- Ability to pick up dance routine<br>- Elegance<br><br> |
@@ -79,4 +89,4 @@ Students with Achievement Level (AL) 13 or better will be awarded the Low Cheng 
 | By 27 Oct 2023 | Submission of School Preference Form through DSA-Sec Portal by 3pm |
 | Late Nov 2023 |	Allocation Results Release |
 	
-6. You may contact the General Office at 62569108 if you have queries regarding the DSA process. Alternatively, you could contact Mr Kelvin Goh (SH/PE &amp; CCA) at 62569108 ext 210 or Ms Tng Ee Hwei (HOD/PE &amp; CCA) at 62569108 ext 121, or email us at beatty_ss@moe.edu.sg. 
+6. You may contact the General Office at 62569108 if you have queries regarding the DSA process. Alternatively, you could contact Mr Kelvin Goh (SH/PE &amp; CCA) at 62569108 ext 210 or Ms Tng Ee Hwei (HOD/PE &amp; CCA) at 62569108 ext 121, or email us at beatty_ss@moe.edu.sg.
