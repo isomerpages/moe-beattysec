@@ -13,23 +13,23 @@ The subjects rostered for blended learning days in Semester 1 are as follows.
 
 <table cellpadding="0" cellspacing="0">
   <tbody><tr>
-		<td width="100%" colspan="7"><b>Secondary 1</b></td>
-  </tr>
+		<th width="100%" colspan="7"><b>Secondary 1</b>
+  </th></tr>
   <tr>
-    <td>T3W2<br>
-      5 Jul</td>
-    <td>T3W4<br>
-      19 Jul</td>
-    <td>T3W5<br>
-      26 Jul</td>
-    <td>T3W6<br>
-      2 Aug</td>
-    <td>T3W8<br>
-      16 Aug</td>
-    <td>T3W10<br>
-      30 Aug</td>
-    <td>T4 W2<br>
-      20 Sept</td>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
   </tr>
   <tr>
     <td>English</td>
@@ -68,23 +68,23 @@ The subjects rostered for blended learning days in Semester 1 are as follows.
 
 <table cellpadding="0" cellspacing="0">
   <tbody><tr>
-		<td width="100%" colspan="7"><b>Secondary 2</b></td>
+    <th width="100%" colspan="7">Secondary 2</th>
   </tr>
   <tr>
-    <td>T3W2<br>
-      5 Jul</td>
-    <td>T3W4<br>
-      19 Jul</td>
-    <td>T3W5<br>
-      26 Jul</td>
-    <td>T3W6<br>
-      2 Aug</td>
-    <td>T3W8<br>
-      16 Aug</td>
-    <td>T3W10<br>
-      30 Aug</td>
-    <td>T4 W2<br>
-      20 Sept</td>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
   </tr>
   <tr>
     <td>English</td>
