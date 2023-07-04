@@ -181,7 +181,59 @@ The subjects rostered for blended learning days in Semester 1 are as follows.
   </tr>
 </tbody></table>
 
-
+<table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th width="100%" colspan="7">Secondary 3 Normal (A)</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+  <tr>
+    <td>F&amp;N/ D&amp;T/ Art/ A Math/ POA</td>
+    <td>Math</td>
+    <td>F&amp;N/    D&amp;T/ Art/ A Math/ POA</td>
+    <td>Math</td>
+    <td>F&amp;N/    D&amp;T/ Art/ A Math/ POA</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Sci    Phy</td>
+    <td>&nbsp;</td>
+    <td>Sci Phy</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
 
 Students are required to complete all lessons assigned on the blended learning day itself.
 
