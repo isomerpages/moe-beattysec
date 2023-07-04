@@ -47,9 +47,9 @@ third_nav_title: For Students & Parents
 [Parents Gateway](https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway)
 
 <p><a href="https://go.gov.sg/btysschangeofoptionsdma2023">
-<img style="width:10%" src="/images/formsg.png" align="left">
-	PLD Change of DMA Option</a></p>
+<img style="width:10%" src="/images/formsg.png" align="left"></a></p>
 
+[PLD Change of DMA Option](https://go.gov.sg/btysschangeofoptionsdma2023)
 
 #### **Institutes of Higher Learning**
 ##### **Universities in Singapore**
