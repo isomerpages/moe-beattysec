@@ -51,6 +51,11 @@ third_nav_title: For Students & Parents
 
 [PLD Change of DMA Option](https://go.gov.sg/btysschangeofoptionsdma2023)
 
+<p><a href="https://www.asiapac.com.sg/pld-apple/account/login">
+<img style="width:10%" src="/images/asiapac.png" align="left"></a></p>
+
+[PLD Purchase of Accessories](https://www.asiapac.com.sg/pld-apple/account/login)
+
 #### **Institutes of Higher Learning**
 ##### **Universities in Singapore**
 <p></p><p><a href="http://nus.edu.sg/">
