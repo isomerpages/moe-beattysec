@@ -7,1309 +7,289 @@ description: ""
 
 Dear Parents/ Guardians and students,
 
-Blended Learning for Term 1 will begin on 25 Jan for all Secondary 1 to 4 students and will take place on the Wednesday of every EVEN week.
+Blended Learning for Term 3 will begin on 5 July for all Secondary 1 to 3 students and will take place on the Wednesday of every EVEN week.
 
 The subjects rostered for blended learning days in Semester 1 are as follows.
 
-<table  cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; width: 796px;">Secondary 1 &amp; 2<br>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-			
-<td>Math
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-			
-<td>Science
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-	
-</tbody>
-</table>
-<br>
-<table cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; width: 796px;">Secondary 3 Express
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Pure Chem / Sci Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Pure Chem / Sci Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Pure Chem / Sci Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Pure Chem / Sci Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-		
-</tr>
-	
-</tbody>
-</table>
-<br>
-<table cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; width: 796px;">Secondary 3 Normal (A)
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / A Math / POA
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Sc Chem
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Sc Chem
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Sc Chem
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Sc Chem
-</td>
-			
-<td>&nbsp;
-</td>
-		
-</tr>
-	
-</tbody>
-</table><br>
-<table cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; width: 796px;">&nbsp;Secondary 3 Normal (T)
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T / ART
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T / ART
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T / ART
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T / ART
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-		
-</tr>
-	
-</tbody>
-</table><br>
-<table cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; ">Secondary 4 Express / 5 Normal (A)
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-			
-<td>Math
-</td>
-			
-<td>A Math / POA
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Sci Physics / Sci Bio / Pure Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Sci Physics / Sci Bio / Pure Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Sci Physics / Sci Bio / Pure Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-			
-<td>Sci Physics / Sci Bio / Pure Chem
-</td>
-			
-<td>F&amp;N / D&amp;T / Art / Lit / Geog / Pure Bio
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-			
-<td>&nbsp;
-</td>
-			
-<td>Pure Physics
-</td>
-		
-</tr>
-	
-</tbody>
-</table><br>
-<table cellspacing="0">
-<tbody>
-<tr>
-<th colspan="8" style="text-align: center; ">Secondary 4 Normal (A)
-</th>
-</tr>
-<tr>
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-</tr>
-<tr>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-<td>English
-</td>
-</tr>
-<tr>
-<td>MTL
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-<td>MT
-</td>
-</tr>
-<tr>
-<td>Math
-</td>
-<td>F&amp;N / D&amp;T / Art / A Math / POA
-</td>
-<td>Math
-</td>
-<td>FN/DT/Art/ AM/POA
-</td>
-<td>Math
-</td>
-<td>FN/DT/Art/ AM/POA
-</td>
-<td>Math
-</td>
-<td>FN/DT/Art/ AM/POA
-</td>
-</tr>
-<tr>
-<td>Sci Physics / Sci Bio
-</td>
-<td>&nbsp;
-</td>
-<td>Sci Physics / Sci Bio
-</td>
-<td>&nbsp;
-</td>
-<td>Sci Physics / Sci Bio
-</td>
-<td>&nbsp;
-</td>
-<td>Sci Physics / Sci Bio
-</td>
-<td>&nbsp;
-</td>
-</tr>
-</tbody>
-</table>
-<br>
-<table cellspacing="0">
-	
-<tbody>
-		
-<tr>
-			
-<th colspan="8" style="text-align: center; ">Secondary 4 Normal (T)
-</th>
-		
-</tr>
-		
-<tr>
-			
-<th>
-<div style="text-align: center;">T1W4
-</div>
-<div style="text-align: center;">25 Jan
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W6
-</div>
-<div style="text-align: center;">8 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W8
-</div>
-<div style="text-align: center;">22 Feb
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T1W10
-</div>
-<div style="text-align: center;">8 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W2
-</div>
-<div style="text-align: center;">29 Mar
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W4
-</div>
-<div style="text-align: center;">12 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W6
-</div>
-<div style="text-align: center;">26 Apr
-</div>
-</th>
-			
-<th>
-<div style="text-align: center;">T2W8
-</div>
-<div style="text-align: center;">10 May
-</div>
-</th>
-		
-</tr>
-		
-<tr>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-			
-<td>English
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-			
-<td>MTL
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T
-</td>
-			
-<td>Math
-</td>
-			
-<td>EBS / NFS / D&amp;T
-</td>
-		
-</tr>
-		
-<tr>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-			
-<td>SET / Science
-</td>
-		
-</tr>
-	
-</tbody>
-</table>
+<table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+		<th width="100%" colspan="7"><b>Secondary 1</b>
+  </th></tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br>
+      Replacement day TBC.&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Math</td>
+    <td>Math</td>
+    <td>Math</td>
+    <td>Math</td>
+    <td>Math</td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>Science</td>
+    <td>Science</td>
+    <td>Science</td>
+    <td>Science</td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th width="100%" colspan="7">Secondary 2</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>Math</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>Math</td>
+    <td>Math</td>
+    <td>Math</td>
+    <td>Science</td>
+    <td>Math</td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>Science</td>
+    <td>Science</td>
+    <td>MTL</td>
+    <td>Science</td>
+  </tr>
+  <tr>
+    <td>MTL (only for    G1 and G2)</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>&nbsp;</td>
+    <td>MTL</td>
+  </tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th width="100%" colspan="7">Secondary 3 Express</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>MTL</td>
+    <td rowspan="5">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="5">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>Math</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+  <tr>
+    <td>A Math/POA</td>
+    <td>Sci    Phy/ Sci Bio/ Pure Chem</td>
+    <td>A    Math/POA</td>
+    <td>Math</td>
+    <td>A    Math/POA</td>
+  </tr>
+  <tr>
+    <td>F&amp;N/ D&amp;T/ Art/ Lit/ Geog/ Pure Bio</td>
+    <td>&nbsp;</td>
+    <td>F&amp;N/    D&amp;T/ Art/ Lit/ Geog/ Pure Bio</td>
+    <td>Sci    Phy/ Sci Bio/ Pure Chem</td>
+    <td>F&amp;N/    D&amp;T/ Art/ Lit/ Geog/ Pure Bio</td>
+  </tr>
+  <tr>
+    <td>Pure Physics</td>
+    <td>&nbsp;</td>
+    <td>Pure    Physics</td>
+    <td>&nbsp;</td>
+    <td>Pure    Physics</td>
+  </tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th width="100%" colspan="7">Secondary 3 Normal (A)</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+  <tr>
+    <td>F&amp;N/ D&amp;T/ Art/ A Math/ POA</td>
+    <td>Math</td>
+    <td>F&amp;N/    D&amp;T/ Art/ A Math/ POA</td>
+    <td>Math</td>
+    <td>F&amp;N/    D&amp;T/ Art/ A Math/ POA</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Sci    Phy</td>
+    <td>&nbsp;</td>
+    <td>Sci Phy</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0">
+  <colgroup><col span="6">
+  <col>
+  </colgroup><tbody><tr>
+    <th width="1589" colspan="7">Secondary 3Normal (T)</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+  <tr>
+    <td>EBS/ NFS/ D&amp;T/ ART</td>
+    <td>Math</td>
+    <td>EBS/    NFS/ D&amp;T/ ART</td>
+    <td>Math</td>
+    <td>EBS/    NFS/ D&amp;T/ ART</td>
+  </tr>
+  <tr>
+    <td>SET/ Science</td>
+    <td>SET/    Science</td>
+    <td>Science</td>
+    <td>SET/    Science</td>
+    <td>SET/    Science</td>
+  </tr>
+</tbody></table>
 
 Students are required to complete all lessons assigned on the blended learning day itself.
 
@@ -1335,14 +315,14 @@ More information on accessing the SLS is available at [https://beattysec.moe.edu
 		</tr>
 		<tr>
 			<td>Resetting of SLS passwords</td>
-			<td>1. Self-reset via verified email or security questions&nbsp;<br />
-			2. Form Teachers&nbsp;<br />
-			3. School Administrators<br />
+			<td>1. Self-reset via verified email or security questions&nbsp;<br>
+			2. Form Teachers&nbsp;<br>
+			3. School Administrators<br>
 			4. SLS Login Issues Form</td>
 		</tr>
 		<tr>
 			<td>To unlock SLS accounts</td>
-			<td>1. School Admin<br />
+			<td>1. School Admin<br>
 			2. SLS Login Issues Form</td>
 		</tr>
 	</tbody>
@@ -1388,6 +368,7 @@ Mondays – Fridays 9:00 am – 4:00 pm
 	</tbody>
 </table>
 
+
 **SLS Login Issues Form:** [https://go.gov.sg/beattysls](https://go.gov.sg/beattysls)
 
 
@@ -1399,7 +380,7 @@ Tel: (65) 6702 6513
 
 Mondays ― Fridays: 9:00 am - 9:00 pm
 Saturdays: 9:00 am - 9:00 pm
-*Closed on Sundays & Public Holidays 
+*Closed on Sundays &amp; Public Holidays 
 
 **iMTL**
 
@@ -1409,4 +390,4 @@ Tel:  (65) 6848 8900
 Operating Hours
 Mondays to Fridays: 7:00 am – 7:00 pm
 Saturdays: 7:00 am – 2:00 pm 
-*Closed on Sundays & Public Holidays
+*Closed on Sundays &amp; Public Holidays
