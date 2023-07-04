@@ -235,6 +235,62 @@ The subjects rostered for blended learning days in Semester 1 are as follows.
   </tr>
 </tbody></table>
 
+<table cellpadding="0" cellspacing="0">
+  <colgroup><col span="6">
+  <col>
+  </colgroup><tbody><tr>
+    <th width="1589" colspan="7">Secondary 3Normal (T)</th>
+  </tr>
+  <tr>
+    <th width="14%">T3W2<br>
+      5 Jul</th>
+    <th width="14%">T3W4<br>
+      19 Jul</th>
+    <th width="14%">T3W5<br>
+      26 Jul</th>
+    <th width="14%">T3W6<br>
+      2 Aug</th>
+    <th width="14%">T3W8<br>
+      16 Aug</th>
+    <th width="14%">T3W10<br>
+      30 Aug</th>
+    <th width="14%">T4 W2<br>
+      20 Sept</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">Subjects for BL: Follow timetable</td>
+    <td>English</td>
+    <td>English</td>
+    <td>English</td>
+    <td rowspan="4">No BL. <br>
+      Students will come back for lessons. <br>
+      Late start day. <br></td>
+  </tr>
+  <tr>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+    <td>MTL</td>
+  </tr>
+  <tr>
+    <td>EBS/ NFS/ D&amp;T/ ART</td>
+    <td>Math</td>
+    <td>EBS/    NFS/ D&amp;T/ ART</td>
+    <td>Math</td>
+    <td>EBS/    NFS/ D&amp;T/ ART</td>
+  </tr>
+  <tr>
+    <td>SET/ Science</td>
+    <td>SET/    Science</td>
+    <td>Science</td>
+    <td>SET/    Science</td>
+    <td>SET/    Science</td>
+  </tr>
+</tbody></table>
+
 Students are required to complete all lessons assigned on the blended learning day itself.
 
 The plans and instructions for blended learning assignments will be made available to parents via a link in Parents Gateway. Students will also receive the links from their FTs.
