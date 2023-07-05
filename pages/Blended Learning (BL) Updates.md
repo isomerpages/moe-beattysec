@@ -9,7 +9,7 @@ Dear Parents/ Guardians and students,
 
 Blended Learning for Term 3 will begin on 5 July for all Secondary 1 to 3 students and will take place on the Wednesday of every EVEN week.
 
-The subjects rostered for blended learning days in Semester 1 are as follows.
+The subjects rostered for blended learning days are as follows.
 
 <table cellpadding="0" cellspacing="0">
   <tbody><tr>
