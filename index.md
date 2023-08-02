@@ -28,4 +28,7 @@ sections:
       url: /prospective-students/dsa/
       image: /images/slide1.PNG
       alt: Image alt text
+  - resources:
+      title: Announcements
+      button: More
 ---
