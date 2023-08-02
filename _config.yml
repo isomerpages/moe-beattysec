@@ -6,9 +6,9 @@ colors:
   secondary-color: "#001386"
   media-colors:
     - title: media-color-one
-      color: "#001386"
+      color: "#000c53"
     - title: media-color-two
-      color: "#001386"
+      color: "#000c53"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
