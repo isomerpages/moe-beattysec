@@ -25,6 +25,6 @@ The ECHA is meant to recognise and affirm students who demonstrated exemplary ch
 ECHA awardee will receive a certificate and a monetary value of $500.
 Nominations are open to students, staff, parents and public. Please submit the nominations through this link [https://go.gov.sg/echanomination2023](https://go.gov.sg/echanomination2023) or the QR code below before 4 August 2023,5pm.
 
-<img width="200px" src="/images/echanomination2023.png">
+<a href="https://go.gov.sg/echanomination2023"><img style="width:250px" src="/images/echanomination2023.png"></a>
 
 Submission after the closing date will not be accepted.
