@@ -15,13 +15,13 @@ Beatty Secondary School has a vacancy for Economical Rice Stall. The Stall can s
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 1 Toa Payoh North, Singapore 318990
 * Contact No: 62569108
-* Email: [beatty_ss@moe.edu.sg](mailto:beatty_ss@moe.edu.sg )beatty_ss@moe.edu.sg 
+* Email: [beatty_ss@moe.edu.sg](mailto:beatty_ss@moe.edu.sg )
 * Contact Person: Ms Sharon Goh or Mr Michael Ong 
 
 **How to get there?**
 * Nearest MRT: Braddell MRT  – 10 minutes walking distance
-* Bus number: 3 minutes walking distance
-13, 56, 57, 59, 88, 93, 157, 163 - After Muhajirin Mosque Bus stop number: 52039 
+* Bus number: 3 minutes walking distance<br>
+13, 56, 57, 59, 88, 93, 157, 163 - After Muhajirin Mosque Bus stop number: 52039<br>
 28, 56, 57, 59, 73, 88, 105, 129, 153, 155, 157, 159, 163 - Block 237 Bus stop number: 52369
 
 **Interested applicants must meet the following criteria:**
