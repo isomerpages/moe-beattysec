@@ -15,7 +15,7 @@ Beatty Secondary School has a vacancy for Economical Rice Stall. The Stall can s
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 1 Toa Payoh North, Singapore 318990
 * Contact No: 62569108
-* Email: beatty_ss@moe.edu.sg 
+* Email: [beatty_ss@moe.edu.sg](mailto:beatty_ss@moe.edu.sg )beatty_ss@moe.edu.sg 
 * Contact Person: Ms Sharon Goh or Mr Michael Ong 
 
 **How to get there?**
