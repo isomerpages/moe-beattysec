@@ -3,7 +3,9 @@ title: School Canteen
 permalink: /advertisements/schoolcanteenad/
 description: ""
 ---
-Beatty Secondary School has a vacancy for Economical Rice Stall. The Stall can sell Asian Rice sets including Chinese, Korean or Thai.
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Economical Rice Stall | 15 Nov 2023 |  The Stall can sell Asian Rice sets including Chinese, Korean or Thai. |
 
 **Application procedures**
 1. Download and complete the application form. You may also request a hardcopy from the School’s General Office.
