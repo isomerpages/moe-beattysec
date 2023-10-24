@@ -28,4 +28,5 @@ sections:
       button: Find out more
       url: /prospective-students/e-openhouse/
       alt: Image alt text
+      image: /images/2023eopenhouse1.jpg
 ---
