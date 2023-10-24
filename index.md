@@ -19,7 +19,13 @@ sections:
           description: ""
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
-  - resources:
-      title: Announcements
-      button: More
+  - infopic:
+      title: E-OPEN HOUSE 2023
+      subtitle: BEATTY SECONDARY SCHOOL
+      id: infopic
+      description: Calling all prospective Primary 6 students who are keen to be part
+        of our Beatty Ohana!
+      button: Find out more
+      url: /prospective-students/e-openhouse/
+      alt: Image alt text
 ---
