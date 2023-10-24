@@ -3,6 +3,7 @@ title: e Open House
 permalink: /prospective-students/e-openhouse/
 description: ""
 ---
+![](/images/2023eopenhouse1.jpg)
 ### **e-Open House**
 
 <img src="/images/Principal.jpeg" style="width:65%">
