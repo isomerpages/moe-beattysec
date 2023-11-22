@@ -4,7 +4,6 @@ permalink: /prospective-students/e-openhouse/
 description: ""
 variant: markdown
 ---
-![](/images/2023eopenhouse1.jpg)
 ### **Open House**
 
 <img src="/images/Principal.jpeg" style="width:65%">
