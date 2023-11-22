@@ -26,7 +26,7 @@ sections:
       description: Calling all prospective Primary 6 students who are keen to be part
         of our Beatty Ohana!
       button: Find out more
-      url: /prospective-students/e-openhouse/
+      url: /prospective-students/openhouse/
       alt: Image alt text
       image: /images/2023eopenhouse1.jpg
 ---
