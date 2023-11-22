@@ -2,5 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
-      - e Open House.md
+      - Open House.md
       - Direct School Admission (DSA).md
