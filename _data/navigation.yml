@@ -70,9 +70,11 @@ links:
       - title: FAQs
         url: /useful-links/faqs/
   - title: Prospective Students
-    url: /prospective-students/e-openhouse/
+    url: /prospective-students/infop6/
     sublinks:
-      - title: e-Open House
-        url: /prospective-students/e-openhouse/
+      - title: Critical Info for P6 Students
+        url: /prospective-students/infop6/
+      - title: Open House
+        url: /prospective-students/openhouse/
       - title: Direct School Admission (DSA)
         url: /prospective-students/dsa/
