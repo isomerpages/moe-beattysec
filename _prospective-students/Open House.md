@@ -6,9 +6,7 @@ variant: markdown
 ---
 ### **Open House**
 
-Get to know Beatty Secondary School. Click here to access the slides
-
-
+Knowing Beatty Secondary School. 
 [![Open house slides](/images/OHSlides.png)Click here to access the Open House Slides](https://online.fliphtml5.com/dmjzi/xmit/)
 
 ##### **Our Principal, Mr Harman Johll** <br>**A Beacon of Innovation**
