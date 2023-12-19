@@ -29,4 +29,7 @@ sections:
       url: /prospective-students/openhouse/
       alt: Image alt text
       image: /images/2023eopenhouse1.jpg
+  - resources:
+      title: Announcements
+      id: resources
 ---
