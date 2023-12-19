@@ -4,4 +4,4 @@ permalink: /prospective-students/btyappeal2024/
 variant: tiptap
 description: ""
 ---
-<p>To appeal for transfer into Beatty Secondary School: Click <a href="https://go.gov.sg/2024s1appealbtyss" rel="noopener noreferrer nofollow" target="_blank">here</a></p>
+<h4>Click <a href="https://go.gov.sg/2024s1appealbtyss" rel="noopener noreferrer nofollow" target="_blank">here</a> to appeal for transfer into Beatty Secondary School.</h4><p></p><p></p>
