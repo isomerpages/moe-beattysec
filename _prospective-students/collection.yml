@@ -2,6 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
-      - Critical Information for P6 Students.md
+      - Appeal for Transfer into Beatty.md
       - Open House.md
       - Direct School Admission (DSA).md
