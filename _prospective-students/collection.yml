@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - Appeal for Transfer into Beatty.md
       - Open House.md
       - Direct School Admission (DSA).md
