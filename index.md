@@ -30,7 +30,6 @@ sections:
       alt: Image alt text
       image: /images/2023eopenhouse1.jpg
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Announcements
       id: resources
 ---
