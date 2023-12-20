@@ -13,12 +13,12 @@ links:
         url: /about-us/student-management/
       - title: Partners
         url: /about-us/partners/
+      - title: Student Handbook
+        url: /about-us/studenthandbook/
       - title: Year Book
         url: /about-us/year-book/
       - title: Contact Us
         url: /contact-us/
-      - title: Student Handbook
-        url: /permalink
   - title: CCA
     url: /cca/
     sublinks:
