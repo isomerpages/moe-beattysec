@@ -17,6 +17,8 @@ links:
         url: /about-us/year-book/
       - title: Contact Us
         url: /contact-us/
+      - title: Student Handbook
+        url: /permalink
   - title: CCA
     url: /cca/
     sublinks:
