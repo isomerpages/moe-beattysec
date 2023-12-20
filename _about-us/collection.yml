@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Student Handbook.md
       - Principal's Message.md
       - Our School/Our School.md
       - Our School/School Vision, Mission and Philosophy.md
