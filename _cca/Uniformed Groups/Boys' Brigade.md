@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /cca/uniformed-groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **Boys' Brigade**
 ![BB Lower Sec](/images/CCA%202022/boys'-brigade-lower-secondary.png)
@@ -24,7 +25,7 @@ We organise fun, meaningful and challenging activities such as badges attainment
 |
 
 ##### **Weekly Schedule**
-Every Saturday 7:30am – 12:30pm (Parade)
+Every Friday 2:00pm – 5:30pm (Parade)
 
 ##### **Achievements and Highlights**
 **_Achievements_**
