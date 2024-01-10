@@ -20,23 +20,6 @@ sections:
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
   - infopic:
-      title: SECONDARY 1 REGISTRATION
-      subtitle: Prospective Students
-      id: infopic
-      description: |-
-        Congratulations on your posting to Beatty Secondary School!
-
-        Access the Secondary 1 Registration Microsite here!
-      button: Click here
-      url: https://sites.google.com/moe.edu.sg/btys1reg2024/
-      image: /images/A107.jpg
-      alt: Image alt text
-  - infobar:
-      title: Appeal for Transfer into Beatty Secondary School
-      id: infobar
-      button: Click Here
-      url: https://go.gov.sg/2024s1appealbtyss
-  - infopic:
       title: OPEN HOUSE 2023
       subtitle: BEATTY SECONDARY SCHOOL
       id: infopic
