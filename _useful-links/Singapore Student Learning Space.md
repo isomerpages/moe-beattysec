@@ -8,7 +8,7 @@ variant: markdown
 
 ![](/images/SLS_new.jpg)
 
-As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all&nbsp;students in Singapore schools will be supported in their learning by the&nbsp;[Singapore Student Learning Space (SLS)](https://learning.moe.edu.sg/login), an online learning platform that contains curriculum-aligned resources and learning tools.
+As part of its commitment to nurturing future-ready learners, the Ministry of Education had announced that all&nbsp;students in Singapore schools will be supported in their learning by the&nbsp;[Singapore Student Learning Space (SLS)](https://learning.moe.edu.sg/), an online learning platform that contains curriculum-aligned resources and learning tools.
 
 Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. We believe such a learning experience is essential to help students to become an active and confident user of technology.  
   
