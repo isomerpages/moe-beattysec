@@ -1,0 +1,80 @@
+logo: /images/BTlogo.png
+links:
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our School
+        url: /about-us/our-school/
+      - title: Our People
+        url: /about-us/our-people/
+      - title: Student Management
+        url: /about-us/student-management/
+      - title: Partners
+        url: /about-us/partners/
+      - title: Student Handbook
+        url: /about-us/studenthandbook/
+      - title: Year Book
+        url: /about-us/year-book/
+      - title: Contact Us
+        url: /contact-us/
+  - title: CCA
+    url: /cca/
+    sublinks:
+      - title: Sports and Games
+        url: /cca/sports-and-games/
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/
+      - title: Performing Arts
+        url: /cca/performing-arts/
+      - title: Clubs and Societies
+        url: /cca/clubs-and-societies/
+  - title: Key Programmes
+    url: /key-programmes/instructional-programme/at/
+    sublinks:
+      - title: Instructional Programme
+        url: /key-programmes/instructional-programme/at/
+      - title: Learning for Life Programme
+        url: /key-programmes/llp/
+      - title: Applied Learning Programme
+        url: /key-programmes/alp/
+      - title: Values Education
+        url: /key-programmes/values-education/
+      - title: Full Subject Based Banding
+        url: /key-programmes/fsbb/
+      - title: Sec 1 Critical Inquiry Project
+        url: /key-programmes/s1cip/
+  - title: Achievements
+    url: /achievements/news/
+    sublinks:
+      - title: Beattyians in the news
+        url: /achievements/news/
+      - title: Academic Achievements
+        url: /achievements/academic-achievements/
+      - title: CCA Achievements
+        url: /achievements/cca-achievements/
+      - title: Our Illustrious Alumni
+        url: /achievements/our-illustrious-alumni/
+  - title: Useful Links
+    url: /useful-links/ndlp/
+    sublinks:
+      - title: National Digital Literacy Prog
+        url: /useful-links/ndlp/
+      - title: S'pore Student Learning Space
+        url: /useful-links/singapore-sls/
+      - title: For Teachers
+        url: /useful-links/for-teachers/
+      - title: For Students & Parents
+        url: /useful-links/for-students-and-parents/
+      - title: SWN Login Guide
+        url: /useful-links/swn-login-guide/
+      - title: FAQs
+        url: /useful-links/faqs/
+  - title: Prospective Students
+    url: /prospective-students/infop6/
+    sublinks:
+      - title: Open House
+        url: /prospective-students/openhouse/
+      - title: Direct School Admission (DSA)
+        url: /prospective-students/dsa/
