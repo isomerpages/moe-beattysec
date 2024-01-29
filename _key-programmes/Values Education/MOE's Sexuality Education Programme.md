@@ -850,13 +850,13 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <u>here</u> . The completed
-form is to be submitted by 20/02/2024.</p>
+at the start of the year and is also downloadable <a href="/files/MOE_Sexuality_Education_Parent_opt_out_form___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 20/02/2024.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <u>here</u>. &nbsp;The
+at the start of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The
 completed form is to be submitted by 20/02/2024.</p>
 </li>
 <li>
