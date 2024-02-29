@@ -63,4 +63,3 @@ is required. We look forward to building a stronger community with you!</p>
 <iframe height="469" width="660" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzDFQwGGdfYKyY3Bq8pl4D1KvubCPApxlSmYtpNotzKjTVda_zxwffYg1gV7cFvjEyv3oCK1vRlI2J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<p></p>
