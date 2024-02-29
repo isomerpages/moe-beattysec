@@ -5,28 +5,10 @@ description: ""
 third_nav_title: Partners
 variant: tiptap
 ---
-<h4></h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<h2><strong>Beatty Parent Support Group</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG_Bee.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong>Beatty Parent Support Group</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>About Us</strong></h4>
 <p>We are a group of parents who believed that a thriving school community
 is built on the active involvement and support of parents. We aim to create
@@ -66,6 +48,9 @@ Your participation is crucial in creating a positive and nurturing environment
 for our children.</p>
 <p>Together, let's make the journey of parenthood and education an enriching
 and joyous experience for everyone involved!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG_Bee.jpg">
+</div>
 <h4><strong>How to join?</strong></h4>
 <p>You may sign up through the QR code or the link below, no membership fee
 is required. We look forward to building a stronger community with you!</p>
