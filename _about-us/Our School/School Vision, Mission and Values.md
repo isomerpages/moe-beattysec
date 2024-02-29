@@ -13,7 +13,7 @@ can develop talents that they can share with the community.</p>
 <p>Non Vi Sed Arte</p>
 <h4><strong>School Mission :</strong></h4>
 <p>Every Beattyian A Purpose Driven Steward</p>
-<h4><strong>School Vision</strong></h4>
+<h4><strong>School Vision:</strong></h4>
 <p>Nurturing Adaptive Thinkers, Agile Learners and Active Contributors</p>
 <h3><strong>School Values</strong></h3>
 <div class="isomer-image-wrapper">
