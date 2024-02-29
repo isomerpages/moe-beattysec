@@ -12,7 +12,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG_Bee.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG_Bee.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG.png">
 </div>
 </th>
 </tr>
@@ -31,7 +31,7 @@ variant: tiptap
 <p>We are a group of parents who believed that a thriving school community
 is built on the active involvement and support of parents. We aim to create
 a supportive environment that focuses on the following pillars:</p>
-<p><strong>1.	Engage Parents in Personal Well-being:</strong>
+<p><strong>1. Engage Parents in Personal Well-being:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,7 +41,7 @@ and discussions, we strive to empower parents with the tools and knowledge
 to take care of their personal wellness.</p>
 </li>
 </ul>
-<p><strong>2.	Encourage Parent-Child Bonding:</strong>
+<p><strong>2. Encourage Parent-Child Bonding:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,7 @@ interactions between parents and their children, creating lasting memories
 and strengthening the family unit.</p>
 </li>
 </ul>
-<p><strong>3.	Enrich Parenting Journey through Workshops/Tea Sessions:</strong>
+<p><strong>3. Enrich Parenting Journey through Workshops/Tea Sessions:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
