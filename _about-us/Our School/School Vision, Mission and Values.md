@@ -25,7 +25,4 @@ can develop talents that they can share with the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DREAM_.gif">
-</div>
 <p></p>
