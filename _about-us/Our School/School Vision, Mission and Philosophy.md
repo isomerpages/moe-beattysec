@@ -6,13 +6,13 @@ third_nav_title: Our School
 variant: tiptap
 ---
 <h3><strong>School Vision, Mission and Philosophy</strong></h3>
+<h4><strong>Belief:</strong></h4>
+<p>Every Beattyian has latent giftings who when given opportunities and time,
+can develop talents that they can share with the community.</p>
 <h4><strong>School Motto:</strong></h4>
 <p>Non Vi Sed Arte</p>
+<h4><strong>School Mission :</strong></h4>
+<p>Every Beattyian A Purpose Driven Steward</p>
 <h4><strong>School Vision</strong></h4>
 <p>Nurturing Adaptive Thinkers, Agile Learners and Active Contributors</p>
-<h4><strong>School Mission :</strong></h4>
-<p>To nurture Beattyians of Character with a sense of Purpose and Passion
-for Life</p>
-<h4><strong>Philosophy :</strong></h4>
-<p>We believe in the unique worth of every individual student and that with
-our care and concern,each one can be educated to reach the highest potential</p>
+<p></p>
