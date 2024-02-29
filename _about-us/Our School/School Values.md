@@ -6,6 +6,11 @@ third_nav_title: Our School
 variant: tiptap
 ---
 <h3><strong>School Values</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DREAM_.gif">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -304,4 +309,5 @@ the wellness of our Ohana.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
