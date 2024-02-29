@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>School Values</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DREAM_.gif">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DREAM_.gif">
 </div>
 <p></p>
 <table>
