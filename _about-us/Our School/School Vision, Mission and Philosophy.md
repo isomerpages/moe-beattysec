@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School
 variant: tiptap
 ---
-<h3><strong>School Vision, Mission and Philosophy</strong></h3>
+<h3><strong>School Vision, Mission and Values</strong></h3>
 <h4><strong>Belief:</strong></h4>
 <p>Every Beattyian has latent giftings who when given opportunities and time,
 can develop talents that they can share with the community.</p>
