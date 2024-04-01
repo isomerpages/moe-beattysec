@@ -19,47 +19,47 @@ and will take place on the Wednesday of every EVEN week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
+<p><strong>T1W4</strong> 
 <br><strong>24 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
+<p><strong>T1W6</strong> 
 <br><strong>7 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
+<p><strong>T1W8</strong> 
 <br><strong>21 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
+<p><strong>T1W10</strong> 
 <br><strong>6 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
+<p><strong>T2W2</strong> 
 <br><strong>27 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
+<p><strong>T2W4</strong> 
 <br><strong>10 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
+<p><strong>T2W6</strong> 
 <br><strong>24 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
+<p><strong>T2W8</strong> 
 <br><strong>8 May</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
+<p><strong>T2W10</strong> 
 <br><strong>22 May</strong>
 </p>
 </td>
@@ -167,8 +167,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 <p>ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT VC
-<br>(1-4 to 1-7)</p>
+<p>SIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT VC
@@ -189,7 +188,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIL</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SIL</p>
@@ -208,47 +207,47 @@ and will take place on the Wednesday of every EVEN week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
+<p><strong>T1W4</strong> 
 <br><strong>24 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
+<p><strong>T1W6</strong> 
 <br><strong>7 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
+<p><strong>T1W8</strong> 
 <br><strong>21 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
+<p><strong>T1W10</strong> 
 <br><strong>6 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
+<p><strong>T2W2</strong> 
 <br><strong>27 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
+<p><strong>T2W4</strong> 
 <br><strong>10 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
+<p><strong>T2W6</strong> 
 <br><strong>24 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
+<p><strong>T2W8</strong> 
 <br><strong>8 May</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
+<p><strong>T2W10</strong> 
 <br><strong>22 May</strong>
 </p>
 </td>
@@ -375,47 +374,47 @@ and will take place on the Wednesday of every EVEN week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
+<p><strong>T1W4</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
+<p><strong>T1W6</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
+<p><strong>T1W8</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
+<p><strong>T1W10</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
+<p><strong>T2W2</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
+<p><strong>T2W4</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>T2W6</strong>
+<p><strong>T2W6</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
+<p><strong>T2W8</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
+<p><strong>T2W10</strong> 
 <br>
 </p>
 </td>
@@ -628,47 +627,47 @@ and will take place on the Wednesday of every EVEN week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
+<p><strong>T1W4</strong> 
 <br><strong>24 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
+<p><strong>T1W6</strong> 
 <br><strong>7 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
+<p><strong>T1W8</strong> 
 <br><strong>21 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
+<p><strong>T1W10</strong> 
 <br><strong>6 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
+<p><strong>T2W2</strong> 
 <br><strong>27 Mar</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
+<p><strong>T2W4</strong> 
 <br><strong>10 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
+<p><strong>T2W6</strong> 
 <br><strong>24 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
+<p><strong>T2W8</strong> 
 <br><strong>8 May</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
+<p><strong>T2W10</strong> 
 <br><strong>22 May</strong>
 </p>
 </td>
@@ -1152,7 +1151,7 @@ link to the site is <a href="https://vle.learning.moe.edu.sg/" rel="noopener nor
 </table>
 <p><strong>Useful Contacts:</strong>
 </p>
-<p><strong>Beatty Sec School Based SLS Helpline</strong>
+<p><strong>Beatty Sec School Based SLS Helpline</strong> 
 <br><strong>Operating Hours: </strong>Mondays – Fridays 9:00 am – 4:00 pm</p>
 <table>
 <tbody>
@@ -1232,13 +1231,13 @@ link to the site is <a href="https://vle.learning.moe.edu.sg/" rel="noopener nor
 <p><strong>SLS Login Issues Form:</strong>  <a href="mailto:rohmannan_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/beattysls</u></a>
 </p>
 <p><strong>SLS Helpdesk</strong> (any other help school admin cannot resolve)
-<br><strong>Email:</strong>  <a href="mailto:rohmannan_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@sls.ufinity.com</u></a>
+<br><strong>Email:</strong>  <a href="mailto:rohmannan_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@sls.ufinity.com</u></a> 
 <br><strong>Tel:</strong> (65) 6702 6513
 <br><strong>Operating Hours</strong>: Mondays ― Fridays: 9:00 am - 9:00 pm,
 Saturdays: 9:00 am - 9:00 pm
 <br>*Closed on Sundays &amp; Public Holidays</p>
-<p><strong>iMTL</strong>
-<br><strong>Email:</strong>  <a href="mailto:rohmannan_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@mail-imtl.moe.edu.sg</u></a>
+<p><strong>iMTL</strong> 
+<br><strong>Email:</strong>  <a href="mailto:rohmannan_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>helpdesk@mail-imtl.moe.edu.sg</u></a> 
 <br><strong>Tel: </strong>(65) 6848 8900
 <br><strong>Operating Hours:</strong> Mondays to Fridays: 7:00 am – 7:00 pm,
 Saturdays: 7:00 am – 2:00 pm
