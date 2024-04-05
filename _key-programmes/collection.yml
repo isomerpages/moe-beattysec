@@ -2,7 +2,6 @@ collections:
   key-programmes:
     output: true
     order:
-      - NEXUS.md
       - Instructional Programme/.keep
       - Instructional Programme/Aesthetics and Technology.md
       - Instructional Programme/English and Literature.md
@@ -24,3 +23,4 @@ collections:
       - Values Education/MOE's Sexuality Education Programme.md
       - Full Subject Based Banding (FSBB).md
       - Secondary 1 Critical Inquiry Project.md
+      - NEXUS.md
