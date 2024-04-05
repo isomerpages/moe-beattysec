@@ -1,6 +1,6 @@
 ---
 title: NEXUS
-permalink: /nexus/
+permalink: /key-programmes/nexus/
 variant: tiptap
 description: ""
 ---
