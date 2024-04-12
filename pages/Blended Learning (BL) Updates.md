@@ -661,7 +661,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
+<p><strong>T2W6</strong> 
 <br><strong>21 Apr</strong>
 </p>
 </td>
