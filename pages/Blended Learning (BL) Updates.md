@@ -662,7 +662,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>T2W6</strong> 
-<br><strong>21 Apr</strong>
+<br><strong>22 Apr</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -701,7 +701,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 <p>HARI RAYA</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>Follow Monday (21 Apr) Timetable</p>
+<p>Follow Monday (22 Apr) Timetable</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Cohort Programme</p>
