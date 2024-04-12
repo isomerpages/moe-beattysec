@@ -403,9 +403,13 @@ and will take place on the Wednesday of every EVEN week.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>T2W6</strong> 
 <br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T2W6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -620,7 +624,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="9">
+<td rowspan="1" colspan="10">
 <p><strong>Secondary 4E/5N</strong>
 </p>
 </td>
@@ -657,6 +661,13 @@ and will take place on the Wednesday of every EVEN week.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>T2W6</strong>
+</p>
+<p></p>
+<p><strong>21 Apr</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>T2W6</strong> 
 <br><strong>24 Apr</strong>
 </p>
@@ -690,6 +701,9 @@ and will take place on the Wednesday of every EVEN week.</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>HARI RAYA</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Follow Monday (21 Apr) Timetable</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Cohort Programme</p>
@@ -781,6 +795,35 @@ and will take place on the Wednesday of every EVEN week.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
