@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Economical Rice Stall | 31 Jan 2023 |  The Stall can sell Asian Rice sets including Chinese, Korean or Thai. |
+| Economical Rice Stall | 31 April 2024 |  The Stall can sell Asian Rice sets including Chinese, Korean or Thai. |
 
 **Application procedures**
 1. Download and complete the application form. You may also request a hardcopy from the School’s General Office.
