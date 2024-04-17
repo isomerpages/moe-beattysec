@@ -29,16 +29,6 @@ sections:
       url: https://www.beattysec.moe.edu.sg/useful-links/ndlp/
       image: /images/PLD.JPG
       alt: Image alt text
-  - infopic:
-      title: OPEN HOUSE 2023
-      subtitle: BEATTY SECONDARY SCHOOL
-      id: infopic
-      description: Calling all prospective Primary 6 students who are keen to be part
-        of our Beatty Ohana!
-      button: Find out more
-      url: /prospective-students/openhouse/
-      alt: Image alt text
-      image: /images/2023eopenhouse1.jpg
   - resources:
       title: Announcements
       id: resources
