@@ -20,14 +20,14 @@ sections:
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
   - infopic:
-      title: PLD INITIATIVE
-      subtitle: Secondary 1
+      title: DSA-SEC Application
+      subtitle: Beatty Secondary School
       id: infopic
-      description: Secondary 1 Parents/Guardians, please indicate your intent to
-        purchase the PLD bundle by 19 January 2024.
+      description: "Apply to Beatty Secondary School via Direct School Admission based
+        on the following Talent Areas:"
       button: Find out more
-      url: https://www.beattysec.moe.edu.sg/useful-links/ndlp/
-      image: /images/PLD.JPG
+      url: https://www.beattysec.moe.edu.sg/prospective-students/dsa/
+      image: /images/slide1.PNG
       alt: Image alt text
   - resources:
       title: Announcements
