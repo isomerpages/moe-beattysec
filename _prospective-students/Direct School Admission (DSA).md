@@ -299,7 +299,7 @@ peer support leader, class monitor, etc.) would be an advantage.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Application (7 May 2024, 11am to 3 June 2024, 3pm)</strong>
+<p><strong>Application (7 May 2024, 11am to 3 June 2024, 3pm)</strong> 
 <br>All applicants can apply for DSA-SEC through the centralized DSA-Sec Portal.</p>
 <p>1. <strong>For applicants studying in MOE mainstream primary schools:</strong> Parent
 may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required.
