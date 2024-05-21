@@ -4,6 +4,16 @@ permalink: /prospective-students/dsa/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA OPEN HOUSE 24" src="/images/Beatty_Sec_Sch_DSA_e_OH_2024.jpg">
+</div>
+<h4><strong>DSA e-Open House 2024</strong></h4>
+<p><strong>Date:</strong> 25 May 2024
+<br><strong>Time:</strong> 9:00am - 10:30am
+<br><strong>Link:</strong>  <a href="https://go.gov.sg/beattyeopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beattyeopenhouse2024</a> 
+<br><strong>Passcode:</strong> 684039</p>
 <h3><strong>Direct School Admission – Sec (DSA-Sec) for 2024</strong></h3>
 <p>DSA-Sec seeks to broaden the recognition of talents and achievements beyond
 academic grades. P6 students can gain direct entry to certain secondary

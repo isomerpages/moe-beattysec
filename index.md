@@ -20,6 +20,16 @@ sections:
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
   - infopic:
+      title: DSA e-OPEN HOUSE 24
+      subtitle: Beatty Secondary School
+      id: infopic
+      description: Where Your Aspirations Take Flight! Join our  Zoom Webinar on 25
+        May 2024 (9:00am to 10:30am)
+      button: Find out More
+      url: /prospective-students/dsa/
+      image: /images/Beatty_Sec_Sch_DSA_e_OH_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA-SEC Application
       subtitle: Beatty Secondary School
       id: infopic
