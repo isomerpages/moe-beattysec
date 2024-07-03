@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>Instructions for Blended Learning</strong></h3>
 <p>Dear Parents/ Guardians and students,</p>
 <p>Blended Learning for Semester 2 will begin on 17 July 2024 for Secondary
-1 to 3 only.</p>
+1 to 3 students only.</p>
 <p>The subjects rostered for blended learning days are as follows.</p>
 <p><strong>Secondary 1</strong>
 </p>
