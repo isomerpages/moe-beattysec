@@ -6,172 +6,167 @@ variant: tiptap
 ---
 <h3><strong>Instructions for Blended Learning</strong></h3>
 <p>Dear Parents/ Guardians and students,</p>
-<p>Blended Learning for Semester 1 will begin on 24 Jan 2024 for all levels
-and will take place on the Wednesday of every EVEN week.</p>
+<p>Blended Learning for Semester 2 will begin on 17 July 2024 for Secondary
+1 to 3 only.</p>
 <p>The subjects rostered for blended learning days are as follows.</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="9">
 <p><strong>Secondary 1</strong>
 </p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>T3W2</strong>&nbsp;
+<br><strong>3-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W4</strong>&nbsp;
+<br><strong>17-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>&nbsp;
+<br><strong>23-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>&nbsp;
+<br><strong>24-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>&nbsp;
+<br><strong>25-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W6</strong>&nbsp;
+<br><strong>31-Jul</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W8</strong>&nbsp;
+<br><strong>14-Aug</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W10</strong>&nbsp;
+<br><strong>28-Aug</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T4W2</strong>&nbsp;
+<br><strong>18-Sep</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>NO BL</strong> School to follow odd Fri timetable from 8.30am to
+12pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENGLISH&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENGLISH&nbsp;</p>
+</td>
+<td rowspan="5" colspan="1">
+<p><strong>NO BL</strong>&nbsp;
+<br>School to follow odd Wed timetable from 8.30am to 2.20pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENGLISH&nbsp;</p>
+</td>
+<td rowspan="5" colspan="1">
+<p><strong>NO BL</strong>&nbsp;
+<br>School to follow even Fri timetable from 8.30am to 12.35pm (HMTL continue
+to 1.45pm)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T1W4</strong> 
-<br><strong>24 Jan</strong>
-</p>
+<p>Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong> 
-<br><strong>7 Feb</strong>
-</p>
+<p>MATH&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong> 
-<br><strong>21 Feb</strong>
-</p>
+<p>SC&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong> 
-<br><strong>6 Mar</strong>
-</p>
+<p>MATH&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong> 
-<br><strong>27 Mar</strong>
-</p>
+<p>SC&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W4</strong> 
-<br><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong> 
-<br><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong> 
-<br><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong> 
-<br><strong>22 May</strong>
-</p>
+<p>MATH&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
+<p>ALP&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>ALP&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
+<p>ALP&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>ALP&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>HARI RAYA</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Cohort Programme</p>
+<p>ALP&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>VESAK DAY</p>
+<p>ALP&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>NFS&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>NFS&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>NFS&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>NFS&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
+<td rowspan="2" colspan="1">
+<p>NFS&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
+<td rowspan="2" colspan="1">
+<p>NFS&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>D&amp;T</p>
+<p>SIL&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T</p>
+<p>SIL&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T</p>
+<p>SIL&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT VC
-<br>(1-1 to 1-7)</p>
+<p>SIL&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -191,154 +186,173 @@ and will take place on the Wednesday of every EVEN week.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIL</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="9">
 <p><strong>Secondary 2</strong>
 </p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>T3W2</strong>
+<br><strong>3-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W4</strong>
+<br><strong>17-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>
+<br><strong>23-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>
+<br><strong>24-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>
+<br><strong>25-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W6</strong>
+<br><strong>31-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W8</strong>
+<br><strong>14-Aug</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W10</strong>
+<br><strong>28-Aug</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T4W2</strong>
+<br><strong>18-Sep</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>T1W4</strong> 
-<br><strong>24 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W6</strong> 
-<br><strong>7 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W8</strong> 
-<br><strong>21 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W10</strong> 
-<br><strong>6 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W2</strong> 
-<br><strong>27 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W4</strong> 
-<br><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong> 
-<br><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong> 
-<br><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong> 
-<br><strong>22 May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
+<td rowspan="5" colspan="1">
+<p><strong>NO BL</strong>
+<br>School to follow odd Fri timetable from 8.30am to 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ENGLISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ENGLISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>HARI RAYA</p>
+<p><strong>NO BL</strong>
+<br>School to follow odd Wed timetable from 8.30am to 2.20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENGLISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Cohort Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>VESAK DAY</p>
+<p><strong>NO BL</strong>
+<br>School to follow even Fri timetable from 8.30am to 12.35pm (HMTL continue
+to 1.45pm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MA</p>
+<p>SC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MA</p>
+<p>SC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>MATH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ALP</p>
+<p>SC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE</p>
+<p>D&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Art</p>
 </td>
 </tr>
 <tr>
@@ -354,170 +368,151 @@ and will take place on the Wednesday of every EVEN week.</p>
 <td rowspan="1" colspan="1">
 <p>SIL</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>SIL</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIL</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<table>
+<p><strong>&nbsp;Secondary 3</strong>
+</p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="10">
-<p><strong>Secondary 3</strong>
+<td rowspan="1" colspan="1">
+<p><strong>T3W2</strong>
+<br><strong>3-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W4</strong>
+<br><strong>17-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>
+<br><strong>23-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5|</strong>
+<br><strong>24-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W5</strong>
+<br><strong>25-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W6</strong>
+<br><strong>31-Jul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W8</strong>
+<br><strong>14-Aug</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T3W10</strong>
+<br><strong>28-Aug</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>T4W2</strong>
+<br><strong>18-Sep</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>T1W4</strong> 
-<br>
-</p>
+<td rowspan="6" colspan="1">
+<p><strong>NO BL</strong>
+<br>School to follow odd Fri timetable from 8.30am to 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W6</strong> 
-<br>
-</p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W8</strong> 
-<br>
-</p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T1W10</strong> 
-<br>
-</p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>T2W2</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W4</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>24 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>21 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>6 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>27 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>22 May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
+<p>EL</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>HARI RAYA</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Follow Tuesday (23 Apr) Timetable</p>
+<p><strong>NO BL</strong>
+<br>School to follow odd Wed timetable from 8.30am to 2.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
+<p>EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENGLISH</p>
+<p>EL</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>VESAK DAY</p>
+<p><strong>NO BL</strong>
+<br>School to follow even Fri timetable from 8.30am to 12.35pm (HMTL continue
+to 1.45pm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
+<p>MT</p>
 </td>
 </tr>
 <tr>
@@ -539,260 +534,58 @@ and will take place on the Wednesday of every EVEN week.</p>
 <td rowspan="1" colspan="1">
 <p>AM/POA</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>Pure Bio</p>
+<p>FN/DT/Art/
+<br>Lit/Geog/PB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PC/ SC/ SET</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>Pure Bio</p>
+<p>FN/DT/Art/
+<br>Lit/Geog/PB</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PC/ SP/SB/ CPA</p>
+<p>PC/
+<br>SP/SB/ CPA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>Pure Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>Pure Bio</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SS</p>
-<p>(G1 to G3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIL</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="10">
-<p><strong>Secondary 4E/5N</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>T1W4</strong> 
-<br><strong>24 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W6</strong> 
-<br><strong>7 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W8</strong> 
-<br><strong>21 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W10</strong> 
-<br><strong>6 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W2</strong> 
-<br><strong>27 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W4</strong> 
-<br><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong> 
-<br><strong>22 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong> 
-<br><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong> 
-<br><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong> 
-<br><strong>22 May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>HARI RAYA</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Follow Monday (22 Apr) Timetable</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>Cohort Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>VESAK DAY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AM/POA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AM/POA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PC/ SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>&nbsp;Pure Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS/ D&amp;T/ Art/ Lit/ Geog/</p>
-<p>Pure Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PC</p>
+<p>FN/DT/Art/
+<br>Lit/Geog/PB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PC</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>PP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PP/ SC/ SB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>SIL&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PP</p>
 </td>
+<td rowspan="2" colspan="1">
+<p>SIL&nbsp;</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>PP</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>SS
+<br>(G1 to G3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIL</p>
 </td>
 </tr>
 <tr>
@@ -826,320 +619,7 @@ and will take place on the Wednesday of every EVEN week.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="9">
-<p><strong>Secondary 4 Normal (A)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
-</p>
-<p><strong>24 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
-</p>
-<p><strong>7 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
-</p>
-<p><strong>21 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
-</p>
-<p><strong>6 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
-</p>
-<p><strong>27 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
-</p>
-<p><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
-</p>
-<p><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
-</p>
-<p><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
-</p>
-<p><strong>22 May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>HARI RAYA</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Cohort Prtogramme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>VESAK DAY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FN/DT/Art/ AM/POA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FN/DT/Art/ AM/POA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP/SB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GE/ HE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP/SB</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="9">
-<p><strong>Secondary 4 Normal (T)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>T1W4</strong>
-</p>
-<p><strong>24 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W6</strong>
-</p>
-<p><strong>7 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W8</strong>
-</p>
-<p><strong>21 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T1W10</strong>
-</p>
-<p><strong>6 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W2</strong>
-</p>
-<p><strong>27 Mar</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W4</strong>
-</p>
-<p><strong>10 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W6</strong>
-</p>
-<p><strong>24 Apr</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W8</strong>
-</p>
-<p><strong>8 May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>T2W10</strong>
-</p>
-<p><strong>22 May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>HARI RAYA</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Cohort Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ENGLISH</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>VESAK DAY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EBS/NFS/DT/ART</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EBS/NFS/DT/ART</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SET/SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CPA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SET/SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SET/SC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SET/SC</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p>Students are required to complete all lessons assigned on the blended
 learning day itself.</p>
 <p>Please click <a href="https://go.gov.sg/btyssblplans2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
@@ -1158,7 +638,11 @@ link to the site is <a href="https://vle.learning.moe.edu.sg/" rel="noopener nor
 <p>More information on accessing the SLS is available at <a href="https://www.beattysec.moe.edu.sg/useful-links/singapore-sls/" rel="noopener noreferrer nofollow" target="_blank">https://www.beattysec.moe.edu.sg/useful-links/singapore-sls/</a>
 </p>
 <h4><strong>For help in accessing SLS, you may contact the following:</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1194,7 +678,12 @@ link to the site is <a href="https://vle.learning.moe.edu.sg/" rel="noopener nor
 </p>
 <p><strong>Beatty Sec School Based SLS Helpline</strong> 
 <br><strong>Operating Hours: </strong>Mondays – Fridays 9:00 am – 4:00 pm</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
