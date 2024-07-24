@@ -24,14 +24,13 @@ they can be given the ECHA:</p>
 <p>2.&nbsp;&nbsp;&nbsp; Students must, on a consistent basis, <strong><u>demonstrate good character and values</u>.</strong>&nbsp;
 In particular, students may be identified for demonstrating the following
 types of qualities:</p>
-<p>&nbsp;a.&nbsp;&nbsp;&nbsp; <u>School values</u> – Integrity ,Responsibility,
+<p>&nbsp;a.&nbsp;&nbsp;&nbsp; <u>School values</u> – Integrity, Responsibility,
 Resilience, Care, Creativity</p>
 <p>&nbsp;b.&nbsp;&nbsp;&nbsp; <u>A high level of civic responsibility</u>.&nbsp;
 These would be students who are concerned about issues in the community
 or issues faced by others, initiating action to address these issues to
-improve the lives of others, and being committed to make a positive difference
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup>
-</a>; and/or</p>
+improve the lives of others, and being committed to make a positive difference;
+and/or</p>
 <p>&nbsp;c.&nbsp;&nbsp;&nbsp;&nbsp; <u>Qualities associated with resilience</u>.
 These would be students who have persevered despite facing difficult circumstances
 (e.g. financial problems, family issues, health issues etc.), and managed
