@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Co Curricular Activities.md
+      - CCAs.md
       - CCE/.keep
