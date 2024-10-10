@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h3><strong>Character Citizenship Education</strong></h3>
-<h5><strong>Vision</strong></h5>
+<h1><strong>Character Citizenship Education</strong></h1>
+<h3><strong>Vision</strong></h3>
 <p>To nurture Beattyians of outstanding character who are gracious citizens,
 empowered to lead and serve anchored on our school values of integrity,
 commitment, care, confidence and creativity.&nbsp;</p>
@@ -19,17 +19,16 @@ care programmes. Through this CCE programme, Beattyians develop the skills,
 values, attitudes and build emotional connectedness and relationship to
 become more confident individuals and active contributors, living life
 with passion and a sense of purpose.</p>
-<h5><strong>Model of Character and Citizenship Education Programme</strong></h5>
+<h3><strong>Model of Character and Citizenship Education Programme</strong></h3>
 <p>The ‘HEAD’, ‘HEART’ and ‘HAND’ model is the underlying structure of our
 CCE Programme and we actively impart the school’s core values and social
 emotional competencies, engage students’ emotions in wanting to do the
 right thing and provide opportunities for them to practise the acquired
 skills and values.</p>
-<h5><strong>CCE Theme by level and Level Outcomes</strong></h5>
+<h3><strong>CCE Theme by level and Level Outcomes</strong></h3>
 <p>Our programmes are aligned with each level’s theme to develop our students
-progressively.&nbsp;</p>
-<p>Curriculum time is every Wednesday and on some Thursdays. (one hour per
-lesson)</p>
+progressively.&nbsp;Curriculum time is every Wednesday and on some Thursdays.
+(one hour per lesson)</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
