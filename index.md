@@ -12,10 +12,10 @@ sections:
         - title: Student Life
           description: ""
           url: /announcements/
-        - title: Latest Happenings
+        - title: Prospective Students
           description: ""
           url: /latest-happenings/
-        - title: Blended Learning (BL) Updates
+        - title: Resources
           description: ""
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
