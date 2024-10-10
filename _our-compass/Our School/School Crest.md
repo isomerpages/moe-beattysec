@@ -17,7 +17,7 @@ third_nav_title: Our School
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAVY</strong>
+<p><strong>NAVY BLUE</strong>
 </p>
 </td>
 </tr>
