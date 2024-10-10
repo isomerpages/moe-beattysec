@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: Student Life
           description: ""
           url: /announcements/
         - title: Latest Happenings
