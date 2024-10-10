@@ -1,0 +1,4 @@
+collections:
+  our-compass:
+    output: true
+    order: []
