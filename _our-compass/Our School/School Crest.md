@@ -17,12 +17,14 @@ third_nav_title: Our School
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Navy Blue</p>
+<p><strong>NAVY</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yellow</p>
+<p><strong>YELLOW</strong>
+</p>
 </td>
 </tr>
 <tr>
