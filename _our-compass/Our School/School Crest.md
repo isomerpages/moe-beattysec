@@ -9,31 +9,39 @@ third_nav_title: Our School
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Beatty Logo" src="/images/BTlogo.png">
 </div>
-<p><strong>COLOUR</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Navy Blue</p>
-</li>
-<li>
-<p>Yellow</p>
-</li>
-</ul>
-<p>The colours, which are the colours of Admiral Beatty, symbolise unity</p>
-<p>The bee-hive, surrounded by buzzing bees, was derived from Admiral Beatty's
-Coat of Arms. The school crest symbolises hard work that has to be put
-in for success.</p>
+<h3><strong>COLOUR</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>MOTTO</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Navy Blue</p>
+</td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yellow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The colours, which are the colours of Admiral Beatty, symbolise unity</p>
+<p>The bee-hive, surrounded by buzzing bees, was derived from Admiral Beatty's
+Coat of Arms. The school crest symbolises hard work that has to be put
+in for success.</p>
+<h3><strong>MOTTO</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>NON VI SED ARTE</strong>
