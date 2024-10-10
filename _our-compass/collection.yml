@@ -2,4 +2,5 @@ collections:
   our-compass:
     output: true
     order:
+      - Our School/.keep
       - Principal's Message.md
