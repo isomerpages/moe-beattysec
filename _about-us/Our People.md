@@ -14,6 +14,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SMC" src="/images/Our People/school_management_committee_2.png">
 </div>
-<h5><strong>Staff Contact List 2024</strong></h5>
-<p>Click <a href="/files/Staff_Contact_List_2024__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Staff Contact List</p>
+<h5></h5>
+<p></p>
