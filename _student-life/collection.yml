@@ -2,5 +2,6 @@ collections:
   student-life:
     output: true
     order:
+      - CCAs/CCA Overview.md
       - CCAs/.keep
       - Applied Learning Programme.md
