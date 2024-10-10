@@ -11,14 +11,9 @@ third_nav_title: Our School
 	th, td{
 	text-align: Center;
 	}
-	
-img{
-	width: 100px;
-	}
-	</style>
-	
+</style>
 
-<img src="/images/BTlogo.png">
+<img height="50%" width="50%" alt="placeholder" src="/images/BTlogo.png">
 
 <table><colgroup><col></colgroup><tbody><tr><th rowspan="1" colspan="1"><p>Colours :</p></th></tr><tr><td rowspan="1" colspan="1"><p>Navy Blue</p></td></tr><tr><td rowspan="1" colspan="1"><p>Yellow</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table>
 
