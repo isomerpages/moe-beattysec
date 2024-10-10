@@ -8,8 +8,8 @@ third_nav_title: Our School
 ### **School Crest**
 
 <style>
-	th, td{
-	text-align: Center;
+	table, th, td {
+	text-align: center;
 	}
 </style>
 
