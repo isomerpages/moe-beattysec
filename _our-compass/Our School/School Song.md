@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Our School
 ---
 <h2><strong>School Song</strong></h2>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBua1lwCJew?si=An2YNv_wwHCNlHwz"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBua1lwCJew?si=xlzLE0JScPikwqSe"></iframe>
 </div>
 <p>Faithful And Strong Here Together We Stand.&nbsp;
 <br>Building Our Future With Youth Of Our Land.
