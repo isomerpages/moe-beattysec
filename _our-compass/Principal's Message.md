@@ -60,6 +60,7 @@ curiosity, confidence, courage, and complementarity. This will set every
 Beattyian on a curriculum for life, one that we know will hold them in
 good stead long beyond their years in school, to think, learn and contribute
 purposefully and meaningfully.</p>
-<p>Non Vi Sed Arte</p>
-<p>Harman Johll</p>
-<p>Principal</p>
+<p>Non Vi Sed Arte
+<br>Harman Johll
+<br><em>Principal</em>
+</p>
