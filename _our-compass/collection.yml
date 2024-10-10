@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our School/School History.md
       - Our School/.keep
       - Our School/Vision, Mission and Values.md
+      - Our School/School History.md
       - Our School/School Crest.md
       - Our School/School Song.md
