@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Our School/.keep
-      - Our School/School Crest.md
       - Our School/School Song.md
