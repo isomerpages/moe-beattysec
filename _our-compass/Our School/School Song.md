@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our School
 ---
-<p>School Song</p>
+<h2><strong>School Song</strong></h2>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBua1lwCJew?si=An2YNv_wwHCNlHwz"></iframe>
 </div>
@@ -17,3 +17,4 @@ third_nav_title: Our School
 <br>All To The Task We Our Duty Fulfil.</p>
 <p>Helping Each Other Where’er There Is Need.
 <br>Forward To Glory Our School We Shall Lead.</p>
+<p></p>
