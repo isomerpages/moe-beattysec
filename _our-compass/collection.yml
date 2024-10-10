@@ -2,10 +2,10 @@ collections:
   our-compass:
     output: true
     order:
-      - Our People.md
       - Principal's Message.md
       - Our School/.keep
       - Our School/Mission, Vision & Values.md
       - Our School/School History.md
       - Our School/School Crest.md
       - Our School/School Song.md
+      - Our People.md
