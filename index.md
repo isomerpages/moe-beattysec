@@ -21,7 +21,7 @@ sections:
       background: /images/HeroBanner.png
   - infopic:
       title: Discover
-      subtitle: news & highlights
+      subtitle: Prospective Students
       id: infopic
       description: What makes Beatty Secondary School truly special?
       button: Find out More
