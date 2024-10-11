@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Instructional Programme/.keep
       - Applied Learning Programme.md
       - Character CitizenshipEducation/.keep
       - Character CitizenshipEducation/Character Citizenship Education.md
