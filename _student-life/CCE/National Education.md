@@ -28,7 +28,7 @@ all of which ensure our continued success and well-being</p>
 <p>The underlying framework for our National Education Programme is based
 on the ‘Head, Heart, Hands Framework’.</p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/headhearthand.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/headhearthand.png">
 </div>
 <p>In engaging the “Head”, students should be actively involved in their
 own learning; beyond knowing, they should think through issues and arrive
