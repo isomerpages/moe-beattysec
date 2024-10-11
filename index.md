@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /blended-learning-updates/
       background: /images/HeroBanner.png
+  - infopic:
+      title: Discover
+      subtitle: news & highlights
+      id: infopic
+      description: What makes Beatty Secondary School truly special?
+      button: Find out More
+      url: /permalink
+      alt: Image alt text
   - resources:
       title: Announcements
       id: resources
