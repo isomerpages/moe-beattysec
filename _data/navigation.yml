@@ -4,34 +4,15 @@ links:
     url: /our-compass/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /about-us/principals-message/
+        url: /our-compass/principals-message/
       - title: Our School
-        url: /about-us/our-school/
+        url: /our-compass/our-school/
       - title: Our People
-        url: /about-us/our-people/
-      - title: Student Management
-        url: /about-us/student-management/
-      - title: Partners
-        url: /about-us/partners/
-      - title: Student Handbook
-        url: /about-us/studenthandbook/
-      - title: Year Book
-        url: /about-us/year-book/
+        url: /our-compass/our-people/
       - title: Contact Us
         url: /contact-us/
-  - title: CCA
-    url: /cca/
-    sublinks:
-      - title: Sports and Games
-        url: /cca/sports-and-games/
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups/
-      - title: Performing Arts
-        url: /cca/performing-arts/
-      - title: Clubs and Societies
-        url: /cca/clubs-and-societies/
-  - title: Key Programmes
-    url: /key-programmes/instructional-programme/at/
+  - title: Student Life
+    url: /student-life/ip/english-language-and-literature/
     sublinks:
       - title: Instructional Programme
         url: /key-programmes/instructional-programme/at/
