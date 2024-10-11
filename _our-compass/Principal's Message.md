@@ -4,7 +4,7 @@ permalink: /our-compass/principals-message/
 variant: tiptap
 description: ""
 ---
-<h2><strong>PRINCIPAL'S MESSAGE</strong></h2>
+<h1><strong>Principal's Message</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/Principal.jpeg">
 </div>
