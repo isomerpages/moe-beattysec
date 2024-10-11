@@ -2,4 +2,5 @@ collections:
   be-inspired:
     output: true
     order:
+      - Achievements/Academic Achievements.md
       - Achievements/.keep
