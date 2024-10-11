@@ -33,14 +33,12 @@ links:
   - title: Be Inspired
     url: /achievements/news/
     sublinks:
-      - title: Beattyians in the news
-        url: /achievements/news/
-      - title: Academic Achievements
-        url: /achievements/academic-achievements/
-      - title: CCA Achievements
-        url: /achievements/cca-achievements/
+      - title: Achievements
+        url: /be-inspired/achievements/
+      - title: Beatty in the News
+        url: /be-inspired/beatty-in-the-news/
       - title: Our Illustrious Alumni
-        url: /achievements/our-illustrious-alumni/
+        url: /be-inspired/our-illustrious-alumni/
   - title: Resources
     url: /useful-links/ndlp/
     sublinks:
