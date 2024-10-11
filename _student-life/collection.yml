@@ -4,13 +4,6 @@ collections:
     order:
       - Instructional Programme/.keep
       - Applied Learning Programme.md
-      - Values Education/.keep
-      - Values Education/Character Citizenship Education.md
-      - Values Education/Education and Career Guidance.md
-      - Values Education/Learning to Learn.md
-      - Values Education/MOE Sexuality Education Programme.md
-      - Values Education/National Education.md
-      - Values Education/Values in Action.md
       - Learning for Life Programme.md
       - Co Curricular Activities.md
       - NEXUS.md
@@ -18,3 +11,10 @@ collections:
       - Student Management/Student Management Overview.md
       - Student Management/School Rules & Regulations.md
       - Student Management/School Safety.md
+      - Values Education/.keep
+      - Values Education/Character Citizenship Education.md
+      - Values Education/Education and Career Guidance.md
+      - Values Education/Learning to Learn.md
+      - Values Education/MOE Sexuality Education Programme.md
+      - Values Education/National Education.md
+      - Values Education/Values in Action.md
