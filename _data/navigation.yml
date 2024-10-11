@@ -39,6 +39,17 @@ links:
         url: /be-inspired/beatty-in-the-news/
       - title: Our Illustrious Alumni
         url: /be-inspired/our-illustrious-alumni/
+  - title: Our Community
+    url: /our-community/alumni/
+    sublinks:
+      - title: Alumni
+        url: /our-community/alumni/
+      - title: Family Matters
+        url: /our-community/family-matters/
+      - title: Parents Support Group
+        url: /our-community/psg/
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee/
   - title: Resources
     url: /useful-links/ndlp/
     sublinks:
@@ -61,14 +72,3 @@ links:
         url: /prospective-students/openhouse/
       - title: Direct School Admission (DSA)
         url: /prospective-students/dsa/
-  - title: Our Community
-    url: /our-community/alumni/
-    sublinks:
-      - title: Alumni
-        url: /our-community/alumni/
-      - title: Family Matters
-        url: /our-community/family-matters/
-      - title: Parents Support Group
-        url: /our-community/psg/
-      - title: School Advisory Committee
-        url: /our-community/school-advisory-committee/
