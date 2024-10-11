@@ -2,7 +2,7 @@ collections:
   our-community:
     output: true
     order:
-      - Family Matters.md
       - Alumni.md
+      - Family Matters.md
       - Parent Support Group.md
       - School Advisory Committee.md
