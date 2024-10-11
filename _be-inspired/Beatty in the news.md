@@ -4,7 +4,7 @@ permalink: /beatty-in-the-news/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Beattyians in the news</strong></h3>
+<h3><strong>Beatty in the news</strong></h3>
 <p>Read about&nbsp;<a href="/files/Goh%20Si%20Hua's%20work.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh Si Hua</a>, a current Beattyian,
 and her winning entry for the Visual Arts compeition.</p>
 <p>Read the&nbsp;<a href="/files/%E9%82%A3%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%A4%A7%E8%87%AA%E7%84%B6_houyu_2017.pdf" rel="noopener noreferrer nofollow" target="_blank">story published</a>&nbsp;in
