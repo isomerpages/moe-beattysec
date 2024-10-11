@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Instructional Programme/.keep
       - Applied Learning Programme.md
       - Character CitizenshipEducation/.keep
       - Character CitizenshipEducation/Character Citizenship Education.md
@@ -11,6 +10,7 @@ collections:
       - Character CitizenshipEducation/MOE Sexuality Education Programme.md
       - Character CitizenshipEducation/National Education.md
       - Character CitizenshipEducation/Values in Action.md
+      - Instructional Programme/.keep
       - Learning for Life Programme.md
       - NEXUS.md
       - Student Management/.keep
