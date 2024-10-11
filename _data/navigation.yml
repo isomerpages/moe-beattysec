@@ -63,4 +63,12 @@ links:
         url: /prospective-students/dsa/
   - title: Our Community
     url: /our-community/alumni/
-    sublinks: []
+    sublinks:
+      - title: Alumni
+        url: /our-community/alumni/
+      - title: Family Matters
+        url: /our-community/family-matters/
+      - title: Parents Support Group
+        url: /our-community/psg/
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee/
