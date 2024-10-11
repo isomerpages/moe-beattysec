@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Student Management/.keep
       - Applied Learning Programme.md
       - Co Curricular Activities.md
       - Character CitizenshipEducation/.keep
