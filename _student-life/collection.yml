@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Instructional Programme/Aesthetics and Technology.md
       - Instructional Programme/Humanities.md
       - Instructional Programme/Information and Communications Technology.md
       - Instructional Programme/Mathematics.md
