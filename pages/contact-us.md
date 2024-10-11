@@ -18,6 +18,12 @@ contacts:
       - other: ""
     title: General Office Tel
   - content:
+      - phone: ""
+      - email: ""
+      - other: Click <a href="/files/Staff_Contact_List_2024__1_.pdf">here</a> for Staff
+          Contact List.
+    title: Staff Contact List 2024
+  - content:
       - phone: +65 6702 6513
       - email: helpdesk@sls.ufinity.com
       - other: "Operating Hours <br>Mondays to Fridays: 9:00 am - 9:00 pm <br>Saturdays:
@@ -46,4 +52,5 @@ contacts:
       - email: ""
       - other: Braddell MRT, Toa Payoh MRT
     title: MRT Stations
+feedback: ""
 ---
