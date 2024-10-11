@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Student Management/.keep
       - Applied Learning Programme.md
       - Co Curricular Activities.md
       - Character CitizenshipEducation/.keep
@@ -14,3 +13,4 @@ collections:
       - Character CitizenshipEducation/Values in Action.md
       - Learning for Life Programme.md
       - NEXUS.md
+      - Student Management/.keep
