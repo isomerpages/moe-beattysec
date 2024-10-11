@@ -2,8 +2,8 @@ collections:
   be-inspired:
     output: true
     order:
-      - Our Illustrious Alumni.md
       - Achievements/.keep
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
       - Beatty in the news.md
+      - Our Illustrious Alumni.md
