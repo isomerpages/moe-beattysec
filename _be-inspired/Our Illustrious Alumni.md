@@ -108,5 +108,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>Read about&nbsp;<a href="http://www.tnp.sg/news/singapore/ndp-2016-produced-and-singaporeans" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Lim Xin Chelsea</u></a>,
+an ex-Beattyian who exemplified Creativity and Passion.
+<br>Read about&nbsp;<a href="http://www.tnp.sg/news/singapore-news/student-hits-animation-success-her-fourth-try" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Chua Hui Min</u></a>,
+an ex-Beattyian who exemplified Committment and Passion.
+<br>Read about&nbsp;<a href="http://www.straitstimes.com/singapore/how-david-hoe-fought-his-way-to-university" rel="noopener noreferrer nofollow" target="_blank"><u>Mr David Hoe</u></a>,
+an ex-Beattyian who exemplified Committment and Care.
+<br>Read about&nbsp;<a href="http://www.straitstimes.com/singapore/there-will-always-be-new-things-to-learn-says-69-year-old-coach" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Vincent Poon</u></a>,
+an ex-Beattyian who exemplified Passion and Lifelong-learning.</p>
