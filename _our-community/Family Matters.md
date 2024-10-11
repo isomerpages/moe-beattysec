@@ -27,12 +27,12 @@ positive feedback.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/fm1.png">
 </div>
-<p><strong> 13 January 2018:</strong> Transition to Secondary One. Change
-and transition is never easy, especially for young children. So we should
-help them wherever we can to transit from Primary 6 to Secondary 1&nbsp;<strong><br></strong>
+<p><strong>13 January 2018:</strong> Transition to Secondary One. Change and
+transition is never easy, especially for young children. So we should help
+them wherever we can to transit from Primary 6 to Secondary 1&nbsp;<strong><br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/fm2.png">
 </div>
-<p> <strong>28 April 2018:</strong> Motivating Your Child and Managing Expectations
+<p><strong>28 April 2018:</strong> Motivating Your Child and Managing Expectations
 Equipping parents with the skills of managing the morale of their children</p>
