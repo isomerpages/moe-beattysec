@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - The Beatty Curriculum/Co Curricular Activities.md
       - The Beatty Curriculum/.keep
       - Applied Learning Programme.md
       - Character CitizenshipEducation/.keep
