@@ -2,9 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - The Beatty Curriculum/Instructional Programme.md
-      - The Beatty Curriculum/Co Curricular Activities.md
-      - The Beatty Curriculum/.keep
       - Applied Learning Programme.md
       - Character CitizenshipEducation/.keep
       - Character CitizenshipEducation/Character Citizenship Education.md
@@ -19,3 +16,6 @@ collections:
       - Student Management/Student Management Overview.md
       - Student Management/School Rules & Regulations.md
       - Student Management/School Safety.md
+      - The Beatty Curriculum/.keep
+      - The Beatty Curriculum/Instructional Programme.md
+      - The Beatty Curriculum/Co Curricular Activities.md
