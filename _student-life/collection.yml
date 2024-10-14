@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Instructional Programme/CCAs.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language and Literature.md
       - Instructional Programme/Aesthetics and Technology.md
@@ -12,6 +11,7 @@ collections:
       - Instructional Programme/Mother Tongue Languages.md
       - Instructional Programme/Physical Education & Co Curricular Activities.md
       - Instructional Programme/Science.md
+      - Instructional Programme/CCAs.md
       - Applied Learning Programme.md
       - CCAs.md
       - CCE/.keep
