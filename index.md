@@ -25,8 +25,9 @@ sections:
       id: infopic
       description: What makes Beatty Secondary School truly special?
       button: Find out More
-      url: /permalink
+      url: https://youtu.be/o34rktMO3wQ?si=_G-76pBttlG5Xo4n
       alt: Image alt text
+      image: /images/Beatty_Flag.png
   - resources:
       title: Announcements
       id: resources
