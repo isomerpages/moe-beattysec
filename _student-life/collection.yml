@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Instructional Programme/CCAs.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language and Literature.md
       - Instructional Programme/Aesthetics and Technology.md
