@@ -221,5 +221,4 @@ community.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.beattysec.moe.edu.sg/key-programmes/alp/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<p></p>
