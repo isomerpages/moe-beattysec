@@ -18,7 +18,7 @@ sections:
         - title: Resources
           description: ""
           url: /blended-learning-updates/
-      background: /images/HeroBanner.png
+      background: /images/Adaptive_Thinker.png
   - infopic:
       title: Discover
       subtitle: Prospective Students
