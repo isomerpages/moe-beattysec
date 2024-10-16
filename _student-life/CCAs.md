@@ -4,7 +4,6 @@ permalink: /student-life/cca/
 variant: tiptap
 description: ""
 ---
-<h3><strong>CCA</strong></h3>
 <p>CCAs are an integral part of our students’ holistic education. Through
 CCA, students discover their interests and talents. CCA also promotes forging
 of friendships amongst students from diverse backgrounds as they learn,
