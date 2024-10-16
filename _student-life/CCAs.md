@@ -21,7 +21,8 @@ from the following options:</p>
 <p>Performing Arts</p>
 </li>
 <li>
-<p>Sports &amp; Games</p>
+<p><a href="/cca/sports-and-games/badminton/" rel="noopener nofollow" target="_blank">Sports &amp; Games</a>
+</p>
 </li>
 <li>
 <p>Clubs &amp; Societies</p>
