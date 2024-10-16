@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Overview.md
       - Sports and Games/Badminton.md
       - Sports and Games/Football.md
       - Sports and Games/Volleyball.md
