@@ -18,7 +18,7 @@ from the following options:</p>
 <p>Uniformed Groups</p>
 </li>
 <li>
-<p>Visual and Performing Arts Group</p>
+<p>Performing Arts</p>
 </li>
 <li>
 <p>Sports &amp; Games</p>
