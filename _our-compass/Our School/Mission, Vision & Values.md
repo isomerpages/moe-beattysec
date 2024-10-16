@@ -23,3 +23,7 @@ third_nav_title: Our School
 <img style="width: 100%" height="auto" width="100%" alt="AM" src="/images/AM.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beatty_Values___DREAM__1_.gif">
+</div>
+<p></p>
