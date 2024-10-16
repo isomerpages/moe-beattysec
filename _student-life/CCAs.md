@@ -15,17 +15,20 @@ to school, community and nation.</p>
 from the following options:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Uniformed Groups</p>
+<p><a href="/cca/uniformed-groups/npcc" rel="noopener nofollow" target="_blank">Uniformed Groups</a>
+</p>
 </li>
 <li>
-<p>Performing Arts</p>
+<p><a href="/cca/performing-arts/choir" rel="noopener nofollow" target="_blank">Performing Arts</a>
+</p>
 </li>
 <li>
 <p><a href="/cca/sports-and-games/badminton/" rel="noopener nofollow" target="_blank">Sports &amp; Games</a>
 </p>
 </li>
 <li>
-<p>Clubs &amp; Societies</p>
+<p><a href="/cca/clubs-and-societies/infocomm" rel="noopener nofollow" target="_blank">Clubs &amp; Societies</a>
+</p>
 </li>
 </ul>
 <p>Students participating in the school band or any of the three National
