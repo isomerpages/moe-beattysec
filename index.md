@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Student Life
           description: ""
-          url: /announcements/
+          url: /student-life/ip/english/
         - title: Prospective Students
           description: ""
-          url: /latest-happenings/
+          url: /prospective-students/openhouse/
         - title: Resources
           description: ""
-          url: /blended-learning-updates/
+          url: /resources/ndlp/
       background: /images/Web_Banner.gif
   - infopic:
       title: Discover
