@@ -1,5 +1,5 @@
 collections:
-  useful-links:
+  resources:
     output: true
     order:
       - National Digital Literacy Programme.md
