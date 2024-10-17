@@ -14,11 +14,11 @@ to school, community and nation.</p>
 from the following options:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/cca/uniformed-groups/npcc" rel="noopener nofollow" target="_blank">Uniformed Groups</a>
+<p><a href="/cca/uniformed-groups/npcc/" rel="noopener nofollow" target="_blank">Uniformed Groups</a>
 </p>
 </li>
 <li>
-<p><a href="/cca/performing-arts/choir" rel="noopener nofollow" target="_blank">Performing Arts</a>
+<p><a href="/cca/performing-arts/choir/" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
 </li>
 <li>
@@ -26,7 +26,7 @@ from the following options:</p>
 </p>
 </li>
 <li>
-<p><a href="/cca/clubs-and-societies/infocomm" rel="noopener nofollow" target="_blank">Clubs &amp; Societies</a>
+<p><a href="/cca/clubs-and-societies/infocomm/" rel="noopener nofollow" target="_blank">Clubs &amp; Societies</a>
 </p>
 </li>
 </ul>
