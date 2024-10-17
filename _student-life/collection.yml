@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Instructional Programme/.keep
-      - Instructional Programme/English Language and Literature.md
       - Instructional Programme/Aesthetics and Technology.md
+      - Instructional Programme/English Language and Literature.md
       - Instructional Programme/Humanities.md
       - Instructional Programme/Information and Communications Technology.md
       - Instructional Programme/Mathematics.md
