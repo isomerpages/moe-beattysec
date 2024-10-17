@@ -18,7 +18,7 @@ sections:
         - title: Resources
           description: ""
           url: /resources/ndlp/
-      background: /images/WBanner.gif
+      background: /images/WBannerv2.gif
   - infopic:
       title: Discover
       subtitle: Prospective Students
