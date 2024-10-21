@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /key-programmes/alp/
 description: ""
+variant: markdown
 ---
 ### **Applied Learning Programme**
 **BEATTYIANS THINK. CREATE. INNOVATE**
@@ -38,4 +39,4 @@ The emphasis of projects is guided by this learning goal and aimed at ‘Smart L
 *   Inaugural Digital Making, National Infocomm Challenge 2018  
     (Attainment: Best Integrated Solution)
 		
-<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkLaV5DstOBPBd3xzAtmOSiKFDXE1l6t8qk8M8ZeKWPH0o9-I0RFsuA5tNK8UcnLsnDk5_vOK2_R3t/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>		
+<iframe allowfullscreen="true" height="469" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkLaV5DstOBPBd3xzAtmOSiKFDXE1l6t8qk8M8ZeKWPH0o9-I0RFsuA5tNK8UcnLsnDk5_vOK2_R3t/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

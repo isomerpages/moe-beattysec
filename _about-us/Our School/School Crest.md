@@ -22,4 +22,4 @@ The bee-hive, surrounded by buzzing bees, was derived from Admiral Beatty's Coat
 | The motto means :<br>**NOT WITH FORCE BUT WITH SKILL** |
 |
 
-This motto, chosen by **Mr Meyer**, the school's first principal, was taken from the Coat of Arms of Admiral Earl David Beatty after whom the school was named.
+This motto, chosen by&nbsp;**Mr Meyer**, the school's first principal, was taken from the Coat of Arms of Admiral Earl David Beatty after whom the school was named.

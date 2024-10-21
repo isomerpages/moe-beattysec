@@ -1,0 +1,8 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Alumni.md
+      - Family Matters.md
+      - Parent Support Group.md
+      - School Advisory Committee.md

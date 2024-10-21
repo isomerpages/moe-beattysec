@@ -1,78 +1,76 @@
 logo: /images/BTlogo.png
 links:
-  - title: About Us
-    url: /about-us/principals-message/
+  - title: Our Compass
+    url: /our-compass/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /about-us/principals-message/
-      - title: Our School
-        url: /about-us/our-school/
+        url: /our-compass/principals-message/
+      - title: Mission, Vision & Values
+        url: /our-compass/mission-vision-values/
+      - title: School History
+        url: /our-compass/school-history/story-of-beatty-secondary/
+      - title: School Crest
+        url: /our-compass/school-crest/
+      - title: School Song
+        url: /our-compass/school-song/
       - title: Our People
-        url: /about-us/our-people/
-      - title: Student Management
-        url: /about-us/student-management/
-      - title: Partners
-        url: /about-us/partners/
-      - title: Student Handbook
-        url: /about-us/studenthandbook/
-      - title: Year Book
-        url: /about-us/year-book/
+        url: /our-compass/our-people/
       - title: Contact Us
         url: /contact-us/
-  - title: CCA
-    url: /cca/
-    sublinks:
-      - title: Sports and Games
-        url: /cca/sports-and-games/
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups/
-      - title: Performing Arts
-        url: /cca/performing-arts/
-      - title: Clubs and Societies
-        url: /cca/clubs-and-societies/
-  - title: Key Programmes
-    url: /key-programmes/instructional-programme/at/
+  - title: Student Life
+    url: /student-life/ip/learning-to-learn/
     sublinks:
       - title: Instructional Programme
-        url: /key-programmes/instructional-programme/at/
-      - title: Learning for Life Programme
-        url: /key-programmes/llp/
+        url: /student-life/ip/learning-to-learn/
       - title: Applied Learning Programme
-        url: /key-programmes/alp/
-      - title: Values Education
-        url: /key-programmes/values-education/
+        url: /student-life/alp/
+      - title: CCAs
+        url: /student-life/cca/
+      - title: CCE
+        url: /student-life/cce/cce/
       - title: Full Subject Based Banding
-        url: /key-programmes/fsbb/
-      - title: Sec 1 Critical Inquiry Project
-        url: /key-programmes/s1cip/
+        url: /student-life/fsbb/
+      - title: Learning for Life Programme
+        url: /student-life/llp/
       - title: NEXUS
-        url: /key-programmes/nexus/
-  - title: Achievements
-    url: /achievements/news/
+        url: /student-life/nexus/
+      - title: Student Management
+        url: /student-life/student-management-overview/
+  - title: Be Inspired
+    url: /be-inspired/achievements/academic-achievements/
     sublinks:
-      - title: Beattyians in the news
-        url: /achievements/news/
-      - title: Academic Achievements
-        url: /achievements/academic-achievements/
-      - title: CCA Achievements
-        url: /achievements/cca-achievements/
+      - title: Achievements
+        url: /be-inspired/achievements/academic-achievements/
+      - title: Beatty in the News
+        url: /be-inspired/beatty-in-the-news/
       - title: Our Illustrious Alumni
-        url: /achievements/our-illustrious-alumni/
-  - title: Useful Links
-    url: /useful-links/ndlp/
+        url: /be-inspired/our-illustrious-alumni/
+  - title: Our Community
+    url: /our-community/alumni/
+    sublinks:
+      - title: Alumni
+        url: /our-community/alumni/
+      - title: Family Matters
+        url: /our-community/family-matters/
+      - title: Parents Support Group
+        url: /our-community/psg/
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee/
+  - title: Resources
+    url: /resources/ndlp/
     sublinks:
       - title: National Digital Literacy Prog
-        url: /useful-links/ndlp/
+        url: /resources/ndlp/
       - title: S'pore Student Learning Space
-        url: /useful-links/singapore-sls/
+        url: /resources/singapore-sls/
       - title: For Teachers
-        url: /useful-links/for-teachers/
+        url: /resources/for-teachers/
       - title: For Students & Parents
-        url: /useful-links/for-students-and-parents/
+        url: /resources/for-students-and-parents/
       - title: SWN Login Guide
-        url: /useful-links/swn-login-guide/
+        url: /resources/swn-login-guide/
       - title: FAQs
-        url: /useful-links/faqs/
+        url: /resources/faqs/
   - title: Prospective Students
     url: /prospective-students/infop6/
     sublinks:

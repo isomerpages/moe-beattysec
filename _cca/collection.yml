@@ -2,26 +2,24 @@ collections:
   cca:
     output: true
     order:
-      - CCA Overview.md
-      - Sports and Games/Badminton.md
-      - Sports and Games/Football.md
-      - Sports and Games/Volleyball.md
-      - Sports and Games/Wushu.md
-      - Sports and Games/Canoeing.md
-      - Sports and Games/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/National Police Cadet Corps (NPCC).md
       - Uniformed Groups/National Cadet Corps (NCC).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
       - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/.keep
+      - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Concert Band.md
       - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/.keep
-      - Clubs and Societies/Infocomm Club.md
+      - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Football.md
+      - Sports and Games/Volleyball.md
+      - Sports and Games/Wushu.md
+      - Sports and Games/Canoeing.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Infocomm Club.md

@@ -9,17 +9,26 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Announcements
+        - title: Student Life
           description: ""
-          url: /announcements/
-        - title: Latest Happenings
+          url: /student-life/ip/english/
+        - title: Prospective Students
           description: ""
-          url: /latest-happenings/
-        - title: Blended Learning (BL) Updates
+          url: /prospective-students/openhouse/
+        - title: Resources
           description: ""
-          url: /blended-learning-updates/
-      background: /images/HeroBanner.png
+          url: /resources/ndlp/
+      background: /images/WBannerv3.gif
+  - infopic:
+      title: Discover
+      subtitle: Prospective Students
+      id: infopic
+      description: What makes Beatty Secondary School truly special?
+      button: Find out More
+      url: https://youtu.be/o34rktMO3wQ?si=_G-76pBttlG5Xo4n
+      alt: Image alt text
+      image: /images/Beatty_Flag.png
   - resources:
-      title: Announcements
+      title: What's Buzzing?
       id: resources
 ---

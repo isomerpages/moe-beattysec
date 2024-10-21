@@ -1,9 +1,0 @@
-collections:
-  school-history:
-    output: true
-    order:
-      - School History.md
-      - Story of Beatty Secondary.md
-      - Sir David Beatty.md
-      - Brief History of First School Building.md
-      - Beatty's Principals.md

@@ -3,12 +3,11 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our School/.keep
-      - Our School/Our School.md
-      - Our School/School Vision, Mission and Values.md
-      - Our School/School History.md
-      - Our School/School Crest.md
       - Our School/School Song.md
+      - Our School/School Crest.md
+      - Our School/School History.md
+      - Our School/Vision, Mission and Values.md
+      - Our School/.keep
       - Our People.md
       - Student Management/.keep
       - Student Management/Student Management Overview.md
