@@ -19,22 +19,27 @@ individuals who thrive in both academic and real-world contexts.</p>
 dynamic interplay of <strong>Acquisition</strong>, <strong>Application</strong>,
 and <strong>Metacognition</strong>—the three pillars that shape how Beattyians
 tackle every learning challenge and opportunity.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Acquisition</strong>:
-Students are equipped with tools to effectively acquire knowledge and skills,
-using cutting-edge methods grounded in the <strong>Science of Learning</strong>.
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Acquisition</strong>: Students are equipped with tools to effectively
+acquire knowledge and skills, using cutting-edge methods grounded in the <strong>Science of Learning</strong>.
 By incorporating student feedback literacy and evidence-based techniques,
 we ensure deep, enduring mastery of content.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Application</strong>:
-Agile Learners are encouraged to apply their knowledge in real-world, interdisciplinary
-contexts. Through <strong>Authentic Learning</strong>, classroom knowledge
-is seamlessly connected to global and local issues, turning theoretical
-insights into meaningful, lived experiences.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Metacognition</strong>:
-At the heart of our programme is the cultivation of reflective, metacognitive
-awareness. Using the <strong>GROW Metacognition Model</strong>, students
-develop habits of reflection, goal-setting, and self-regulation, empowering
-them to continuously refine their strategies and foster intellectual humility,
-perseverance, and a deep sense of purpose.</p>
+</li>
+<li>
+<p><strong>Application</strong>: Agile Learners are encouraged to apply their
+knowledge in real-world, interdisciplinary contexts. Through <strong>Authentic Learning</strong>,
+classroom knowledge is seamlessly connected to global and local issues,
+turning theoretical insights into meaningful, lived experiences.</p>
+</li>
+<li>
+<p><strong>Metacognition</strong>: At the heart of our programme is the cultivation
+of reflective, metacognitive awareness. Using the <strong>GROW Metacognition Model</strong>,
+students develop habits of reflection, goal-setting, and self-regulation,
+empowering them to continuously refine their strategies and foster intellectual
+humility, perseverance, and a deep sense of purpose.</p>
+</li>
+</ul>
 <h3><strong>The Beattyian Learning Practice</strong></h3>
 <p>Our approach is operationalized through the <strong>Beattyian Learning Practice</strong>,
 which encourages students to take ownership of their educational journey.
