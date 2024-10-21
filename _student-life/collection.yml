@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Hearing Loss Support.md
       - Instructional Programme/.keep
       - Instructional Programme/Learning to Learn.md
       - Instructional Programme/Aesthetics and Technology.md
@@ -21,6 +20,7 @@ collections:
       - CCE/National Education.md
       - CCE/Values in Action.md
       - Full Subject Based Banding.md
+      - Hearing Loss Support.md
       - Learning for Life Programme.md
       - NEXUS.md
       - Student Management/.keep
