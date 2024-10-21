@@ -79,41 +79,65 @@ safe and secure learning environment for all</p>
 </li>
 </ul>
 <h3><strong>Visitor policy and Registration process</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors are to
-report and register at the guard house at the Main Gate <strong><u>ONLY</u></strong> before
-he/she is allowed to enter the school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>NO</u></strong> visitors
-should enter the school via Gate 2 (Canteen Gate) and Gate 3 (Back Gate).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors are to
-report to General Office for assistance after registration at guard house.</p>
-<p><strong>Incident and Injury Management</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to report
-to their teachers if they are unwell at any point during lessons or school
-activities. Students may also report to the General office if they are
-unwell or have injured themselves.</p>
-<p><strong>Road Safety</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who cycle to
-school should submit parents’ consent form to General Office.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who cycle to
-school should put on the necessary safety gear including safety helmet.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to park and
-lock their bikes at the designated bicycle bay</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to disembark
-and push their bikes to the bicycle bay when they come in</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; through the main gate
-for safety of pedestrians.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to enter the
-school via canteen gate/side gate 2 during morning peak hours.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The speed limit of vehicles
-inside the school premises is restricted to within 15 km/hour.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Car decal will be issued
-to parents for easy identification for entry during morning peak hours,
-for drop off, not for parking of vehicles.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents should pick
-up their children at Blk 200 carpark after school dismissal.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All visitors are to report and register at the guard house at the Main
+Gate <strong><u>ONLY</u></strong> before he/she is allowed to enter the school.</p>
+</li>
+<li>
+<p><strong><u>NO</u></strong> visitors should enter the school via Gate 2
+(Canteen Gate) and Gate 3 (Back Gate).</p>
+</li>
+<li>
+<p>All visitors are to report to General Office for assistance after registration
+at guard house.</p>
+</li>
+</ul>
+<h3><strong>Incident and Injury Management</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to report to their teachers if they are unwell at any point
+during lessons or school activities. Students may also report to the General
+office if they are unwell or have injured themselves.</p>
+</li>
+</ul>
+<h3><strong>Road Safety</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who cycle to school should submit parents’ consent form to General
+Office.</p>
+</li>
+<li>
+<p>Students who cycle to school should put on the necessary safety gear including
+safety helmet.</p>
+</li>
+<li>
+<p>Students to park and lock their bikes at the designated bicycle bay</p>
+</li>
+<li>
+<p>Students to disembark and push their bikes to the bicycle bay when they
+come in</p>
+</li>
+<li>
+<p>through the main gate for safety of pedestrians.</p>
+</li>
+<li>
+<p>Students to enter the school via canteen gate/side gate 2 during morning
+peak hours.</p>
+</li>
+<li>
+<p>The speed limit of vehicles inside the school premises is restricted to
+within 15 km/hour.</p>
+</li>
+<li>
+<p>Car decal will be issued to parents for easy identification for entry
+during morning peak hours, for drop off, not for parking of vehicles.</p>
+</li>
+<li>
+<p>Parents should pick up their children at Blk 200 carpark after school
+dismissal.</p>
+</li>
+</ul>
 <p><strong>Please refer to Student Handbook for details on other school safety information.</strong>
 </p>
 <p>&nbsp;</p>
