@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Student Management
 ---
-<h1><strong>Student Management Overview</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Management" src="/images/Student_Management.jpg">
+</div>
 <h3><strong>The Discipline Philosophy</strong></h3>
 <p>Beatty Secondary School’s discipline approach and processes are based
 on Restorative Practices (RP) which focus on strengthening relationships.
