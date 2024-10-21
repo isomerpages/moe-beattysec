@@ -52,57 +52,50 @@ This practice is built on three critical phases: <strong>Prepare, Participate, a
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P</strong>rocess-Oriented:
-Grounded in the philosophy of Learning to Learn, we emphasise the development
-of intellectual habits and metacognitive skills, fostering continuous reflection
-and growth.</p>
+<p><strong>P</strong>rocess-Oriented: Grounded in the philosophy of Learning
+to Learn, we emphasise the development of intellectual habits and metacognitive
+skills, fostering continuous reflection and growth.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>R</strong>eal-World
-Relevance: Our pedagogy is anchored in <strong>Authentic Learning</strong>,
+<p><strong>R</strong>eal-World Relevance: Our pedagogy is anchored in <strong>Authentic Learning</strong>,
 connecting classroom knowledge to local and global issues, ensuring that
 students apply their learning in practical, impactful ways.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>O</strong>wnership
-of Learning: By fostering a <strong>Learner-Centred</strong> approach, we
-empower students to take ownership of their learning journey, nurturing
+<p><strong>O</strong>wnership of Learning: By fostering a <strong>Learner-Centred</strong> approach,
+we empower students to take ownership of their learning journey, nurturing
 independence, curiosity, and active engagement.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>A</strong>gile
-Leadership: We cultivate <strong>purpose-driven leaders</strong> through
+<p><strong>A</strong>gile Leadership: We cultivate <strong>purpose-driven leaders</strong> through
 frameworks like SHARP and The Five Practices of Exemplary Leadership, developing
 resilience, authenticity, and empathy for real-world challenges.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>C</strong>ritical
-Thinking: <strong>Interdisciplinary Learning</strong> equips students to
-integrate knowledge across diverse subjects, fostering intellectual agility
-and ethical decision-making rooted in empathy.</p>
+<p><strong>C</strong>ritical Thinking: <strong>Interdisciplinary Learning</strong> equips
+students to integrate knowledge across diverse subjects, fostering intellectual
+agility and ethical decision-making rooted in empathy.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>T</strong>echnology-Enhanced:
-We integrate technology across disciplines, from AI literacy in STEM, Feedback
-Assistant in Mathematics (FA-Math), Chatbots in language learning,&nbsp;
-interactive learning platforms in the Sciences to leveraging <strong>Geographic Information Systems (GIS)</strong> in
+<p><strong>T</strong>echnology-Enhanced: We integrate technology across disciplines,
+from AI literacy in STEM, Feedback Assistant in Mathematics (FA-Math),
+Chatbots in language learning,&nbsp; interactive learning platforms in
+the Sciences to leveraging <strong>Geographic Information Systems (GIS)</strong> in
 Humanities, students learn to create solutions for contemporary challenges.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>I</strong>nquiry-Driven:
-The <strong>Beattyian Learning Practice</strong> nurtures self-directed learners
-through inquiry and reflective practice, fostering intellectual adaptability
-and a lifelong passion for learning.</p>
+<p><strong>I</strong>nquiry-Driven: The <strong>Beattyian Learning Practice</strong> nurtures
+self-directed learners through inquiry and reflective practice, fostering
+intellectual adaptability and a lifelong passion for learning.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>V</strong>isionary
-Impact: Our <strong>leadership development</strong> programmes, supported
-by AI-driven tools and real-world collaborations, enable students to make
-meaningful social impact, preparing them for global citizenship.</p>
+<p><strong>V</strong>isionary Impact: Our <strong>leadership development</strong> programmes,
+supported by AI-driven tools and real-world collaborations, enable students
+to make meaningful social impact, preparing them for global citizenship.</p>
 </li>
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>E</strong>mpowering
-the Future: Through innovative pedagogy, we prepare <strong>Adaptive Thinkers</strong>, <strong>Agile Learners and Active Contributors</strong>,
+<p><strong>E</strong>mpowering the Future: Through innovative pedagogy, we
+prepare <strong>Adaptive Thinkers</strong>, <strong>Agile Learners and Active Contributors</strong>,
 equipping them with curiosity, adaptability, and purpose to thrive in an
 ever-evolving world.</p>
 </li>
