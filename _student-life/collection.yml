@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Student Support.md
       - Instructional Programme/.keep
       - Instructional Programme/Learning to Learn.md
       - Instructional Programme/Aesthetics and Technology.md
@@ -28,3 +27,4 @@ collections:
       - Student Management/Student Management Overview.md
       - Student Management/School Rules & Regulations.md
       - Student Management/School Safety.md
+      - Student Support.md
