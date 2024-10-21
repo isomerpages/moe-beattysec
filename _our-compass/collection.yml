@@ -2,6 +2,7 @@ collections:
   our-compass:
     output: true
     order:
+      - School Crest.md
       - School History.md
       - Mission, Vision & Values.md
       - Principal's Message.md
