@@ -11,7 +11,9 @@ emotional, and metacognitive agility to navigate the complexities of an
 ever-evolving world. At the core of our philosophy is empowering students
 to <strong>learn how to learn</strong>, cultivating self-directed, reflective
 individuals who thrive in both academic and real-world contexts.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Agile Learners" src="/images/Agile_Learners.jpg">
+</div>
 <p>Building on this foundation, <strong>Agile Learners</strong> engage in a
 dynamic interplay of <strong>Acquisition</strong>, <strong>Application</strong>,
 and <strong>Metacognition</strong>—the three pillars that shape how Beattyians
@@ -41,9 +43,13 @@ humility, perseverance, and a deep sense of purpose.</p>
 <p>Our approach is operationalized through the <strong>Beattyian Learning Practice</strong>,
 which encourages students to take ownership of their educational journey.
 This practice is built on three critical phases: <strong>Prepare, Participate, and Process</strong>.</p>
-<p></p>
-<p><strong>Core Pedagogical Tenets at Beatty</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Beattyian Learning Practice" src="/images/Beattyians__Learning_Practice.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Good_Photo.jpg">
+</div>
+<h4><strong>Core Pedagogical Tenets at Beatty</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>P</strong>rocess-Oriented: Grounded in the philosophy of Learning
