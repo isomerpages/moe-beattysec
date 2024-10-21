@@ -4,9 +4,9 @@ permalink: /our-compass/principals-message/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Principal's Message</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/Principal.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="P Message" src="/images/A7_07395.jpg">
 </div>
 <p>Dear Pupils, Parents and Partners</p>
 <p>Welcome to our Beatty Ohana! At Beatty Secondary, we care for our pupils.
