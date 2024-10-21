@@ -29,6 +29,6 @@ sections:
       alt: Image alt text
       image: /images/Beatty_Flag.png
   - resources:
-      title: Announcements
+      title: What's Buzzing?
       id: resources
 ---
