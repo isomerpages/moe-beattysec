@@ -8,52 +8,56 @@ third_nav_title: Student Management
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Management" src="/images/Student_Management.jpg">
 </div>
-<h3><strong>The Discipline Philosophy</strong></h3>
-<p>Beatty Secondary School’s discipline approach and processes are based
-on Restorative Practices (RP) which focus on strengthening relationships.
-RP encourages the individual to reflect on his/her actions and how the
-actions impact the self and others. In this way, the individual learns
-the importance of respect, responsibility and positive relationships.</p>
-<p>The objective is to instill self-discipline in every Beattyian to be capable
-of managing himself/herself well and interacting with others in a respectful,
-responsible and considerate manner.</p>
-<p>i. Every Beattyian shall:</p>
+<p>Beatty Secondary School adopts a positive and proactive approach to discipline,
+recognizing the importance of fostering students' readiness and motivation
+to learn while ensuring they feel safe both physically and emotionally.
+We believe that discipline is an educative process, and every student is
+gifted with the capacity and ability to self-manage and interact with others
+in a respectful and responsible manner.</p>
+<p>Guided by our core values—Discipline, Resilience, Empathy, Adaptability,
+and Mindfulness—we aim to nurture students who:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Respect oneself and others</p>
+<p>Dedicate time and effort for reflection and self-improvement to forge
+good habits</p>
 </li>
 <li>
-<p>Act in a Responsible manner</p>
+<p>Treat themselves and others with honour, knowing that their words and
+actions impact others</p>
 </li>
 <li>
-<p>Strive to build a positive Relationship with others</p>
+<p>Complete their daily tasks diligently, knowing that small actions accumulate
+and enable success</p>
+</li>
+<li>
+<p>Practise compassion by relating with others, challenge the process, and
+align individual and collective needs</p>
+</li>
+<li>
+<p>Exercise open-mindedness and strive to comprehend diverse perspectives
+to inspire unity and inclusion</p>
+</li>
+<li>
+<p>Take steps to add value to their environment and those around them</p>
+</li>
+<li>
+<p>Have a sense of self-awareness and self-worth, and hold themselves accountable
+for their actions</p>
+</li>
+<li>
+<p>Extend self-accountability to being responsible to others</p>
+</li>
+<li>
+<p>Recognise their role in enabling a respectful culture</p>
 </li>
 </ul>
-<p>ii. Every Beattyian shall preserve the following 3 Rights:-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Right to learn:
-<br>Every Beattyian has the right to an education and to learn.
-<br>Every Beattyian has the responsibility not to disturb the learning of
-others.
-<br>
-</p>
-</li>
-<li>
-<p>The Right to teach:
-<br>Every teacher has the right to be treated with respect and be allowed
-to carry out his/her duties and responsibilities in educating and guiding
-the students.
-<br>
-</p>
-</li>
-<li>
-<p>The Right to be safe:
-<br>Every Beattyian has the right to feel safe in and around the school.
-<br>Every Beattyian has the responsibility to ensure the safety of others
-by behaving in a responsible manner and respecting others.</p>
-</li>
-</ul>
+<p>In conclusion, Beatty Secondary School's discipline approach seeks to
+develop students into individuals who are not only self-disciplined but
+also empathetic, responsible, and mindful of their impact on others. By
+embodying our core values, students are empowered to create a respectful
+and inclusive environment, fostering personal growth and contributing positively
+to their community.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -192,56 +196,4 @@ by behaving in a responsible manner and respecting others.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>After School Engagement (ASE) &amp; Cabin Programme</strong></h3>
-<p>The ASE Programme includes the existing Cabin Programme which is run collaboratively
-by the school and the Singapore Children’s Society (SCS). The ASE Programme
-seeks to achieve the following objectives:-</p>
-<p>1, To contribute to overall efforts in building a caring school culture
-and safe environment for students to interact and build strong positive
-relationships, and a greater sense of school connectedness and belonging.&nbsp;</p>
-<p>2. To extend and continually promote the culture of care after curriculum
-hours for lower secondary students who have issues with school disengagement.&nbsp;</p>
-<p>3. To provide a safe and supportive place for meaningful activities, self-study
-and recreation after curriculum hours, and where developmental opportunities
-are available for students to build Social and Emotional (SE) competencies,
-as well as leadership skills.</p>
-<h4><strong>Operating hours:</strong></h4>
-<p>Monday – Thursday 2:30pm – 5:00pm
-<br>Friday 1:00pm – 5:00pm</p>
-<h3><strong>Types of activities/programmes:</strong></h3>
-<p>Activities/programmes are designed to be engaging and meaningful with
-the aim to meet students’ Social and Emotional (SE) needs, as well as to
-provide academic support and enhance students’ SE competencies. Students
-in the target group are given opportunities to take the lead in various
-aspects of the running of activities/programmes. For example, they assist
-in the planning &amp; execution of various activities for their schoolmates
-and maintaining a well-kept room.</p>
-<h4><strong>Examples of activities/programmes are:</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>IP support (peer tutoring, self-study sessions)</p>
-</li>
-<li>
-<p>Learn through play programme (games facilities in the Cabin Room)</p>
-</li>
-<li>
-<p>Intra-school competitions (board games, sports)</p>
-</li>
-<li>
-<p>Trainings and workshops on Craft-making, Soft skills and Life skills (such
-as Goal setting and planning workshop, Strength-based workshop)</p>
-</li>
-<li>
-<p>Anti-Bullying Campaign</p>
-</li>
-<li>
-<p>Racial Harmony promotion booth</p>
-</li>
-<li>
-<p>VIA activities</p>
-</li>
-<li>
-<p>Counselling</p>
-</li>
-</ul>
 <p></p>
