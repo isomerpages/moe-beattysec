@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Instructional Programme/Learning to Learn.md
       - Instructional Programme/.keep
       - Instructional Programme/Aesthetics and Technology.md
       - Instructional Programme/English Language and Literature.md
