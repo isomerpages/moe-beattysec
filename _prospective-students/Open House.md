@@ -15,9 +15,6 @@ Knowing Beatty Secondary School.
 
 _"The first thing we must all do is love and care for our children; everything else will fall in place. To love and care is to do what is required for each child to realise and actualise his or her potential, and to gradually become the best version of themselves. It is about learning who they are, learning with and from them, and to then know what they need most at each stage of their journey so as to set them on the right course to lead meaningful, purposeful lives. This can only be possible if we work together as a cohesive community of students, parents and educators with deep resolve coupled with commitment to the cause."_
 
-Read about Mr Johll's personal convictions about education in this article:
-[https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html](https://www.asiaone.com/News/Education/Story/A1Story20100121-193413.html)
-
 <div align="center"><iframe width="570" height="321" src="https://www.youtube.com/embed/jXO1srIVg8U" title="Beatty Secondary School - Principal's Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 In this video, our Principal shares about the&nbsp;**school ethos and hopes**&nbsp;for the young charges in our Beatty Ohana. View it to find out how Beatty Secondary can help your child achieve his or her aspirations!
