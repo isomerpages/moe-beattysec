@@ -4,63 +4,89 @@ permalink: /our-compass/principals-message/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P Message" src="/images/A7_07395.jpg">
 </div>
 <p>Dear Pupils, Parents and Partners</p>
-<p>Welcome to our Beatty Ohana! At Beatty Secondary, we care for our pupils.
-To care is to endeavour to allow for someone to thrive and flourish, and
-to become the best versions of themselves; it is a labour of love to allow
-others to realise and actualise their potential. We do this by seeing the
-whole person, and to work together, as a collective, to achieve aspirations
-in a manner that will build the learner for life. This stems from a deep
-belief that each child is a gift, and that Beatty is a community that will
-allow its learners to discover who they are as they uncover their giftings
-through a broad range of learning opportunities and experiences.</p>
-<p>Education is about moulding identity and beliefs. This is what guides
-and drives us as a community of educators and learners. It is both an intellectual
-and an emotional endeavour. At Beatty, we work together to nurture thinking
-and emotional competencies that bode well for Beattyians’ future. It is
-not just “the what” that needs to be done or “the why”; we are clear about
-what these are. It is about “the how”. Paying attention to process, as
-it stems from our philosophy and principles, is vital to learning and improving.
-This is what we stand for at Beatty: not by force, but by art and skill.
-Beattyians will learn how to learn, how to live, and how to care and in
-so doing, will develop their sense of purpose and passion for life.</p>
-<p>Our engines for actualising these outcomes are the many intentionally
-designed programmes for Beattyians to discover and develop their mindsets
-and heartsets. Two of these are our ALP and LLP. Critical and Design Thinking
-models, and The Leadership Challenge Model, frame our approach to nurturing
-deeper learning and purposeful contribution. Through the ALP, Beattyians
-will apply STEM to think, create, and innovate. This is an example of how
-they use their knowledge to contribute and add value to the community.
-Through the LLP, Beattyians will have opportunities to deepen their understanding
-about what it means to serve and lead others by engaging in leadership
-development opportunities which include forums and overseas exchange programmes
-with China, Japan and Vietnam.</p>
-<p>We are in the midst of a paradigm shift as a learning community and as
-a society. There is a need to bring to the fore a different worldview or
-zeitgeist, and way of being. It is not just about doing more or many different
-things. This again is about skill and art. It is in learning how that we
-will afford Beattyians the opportunity to discover who they are as individuals,
-and through that, uncover their giftings. It is through learning how to
-learn and live that Beattyians will be able to deeply benefit from the
-learning opportunities afforded via full subject-based banding, the digital
-and blended learning programmes and the suite of programmes designed here
-at Beatty. And it is in learning how to care that they will be able to
-know what it means to contribute purposefully. It speaks to motivation,
-not simplistically management; it is about inclusion above and beyond integration.</p>
-<p>My colleagues and I will continue to build on the brilliant work that
-has been done by the warm and loving community that is our Beatty Ohana.
-We will continue to excel and improve how we develop and engage students
-in a curriculum of life, to imbue in them critical, core values that would
-give them a strong sense of self and community. We will do this by engendering
-curiosity, confidence, courage, and complementarity. This will set every
-Beattyian on a curriculum for life, one that we know will hold them in
-good stead long beyond their years in school, to think, learn and contribute
-purposefully and meaningfully.</p>
-<p>Non Vi Sed Arte
-<br>Harman Johll
-<br><em>Principal</em>
+<p>Welcome to our Beatty Ohana! At Beatty Secondary School, we believe that
+within each Beattyian lies latent gifts – a spark of potential that given
+the right opportunities and time can ignite a brilliant flame of talent
+and purpose, becoming a beacon for others.</p>
+<p>Our journey together is one of discovery and growth. In a world where
+change is rapid and intense, adaptability is not just an asset; it is a
+necessity. We are committed to <strong><em>Nurturing</em></strong>  <strong><em>Adaptive Thinkers, Agile Learners, and Active Contributors</em></strong>.
+This mission forms the cornerstone of our approach to education, preparing
+our students to shape their futures by navigating their narratives and
+discovering their dreams.</p>
+<p>At Beatty, we clearly define what adaptive thinking, agile learning and
+active contribution look like. Critical, creative and design thinking are
+at the core of being adaptive. Beattyians sharpen these skills not just
+intellectually, but also by considering the social, emotional and psychological
+aspects of any situation. We believe this is crucial in enabling them to
+become discerning decision-makers, inventive problem-solvers and empathetic
+communicators.</p>
+<p>We focus on developing their agility in learning, teaching them not just
+what to learn, but <em>how</em> to learn and live. This understanding of
+the skill of learning is essential for lifelong growth. We equip Beattyians
+with tools to acquire knowledge, apply it meaningfully, and reflect on
+their development. Most importantly, we inspire active contribution by
+encouraging our students to serve with purpose and add value to their communities.</p>
+<p><strong>How then, do we do this?</strong> Each experience, from the core
+instructional experience to CCAs is intentionally planned to develop and
+nurture our students in a range of areas. Allow me to share three highlights
+of the Beattyian Experience.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Applied Learning Programme</strong> in Machine Learning: Here,
+students do not simply learn about technology. We imbue in them ethical
+principles that are fundamental to navigating the realm of technology safely
+and confidently, and they have opportunities to harness A.I. to create
+solutions to real-world challenges.</p>
+</li>
+<li>
+<p><strong>Leading for Life Programme</strong>: Grounded in relatable and
+relevant models like the Leadership Challenge (KP Model) and the Joy of
+Leadership (SHARP), this tiered and spiralling programme nurtures personal
+leadership and stewardship, guiding students to lead self and others with
+confidence and integrity.</p>
+</li>
+<li>
+<p><strong>NEXUS@BTY</strong>: This cohesive and curated collection of activities
+is designed to nurture Beattyians to become adaptive thinkers, agile learners
+and active contributors. Through a sequence of cross-disciplinary modules,
+NEXUS equips students with the skills and dispositions requisite to thrive
+in the years beyond their time at Beatty, and is reflective of our commitment
+to prepare students for the challenges and opportunities of the future.</p>
+</li>
+</ol>
+<p>We understand that true education goes beyond academic excellence. It
+is about learning how to learn, how to live, and how to love. At Beatty,
+we guide our students through this mastery. We teach them to learn how
+to regulate and tune in to their emotions, be mindful of their actions,
+and respond thoughtfully. We nurture in them the will to care for and contribute
+to others, embracing the belief that “I am because we are”.</p>
+<p>Our compass for this journey is our <strong>DREAM values – Discipline, Resilience, Empathy, Adaptability and Mindfulness</strong>.
+These guide how we shape character, community and culture to attend to
+aspirations and purpose, both individually and collectively.</p>
+<p>We all want our children to be adept at navigating the complexities of
+life, especially in a world where change is intense and rapid. The experiences
+they have in school are critical in ensuring that they have the knowledge,
+skills, values and dispositions to do just that. At the same time, it is
+about enabling them to act, to have a voice, and to understand how rights
+and responsibilities go hand-in-hand as citizens.</p>
+<p>Ultimately, the Beattyian experience is one where we set them on a curriculum
+for life, one that will allow them to author their futures and hold them
+in good stead long after they leave our halls, not with force, but with
+skill.</p>
+<p><strong>Be a part of our Ohana</strong> on this exciting odyssey of discovery
+and growth. Together, we will enable each child to discover, uncover, and
+perhaps recover their potential, becoming the best versions of themselves.
+Our children will be adaptive thinkers, agile learners, and active contributors;
+purpose-driven stewards who make a lasting impact on those around them.</p>
+<p><strong><em>Non Vi Sed Arte.</em></strong>
 </p>
+<p>In partnership,
+<br>Harman Johll
+<br>Principal</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
