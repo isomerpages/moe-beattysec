@@ -312,8 +312,6 @@ support by ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education.
 It aims to celebrate school teachers who exemplify the values of caring,
 sharing and concern for the academic, moral, social, emotional and mental
 welfare of their students.</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -325,6 +323,14 @@ welfare of their students.</p>
 <br>Mr Kelvin Goh Ming Ming, AYH/Sec 2
 <br>Mr Kanesanathan Subramaniam
 <br>Mr Raffael A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
