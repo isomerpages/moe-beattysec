@@ -32,21 +32,23 @@ Teachers (HL RTs), who are proficient in sign language, work closely with
 form teachers, subject teachers, the Student Development Team, and parents.
 Together, they ensure that students receive the necessary academic and
 socio-emotional support.</p>
-<p>To further enhance their learning, students participate in reinforced
-learning sessions with HL RTs. We also offer enriched experiential learning
-through various programmes, such as:</p>
+<p>To reinforce their learning, HL RTs arrange supplementary sessions with
+the students to revisit the concepts and skills they were supposed to have
+learnt in the classroom. We also offer varied enrichment programmes that
+focus on experiential learning, such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The English Language Programme</p>
+<p>The English Language Programme (to help our students level up their literacy
+skills)</p>
 </li>
 <li>
 <p>The NUS-CAPT (College of Alice and Peter Tan) Mentoring Programme</p>
 </li>
 <li>
-<p>Enrichment Workshops</p>
+<p>Drama and/or Dance Workshops</p>
 </li>
 <li>
-<p>National Sports Competitions</p>
+<p>Play Inclusive</p>
 </li>
 </ul>
 <p>In addition, we provide specialised support for school and national examinations
@@ -55,9 +57,9 @@ to ensure our students’ success.</p>
 <p>At Beatty Secondary School, we believe that every child matters. We raise
 awareness of the challenges faced by the hearing loss community and celebrate
 the strengths of our students through our Deaf Awareness Programme. This
-helps foster a supportive and inclusive environment for all.</p>
+helps foster a supportive and inclusive culture.</p>
 <h3><strong>Fostering Independence</strong></h3>
-<p>We aim to develop our students into purpose-driven, independent stewards.
+<p>We aim to develop our students into independent, purpose-driven stewards.
 By integrating hearing assistive technologies, such as frequency modulation
 systems and speech-to-text applications, we empower our students to take
 control of their learning.</p>
@@ -67,4 +69,3 @@ in their CCAs.</p>
 to higher education, pursuing diplomas in fields such as Architecture and
 IT Systems &amp; Networking. They have also successfully secured employment
 after completing their tertiary education.</p>
-<p>&nbsp;</p>
