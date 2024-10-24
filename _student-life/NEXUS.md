@@ -60,6 +60,8 @@ or international exchanges.</p>
 </ul>
 <p><em>*All students would be certified as participating in the NEXUS@BTY programme. Students who advance to NX301/302 would be accorded with certificates of Merit or Distinction.</em>
 </p>
+<p>Please click <a href="https://go.gov.sg/wnv9iy" rel="noopener nofollow" target="_blank">here</a> for
+the NEXUS@BTY brochure</p>
 <p></p>
 <p><strong><br></strong>
 </p>
