@@ -2,9 +2,9 @@ collections:
   be-inspired:
     output: true
     order:
-      - Achievements/Staff Achievements.md
       - Achievements/.keep
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
+      - Achievements/Staff Achievements.md
       - Beatty in the news.md
       - Our Illustrious Alumni.md
