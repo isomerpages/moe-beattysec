@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff Achievers" src="/images/IMG_8746.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -335,4 +339,5 @@ welfare of their students.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
