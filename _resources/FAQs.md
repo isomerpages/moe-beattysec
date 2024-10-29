@@ -4,7 +4,6 @@ permalink: /resources/faqs/
 description: ""
 variant: tiptap
 ---
-<h3><strong>FAQs</strong></h3>
 <p><strong>1. Why do I get a blank page after clicking some links?</strong> 
 <br>The link may have been modified or are no longer available. Please click
 on the back button and contact us.</p>
