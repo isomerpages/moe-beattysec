@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h1><strong>National Education</strong></h1>
 <p>The purpose of National Education is to develop national cohesion, the
 instinct for survival and confidence in the future by:</p>
 <ul>
