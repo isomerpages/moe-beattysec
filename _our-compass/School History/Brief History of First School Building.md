@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/brief%20history%201.jpg">
 </div>
-<p><strong> A panoramic view of the school in the 1950s</strong>
+<p><strong>A panoramic view of the school in the 1950s</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
