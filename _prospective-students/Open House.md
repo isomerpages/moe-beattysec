@@ -32,4 +32,23 @@ access the webinar.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="302" src="/images/Nexus_302.png">
 </div>
+<h4><strong>Follow us on our Socials!</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/beattyfb"><img style="width: 50%;" height="auto" width="100%" alt="FB" src="/images/logofb.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/beattyig"><img style="width: 50%;" height="auto" width="100%" alt="IG" src="/images/logoig.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/beattyin"><img style="width: 50%;" height="auto" width="100%" alt="IN" src="/images/logoin.png"></a>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
