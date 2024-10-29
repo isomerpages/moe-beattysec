@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<h1><strong>Academic Achievements</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -4,7 +4,6 @@ permalink: /our-compass/mission-vision-values/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Mission, Vision &amp; Values</strong></h1>
 <h3><strong>Mission</strong></h3>
 <p>Nurturing Adaptive Thinkers, Agile Learners and Active Contributors</p>
 <h3><strong>Vision</strong></h3>

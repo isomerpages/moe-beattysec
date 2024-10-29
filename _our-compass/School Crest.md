@@ -4,7 +4,6 @@ permalink: /our-compass/school-crest/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Crest</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Beatty Logo" src="/images/BTlogo.png">
 </div>

@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h1><strong>Character Citizenship Education</strong></h1>
 <h3><strong>Vision</strong></h3>
 <p>To nurture Beattyians of outstanding character who are gracious citizens,
 empowered to lead and serve anchored on our school values of integrity,

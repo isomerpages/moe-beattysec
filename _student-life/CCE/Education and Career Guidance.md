@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h1><strong>Education and Career Guidance</strong></h1>
 <p>Education and Career Guidance (ECG) aims to equip students with the necessary
 knowledge, skills and values to make considered education and career decisions
 at different life stages. This is achieved through the lesson package provided

@@ -3,7 +3,6 @@ title: School Rules & Regulations
 permalink: /student-life/school-rules-regulations/
 variant: tiptap
 description: ""
-third_nav_title: Student Management
 ---
 <h1><strong>School Rules &amp; Regulations</strong></h1>
 <p>The school establishes rules and regulations for promoting good behaviour
