@@ -4,7 +4,6 @@ permalink: /our-compass/school-song/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Song</strong></h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WBua1lwCJew?si=xlzLE0JScPikwqSe"></iframe>
 </div>
