@@ -32,7 +32,7 @@ access the webinar.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="302" src="/images/Nexus_302.png">
 </div>
-<h4><strong>Follow us on our Socials!</strong></h4>
+<h4><strong>Connect with Us!</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
