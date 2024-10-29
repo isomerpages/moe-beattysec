@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h1><strong>Values-in-Action</strong></h1>
 <p>Values-in-Action (VIA) programme aims to instil a strong sense of social
 responsibility and school core values. It also promotes lifelong passion
 for volunteerism and empower students to come up with student-initiated
