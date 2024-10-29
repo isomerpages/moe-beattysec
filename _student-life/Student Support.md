@@ -4,7 +4,7 @@ permalink: /student-life/student-support/
 variant: tiptap
 description: ""
 ---
-<h1><strong>After School Engagement Programme</strong></h1>
+<h1><strong>After-School Engagement Programme</strong></h1>
 <p>The After-School Engagement programme in Beatty Secondary is a structured
 programme designed to provide students with enriching activities and support
 beyond regular school hours. We offer a variety of activities, including
