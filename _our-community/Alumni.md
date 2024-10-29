@@ -4,7 +4,6 @@ permalink: /our-community/alumni/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Alumni</strong></h1>
 <p>Dear fellow Beattyians,</p>
 <p>Greetings and welcome to our Beatty Alumni Website. How swiftly time has
 flown! Beatty Secondary School and the Beatty Alumni celebrated their 65th
