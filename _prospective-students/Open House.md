@@ -28,9 +28,7 @@ access the webinar.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3015" src="/images/Nexus_3015.png">
 </div>
-<p></p>
 <h4><strong><em>Dive into the Wonders of Work</em></strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="302" src="/images/Nexus_302.png">
 </div>
