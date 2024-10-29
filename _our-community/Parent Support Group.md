@@ -4,8 +4,6 @@ permalink: /our-community/psg/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Beatty Parent Support Group</strong></h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/BeattyPSG/Beatty_PSG.png">
 </div>
