@@ -62,7 +62,3 @@ or international exchanges.</p>
 </p>
 <p>Please click <a href="/files/Industry___Internationalisation_Information_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information on NEXUS@BTY.</p>
-<p></p>
-<p><strong><br></strong>
-</p>
-<p></p>
