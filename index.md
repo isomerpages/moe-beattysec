@@ -14,7 +14,7 @@ sections:
           url: /student-life/ip/english/
         - title: Prospective Students
           description: ""
-          url: /prospective-students/openhouse/
+          url: /prospective-students/open-house/
         - title: Resources
           description: ""
           url: /resources/ndlp/
