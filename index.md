@@ -29,6 +29,15 @@ sections:
       image: /images/MOTD.png
       alt: Image alt text
   - infopic:
+      title: Beatty Open House Programme
+      subtitle: Prospective Students
+      id: infopic
+      description: Delight in Discovery, Dare to Dream! Check out our Open House Programme!
+      button: Find Out More
+      url: /prospective-students/open-house/
+      image: /images/Open_House_prog_Page_1.png
+      alt: Image alt text
+  - infopic:
       title: Discover
       subtitle: Prospective Students
       id: infopic
