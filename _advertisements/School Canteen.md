@@ -42,7 +42,8 @@ experience, to operate a Japanese or Korean cuisine stall in our canteen.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Canteen Application Form</p>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a>
+</p>
 </li>
 </ul>
 <p><strong>2. Attached the following documents together with the application form:</strong>
