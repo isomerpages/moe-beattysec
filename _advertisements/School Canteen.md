@@ -38,14 +38,15 @@ experience, to operate a Japanese or Korean cuisine stall in our canteen.</p>
 </tbody>
 </table>
 <h4><strong>Application procedures</strong></h4>
-<p>1. Download and complete the application form. You may also request a
-hardcopy from the School’s General Office.</p>
+<p><strong>1. Download and complete the application form. You may also request a hardcopy from the School’s General Office.</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Canteen Application Form</p>
 </li>
 </ul>
-<p>2. Attached the following documents together with the application form:</p>
+<p><strong>2. Attached the following documents together with the application form:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -58,8 +59,8 @@ hardcopy from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
-<p>3. Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
+<p><strong>3. Submit the completed application form and documents by closing date via email OR to the School's General Office.</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 1 Toa Payoh North, Singapore 318990</p>
@@ -88,7 +89,7 @@ via email OR to the School's General Office.</p>
 </p>
 </li>
 </ul>
-<h4><strong>Interested applicants must meet the following criter&amp;lt;a target="_blank" rel="noopener nofollow" href=""Healthy Meals in Schools Programme (HMSP)" guidelines"&amp;gt;"Healthy Meals in Schools Programme (HMSP)" guidelinesia:</strong></h4>
+<h4><strong>Interested applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
