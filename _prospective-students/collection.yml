@@ -2,5 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - 2025 Secondary 1 Registration.md
+      - Appeal for Transfer to Beatty.md
       - Open House.md
       - Direct School Admission (DSA).md

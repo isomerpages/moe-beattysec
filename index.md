@@ -20,22 +20,14 @@ sections:
           url: /resources/ndlp/
       background: /images/WBannerv3.gif
   - infopic:
-      title: BEATTY OPEN HOUSE 2024
+      title: SECONDARY 1 REGISTRATION
       subtitle: Prospective Students
       id: infopic
-      description: Visit our Open House on 16 November 2024 (9:00am to 1:00pm)
+      description: Congratulations on your posting! We look forward to welcoming you
+        to Beatty.
       button: Find out more
-      url: /prospective-students/open-house/
-      image: /images/MOTD.png
-      alt: Image alt text
-  - infopic:
-      title: Beatty Open House Programme
-      subtitle: Prospective Students
-      id: infopic
-      description: Delight in Discovery, Dare to Dream! Check out our Open House Programme!
-      button: Find Out More
-      url: /prospective-students/open-house/
-      image: /images/OP_Prog.gif
+      url: /2025-s1reg/
+      image: /images/S12025.png
       alt: Image alt text
   - infopic:
       title: Discover
