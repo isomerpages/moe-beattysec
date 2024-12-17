@@ -24,7 +24,7 @@ sections:
       subtitle: Prospective Students
       id: infopic
       description: Congratulations on your posting! We look forward to welcoming you
-        to Beatty.
+        to Beatty Secondary School.
       button: Find out more
       url: /2025-s1reg/
       image: /images/S12025.png

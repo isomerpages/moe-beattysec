@@ -6,9 +6,8 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="2025 Sec 1" src="/images/S12025.png">
+<img style="width: 100%;" height="auto" width="100%" alt="2025 Sec 1" src="/images/S12025.png">
 </div>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary One Registration (online) opens on <strong>19 December (Thursday), 8:00am.</strong>
