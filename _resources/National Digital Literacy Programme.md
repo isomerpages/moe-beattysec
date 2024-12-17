@@ -253,10 +253,6 @@ on the <strong>insurance claim procedure</strong>
 <h5><strong>Resources for Students/Parents</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parent_Engagement_Deck_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parent Engagement Session - ICT Briefing Slides</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
