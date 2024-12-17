@@ -21,7 +21,7 @@ technology to personalise and enhance students’ learning. This will also
 enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <h4><strong>School-Prescribed PLD Bundle</strong></h4>
-<p><em>Updated: December 2023</em>
+<p><em>Updated: December 2024</em>
 </p>
 <p>Beatty Secondary School has selected the Apple iPad 10.9” 10th Generation
 (Enhanced Bundle) for Teaching &amp; Learning.</p>
@@ -69,7 +69,7 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$713.00</p>
+<p>$555.00</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$941.00</p>
+<p>$783.00</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1025.60</p>
+<p>$853.40</p>
 </td>
 </tr>
 </tbody>
@@ -252,10 +252,6 @@ on the <strong>insurance claim procedure</strong>
 </table>
 <h5><strong>Resources for Students/Parents</strong></h5>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parent_Engagement_Deck_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Parent Engagement Session - ICT Briefing Slides</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
