@@ -26,7 +26,7 @@ sections:
       description: Congratulations on your posting! We look forward to welcoming you
         to Beatty.
       button: Find out more
-      url: //
+      url: /2025-s1reg/
       image: /images/S12025.png
       alt: Image alt text
   - infopic:
