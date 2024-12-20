@@ -151,10 +151,11 @@ date and adds up to two&nbsp;incidents of accidental damage protection
 every 12&nbsp;months. Each incident is subject to a service&nbsp;fee of
 S$68 for iPad and S$42 for Apple&nbsp;Pencil or Apple-branded iPad keyboard.</p>
 <h4><strong>Intent to Purchase</strong></h4>
-<p>Secondary 1 Parents/Guardians may indicate their intent to purchase the
-PLD bundle for their child/ward using this link: <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a> by 19
-January 2024. If you are unable to submit the form online, please contact
-the school for a hardcopy version.</p>
+<p>A Parent Gateway (PG) notification with details on the procurement of
+the PLD has also been sent to parents/ guardians. Please refer to the notification
+for more information.</p>
+<p>Parents/Guardians without Singpass and Parent Gateway can request for
+the hardcopy letter via your child’s/ward’s form teacher.</p>
 <h4><strong>After-school DMA Parent Options</strong></h4>
 <p>Device Management Application (DMA) software is installed in students’
 PLDs to provide a safer digital learning environment, and to prevent misuse
