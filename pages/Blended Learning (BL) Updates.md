@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p>Students are required to complete all lessons assigned on the blended
 learning day itself.</p>
-<p>Please click <a href="https://go.gov.sg/btyssblplans2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Please click <a href="https://go.gov.sg/btyssblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the plans and instructions for blended learning assignments.
 <br>
 </p>
