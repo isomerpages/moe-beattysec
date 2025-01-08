@@ -8,6 +8,10 @@ variant: tiptap
 <p>Dear Parents/ Guardians and students,</p>
 <p>Blended Learning for Semester 1 will begin on 15 January 2025.</p>
 <p>The subjects rostered for blended learning days are as follows.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_BL_schedule__Sem_1_.png">
+</div>
 <p>Students are required to complete all lessons assigned on the blended
 learning day itself.</p>
 <p>Secondary 1 students: Click <a href="https://go.gov.sg/btyssblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for the plans and instructions
