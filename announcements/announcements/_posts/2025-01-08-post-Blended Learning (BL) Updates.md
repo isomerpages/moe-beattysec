@@ -1,24 +1,26 @@
 ---
 title: Blended Learning (BL) Updates
 permalink: /blended-learning-bl-updates/
-date: 2024-07-16
+date: 2025-01-08
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h1><strong>Instructions for Blended Learning</strong></h1>
+<h3><strong>Instructions for Blended Learning</strong></h3>
 <p>Dear Parents/ Guardians and students,</p>
-<p>Blended Learning for Semester 2 will begin on 17 July 2024 for Secondary
-1 to 3 students only.</p>
+<p>Blended Learning for Semester 1 will begin on 15 January 2025.</p>
 <p>The subjects rostered for blended learning days are as follows.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Semester 2 BL Schedule" src="/images/2024_Semester_2_BL_Schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_BL_schedule__Sem_1_.png">
 </div>
 <p>Students are required to complete all lessons assigned on the blended
 learning day itself.</p>
-<p>Please click <a href="https://go.gov.sg/btyssblplans2024" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the plans and instructions for blended learning assignments.</p>
+<p>Secondary 1 students: Click <a href="https://go.gov.sg/btyssblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for the plans and instructions
+for blended learning assignments.
+<br>
+<br>Secondary 2-5 students: Refer to your subject teams for the various blended
+learning assignments.</p>
 <p>All instructions for blended learning lessons will be available by 9pm
 on the Tuesday before the blended learning day.</p>
 <p>Do check with your child’s FTs if you have any queries.</p>
@@ -30,7 +32,7 @@ link to the site is <a href="https://vle.learning.moe.edu.sg/" rel="noopener nor
 </p>
 <p>More information on accessing the SLS is available at <a href="https://www.beattysec.moe.edu.sg/useful-links/singapore-sls/" rel="noopener noreferrer nofollow" target="_blank">https://www.beattysec.moe.edu.sg/useful-links/singapore-sls/</a>
 </p>
-<h3><strong>For help in accessing SLS, you may contact the following:</strong></h3>
+<h4><strong>For help in accessing SLS, you may contact the following:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
