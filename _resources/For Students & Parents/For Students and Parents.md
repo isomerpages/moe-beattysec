@@ -5,143 +5,78 @@ description: ""
 third_nav_title: For Students & Parents
 variant: tiptap
 ---
-### **Useful links for Students and Parents**
-
-#### **Beattyian Links**
-
-<p><a href="https://vle.learning.moe.edu.sg/login">
-<img style="width:10%" src="/images/student1.png" align="left">
-</a></p>
-
-[Student Learning Space](https://vle.learning.moe.edu.sg/login)
-
-<p><a href="https://workspace.google.com/dashboard">
-<img style="width:10%" src="/images/student2.jpg" align="left">
-</a></p>
-
-[Student iCON](https://workspace.google.com/dashboard)
-
-<p><a href="https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/">
-<img style="width:10%" src="/images/student3.jpg" align="left">
-</a></p>
-
-[Beatty Secondary Facebook Page](https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/)
-
-<p><a href="https://www.moe.gov.sg/">
-<img style="width:10%" src="/images/student4.jpg" align="left">
-</a></p>
-
-[MOE Website](https://www.moe.gov.sg/)
-
-<p><a href="https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni">
-<img style="width:10%" src="/images/student5.jpg" align="left">
-</a></p>
-
-[Beatty Alumni](https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni)
-
-#### **For Parents**
-
-<p><a href="https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway">
-<img style="width:10%" src="/images/student6.jpg" align="left">
-</a></p>
-
-[Parents Gateway](https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway)
-
-<p><a href="https://go.gov.sg/btysschangeofoptionsdma2023">
-<img style="width:10%" src="/images/formsg.png" align="left"></a></p>
-
-[PLD Change of DMA Option](https://go.gov.sg/btysschangeofoptionsdma2023)
-
-<p><a href="https://www.asiapac.com.sg/pld-apple/account/login">
-<img style="width:10%" src="/images/asiapac.png" align="left"></a></p>
-
-[PLD Purchase of Accessories](https://www.asiapac.com.sg/pld-apple/account/login)
-
-#### **Institutes of Higher Learning**
-##### **Universities in Singapore**
-<p></p><p><a href="http://nus.edu.sg/">
-<img style="width:10%" src="/images/student7.jpg" align="left">
-</a></p>
-
-[National University of Singapore](http://nus.edu.sg/)
-
-<p><a href="https://www.ntu.edu.sg/Pages/home.aspx">
-<img style="width:10%" src="/images/student8.jpg" align="left">
-</a></p>
-
-[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx)
-
-<p><a href="https://www.smu.edu.sg/">
-<img style="width:10%" src="/images/student9.jpg" align="left">
-</a></p>
-
-[Singapore Management University](https://www.smu.edu.sg/)
-
-<p><a href="https://www.singaporetech.edu.sg/">
-<img style="width:10%" src="/images/student10.jpg" align="left">
-</a></p>
-
-[Singapore Institute of Technology](https://www.singaporetech.edu.sg/)
-
-<p><a href="https://www.sutd.edu.sg/">
-<img style="width:10%" src="/images/student11.jpg" align="left">
-</a></p>
-
-[Singapore University of Technology and Design](https://www.sutd.edu.sg/)
-
-<p><a href="http://www.sim.edu.sg/Pages/index.aspx">
-<img style="width:10%" src="/images/student12.jpg" align="left">
-</a></p>
-
-[Singapore Institute Of Management](http://www.sim.edu.sg/Pages/index.aspx)
-
-##### **Local Polytechnics &amp; Institute of Technical Education**
-<p><a href="https://www.sp.edu.sg/">
-<img style="width:10%" src="/images/student13.jpg" align="left">
-</a></p>
-
-[Singapore Polytechnic](https://www.sp.edu.sg/)
-
-<p><a href="https://www.np.edu.sg/Pages/default.aspx">
-<img style="width:10%" src="/images/student14.jpg" align="left">
-</a></p>
-
-[Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
-
-<p><a href="https://www.tp.edu.sg/">
-<img style="width:10%" src="/images/student15.jpg" align="left">
-</a></p>
-
-[Temasek Polytechnic](https://www.tp.edu.sg/)
-
-<p><a href="https://www.nyp.edu.sg/">
-<img style="width:10%" src="/images/student16.jpg" align="left">
-</a></p>
-
-[Nanyang Polytechnic](https://www.nyp.edu.sg/)
-
-<p><a href="https://www.rp.edu.sg/">
-<img style="width:10%" src="/images/student17.jpg" align="left">
-</a></p>
-
-[Republic Polytechnic](https://www.rp.edu.sg/)
-
-<p><a href="https://www.ite.edu.sg/">
-<img style="width:10%" src="/images/student18.jpg" align="left">
-</a></p>
-
-[Institute of Technical Education](https://www.ite.edu.sg/)
-
-##### **Specialized Arts Institutions**
-
-<p><a href="https://www.nafa.edu.sg/">
-<img style="width:10%" src="/images/student19.jpg" align="left">
-</a></p>
-
-[Nanyang Academy of Fine Arts](https://www.nafa.edu.sg/)
-
-<p><a href="https://www.lasalle.edu.sg/">
-<img style="width:10%" src="/images/student20.jpg" align="left">
-</a></p>
-
-[LASALLE College of the Arts](https://www.lasalle.edu.sg/)
+<h3><strong>Useful links for Students and Parents</strong></h3>
+<h4><strong>Student Handbook</strong></h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Skv_JBejyD_2_mt5hDj5MzHgt0Cl4yS4/view"><img style="width: 20%;" height="auto" width="100%" alt="2025 Handbook" src="/images/Student_Handbook_2025.png"></a>
+<h4><strong>Beattyian Links</strong></h4>
+<p></p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+<p></p>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+</p>
+<p></p>
+<p><a href="https://www.facebook.com/Beatty-Secondary-School-Non-Vi-Sed-Arte-336733456925160/" rel="noopener noreferrer nofollow" target="_blank">Beatty Secondary Facebook Page</a>
+</p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
+</p>
+<p></p>
+<p><a href="https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni" rel="noopener noreferrer nofollow" target="_blank">Beatty Alumni</a>
+</p>
+<h4><strong>For Parents</strong></h4>
+<p></p>
+<p><a href="https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+<p></p>
+<p><a href="https://go.gov.sg/btysschangeofoptionsdma2023" rel="noopener noreferrer nofollow" target="_blank">PLD Change of DMA Option</a>
+</p>
+<p></p>
+<p><a href="https://www.asiapac.com.sg/pld-apple/account/login" rel="noopener noreferrer nofollow" target="_blank">PLD Purchase of Accessories</a>
+</p>
+<h4><strong>Institutes of Higher Learning</strong></h4>
+<h5><strong>Universities in Singapore</strong></h5>
+<p></p>
+<p></p>
+<p><a href="http://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a>
+</p>
+<p></p>
+<p><a href="https://www.ntu.edu.sg/Pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">Nanyang Technological University</a>
+</p>
+<p></p>
+<p><a href="https://www.smu.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Management University</a>
+</p>
+<p></p>
+<p><a href="https://www.singaporetech.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Technology</a>
+</p>
+<p></p>
+<p><a href="https://www.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Technology and Design</a>
+</p>
+<p></p>
+<p><a href="http://www.sim.edu.sg/Pages/index.aspx" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute Of Management</a>
+</p>
+<h5><strong>Local Polytechnics &amp; Institute of Technical Education</strong></h5>
+<p></p>
+<p><a href="https://www.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Polytechnic</a>
+</p>
+<p></p>
+<p><a href="https://www.np.edu.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
+</p>
+<p></p>
+<p><a href="https://www.tp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic</a>
+</p>
+<p></p>
+<p><a href="https://www.nyp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic</a>
+</p>
+<p></p>
+<p><a href="https://www.rp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic</a>
+</p>
+<p></p>
+<p><a href="https://www.ite.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education</a>
+</p>
+<h5><strong>Specialized Arts Institutions</strong></h5>
+<p></p>
+<p><a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Academy of Fine Arts</a>
+</p>
+<p></p>
+<p><a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">LASALLE College of the Arts</a>
+</p>
