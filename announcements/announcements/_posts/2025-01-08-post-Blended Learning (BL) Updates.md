@@ -16,7 +16,7 @@ variant: tiptap
 </div>
 <p>Students are required to complete all lessons assigned on the blended
 learning day itself.</p>
-<p>Secondary 1 students: Click <a href="https://go.gov.sg/btyssblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for the plans and instructions
+<p>Secondary 1 students: Click <a href="https://go.gov.sg/beattyblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for the plans and instructions
 for blended learning assignments.
 <br>
 <br>Secondary 2-5 students: Refer to your subject teams for the various blended
