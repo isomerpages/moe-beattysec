@@ -111,8 +111,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Secondary 5" src="/images/2025SEL_S5.jpg">
 </div>
-<h4><strong><em><u>eTeens</u></em><u> Programme: </u></strong></h4>
-<p>8.	<em>eTeens</em> is a programme developed by Health Promotion Board, in
+<h4><strong><em><u>eTeens</u></em><u> Programme:</u></strong></h4>
+<p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
 with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens </em>is
 conducted in two segments – a mass talk segment and a classroom-based programme.
@@ -127,4 +127,19 @@ Abstinence and upholding family values are the key messages.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eteens programme" src="/images/eteensProgramme.jpg">
 </div>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p>10. Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/2025_Annex_A_MOE_Sexuality_Education_In_Schools_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/01/2025.</p>
+<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/2025_Annex_B_eTeens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
+completed form is to be submitted by 28/01/2025.</p>
+<p>13. Parents can contact the school at 62569108 or write in to <a href="mailto:low_beng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_beng_hong@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>
