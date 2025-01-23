@@ -20,9 +20,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Click <a href="/files/Staff_Contact_List_2024__1_.pdf">here</a> for Staff
+      - other: Click <a href="/files/Staff_Contact_List_2025.pdf">here</a> for Staff
           Contact List.
-    title: Staff Contact List 2024
+    title: Staff Contact List 2025
   - content:
       - phone: +65 6702 6513
       - email: helpdesk@sls.ufinity.com
