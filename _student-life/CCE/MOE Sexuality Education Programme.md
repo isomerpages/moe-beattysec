@@ -91,5 +91,40 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h3><strong>At Beatty Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h3>
 <h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>SECONDARY 1</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 1" src="/images/2025SEL_S1.jpg">
+</div>
+<h4><strong>SECONDARY 2</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 2" src="/images/2025SEL_S2.jpg">
+</div>
+<h4><strong>SECONDARY 3</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 3" src="/images/2025SEL_S3.jpg">
+</div>
+<h4><strong>SECONDARY 4</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 4" src="/images/2025SEL_S4.jpg">
+</div>
+<h4><strong>SECONDARY 5</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary 5" src="/images/2025SEL_S5.jpg">
+</div>
+<h4><strong><em><u>eTeens</u></em><u> Programme: </u></strong></h4>
+<p>8.	<em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens </em>is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens </em>programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
+<p>9. Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+<h4><strong>At Beatty Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eteens programme" src="/images/eteensProgramme.jpg">
+</div>
 <p></p>
