@@ -39,6 +39,9 @@ medical reasons.</p>
 will be recognised.&nbsp;
 <br><strong>This recognition will be translated to bonus point(s) which can be used for admission to Junior Colleges/Polytechnics/Institute of Technical Education.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Schedule" src="/images/CCA_Schedule_2025.png">
+</div>
 <p>For more information on LEAPS – CCA Grading Scheme, please refer to the
 following document.</p>
 <p><a href="/files/LEAPS%202.pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
