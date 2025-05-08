@@ -89,7 +89,7 @@ below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Football</strong>
+<p><strong>Football (Boys)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Volleyball</strong>
+<p><strong>Volleyball (Girls)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
