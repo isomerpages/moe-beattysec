@@ -49,5 +49,5 @@ odds and still do commendably well in academic and non-academic domains.</p>
 <p>ECHA awardee will receive a certificate and a monetary value of $500.&nbsp;</p>
 <p>Nominations are open to students, staff, parents and public. Please submit
 the nominations through this link <a href="https://go.gov.sg/bty-echa-nomination-2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bty-echa-nomination-2025</u></a> or
-the QR code below before 1 August 2025,5pm.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/bty-echa-nomination-2025"><img style="width: 20%;" height="auto" width="100%" alt="bty echa 2025" src="/images/btyecha2025.jpg"></a>
+the QR code below before 1 August 2025, 5pm.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/bty-echa-nomination-2025"><img style="width: 20%;" height="auto" width="100%" alt="bty echa 2025" src="/images/btyecha2025.jpg"></a>
 <p>Submission after the closing date will not be accepted.</p>
