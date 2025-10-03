@@ -27,15 +27,17 @@ from all schools.</p>
 </ol>
 <h3><strong>Customised Learning Experience</strong></h3>
 <p>At Beatty Secondary School, we provide a tailored learning experience
-for students with hearing loss. Our dedicated team of Hearing Loss Resource
-Teachers (HL RTs), who are proficient in sign language, work closely with
-form teachers, subject teachers, the Student Development Team, and parents.
-Together, they ensure that students receive the necessary academic and
-socio-emotional support.</p>
-<p>To reinforce their learning, HL RTs arrange supplementary sessions with
-the students to revisit the concepts and skills they were supposed to have
-learnt in the classroom. We also offer varied enrichment programmes that
-focus on experiential learning, such as:</p>
+for students with hearing loss. We have a dedicated team of Specialised
+Teachers (SpTs) and Educational Interpreters (EIs) from SADeaf (Singapore
+Association of the Deaf), who are proficient in SgSL (Singapore Sign Language).
+They work closely with the form teachers, subject teachers, the Student
+Development Team, and parents. Together, they ensure that students receive
+the necessary academic and socio-emotional support.</p>
+<p></p>
+<p>To reinforce their learning, SpTs and EIs arrange supplementary sessions
+with the students to revisit the concepts and skills they were supposed
+to have learnt in the classroom.&nbsp;We also offer varied enrichment programmes
+that focus on experiential learning, such as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The English Language Programme (to help our students level up their literacy
