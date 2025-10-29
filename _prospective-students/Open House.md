@@ -4,9 +4,25 @@ permalink: /prospective-students/open-house/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/probeatty"><img style="width: 100%" height="auto" width="100%" alt="Beatty Brochure" src="/images/e_brochre.jpg"></a>
-<p>Access this link for more information: <a href="https://go.gov.sg/probeatty" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/probeatty</a>
+<p>Welcome to our vibrant school community! We are excited to invite Primary
+6 students and their families to discover what makes our Beatty Ohana truly
+special.</p>
+<p>At our open house, you will have the opportunity to explore our facilities,
+meet our dedicated teachers and friendly students, and learn about our
+diverse academic programmes and co-curricular activities. Whether you are
+interested in our innovative learning approaches, our strong pastoral care
+system, or the exciting opportunities for personal growth and leadership
+development, our open house will give you a genuine taste of school life
+here.</p>
+<p>Come and see how we nurture our students to be adaptive thinkers, agile
+learners and active contributors!</p>
+<h4><strong>Open House 2025 Details</strong></h4>
+<p><em>Watch this space. Details coming soon!</em>
 </p>
+<h4><strong>Read our corporate brochure to discover what Beatty has to offer you and your child! </strong></h4>
+<p>Access this link for more information: <a href="https://go.gov.sg/probeatty" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/probeatty</a>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/probeatty"><img style="width: 100%" height="auto" width="100%" alt="Beatty Brochure" src="/images/e_brochre.jpg"></a>
+<p></p>
 <h2><strong>NEXUS@BTY</strong></h2>
 <h4><strong><em>Exploring New Skies, Building Ties</em></strong></h4>
 <p></p>
