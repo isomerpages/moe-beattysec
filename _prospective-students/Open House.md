@@ -46,6 +46,9 @@ learners and active contributors!</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Find out more about our school's niche NEXUS programme</strong> </h4>
+<p>Access this link: <a href="https://www.beattysec.moe.edu.sg/student-life/nexus/" rel="noopener nofollow" target="_blank">https://www.beattysec.moe.edu.sg/student-life/nexus/</a>
+</p>
 <h2><strong>NEXUS@BTY</strong></h2>
 <h4><strong><em>Exploring New Skies, Building Ties</em></strong></h4>
 <p></p>
