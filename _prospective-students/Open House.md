@@ -53,23 +53,23 @@ learners and active contributors!</p>
 <h4><strong><em>Exploring New Skies, Building Ties</em></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Internalisation" src="/images/Nexus_Internalisation_Programme.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Internalisation" src="/images/Nexus_Internalisation_Programme.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3011 3012" src="/images/Nexus_3011_3012.png">
+<img style="width: 80%;" height="auto" width="100%" alt="3011 3012" src="/images/Nexus_3011_3012.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3013" src="/images/Nexus_3013.png">
+<img style="width: 80%;" height="auto" width="100%" alt="3013" src="/images/Nexus_3013.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3015" src="/images/Nexus_3015.png">
+<img style="width: 80%;" height="auto" width="100%" alt="3015" src="/images/Nexus_3015.png">
 </div>
 <h4><strong><em>Dive into the Wonders of Work</em></strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="302" src="/images/Nexus_302.png">
+<img style="width: 80%;" height="auto" width="100%" alt="302" src="/images/Nexus_302.png">
 </div>
 <h3></h3>
 <p></p>
