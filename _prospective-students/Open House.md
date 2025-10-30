@@ -21,6 +21,7 @@ learners and active contributors!</p>
 <p>Access this link for more information: <a href="https://go.gov.sg/probeatty" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/probeatty</a>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/probeatty"><img style="width: 50%;" height="auto" width="100%" alt="Beatty Brochure" src="/images/e_brochre.jpg"></a>
 <h4><strong>See our school come to life with our corporate video!</strong></h4>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/6xpckUCGIlE?si=Hma-GbYY5OHqyucT"></iframe>
 </div>
