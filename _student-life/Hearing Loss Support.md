@@ -1,6 +1,6 @@
 ---
 title: Hearing Loss Support
-permalink: /hearing-loss-support/
+permalink: /student-life/hearing-loss-support/
 variant: tiptap
 description: ""
 ---

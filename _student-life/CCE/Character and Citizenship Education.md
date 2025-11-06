@@ -1,5 +1,5 @@
 ---
-title: Character Citizenship Education
+title: Character and Citizenship Education
 permalink: /student-life/cce/cce/
 variant: tiptap
 description: ""
@@ -9,7 +9,7 @@ third_nav_title: CCE
 <p>To nurture Beattyians of outstanding character who are gracious citizens,
 empowered to lead and serve anchored on our school values of integrity,
 commitment, care, confidence and creativity.&nbsp;</p>
-<p>Character Citizenship Education (CCE) is an integrated programme encompassing
+<p>Character and Citizenship Education (CCE) is an integrated programme encompassing
 CCE lessons from MOE, which incorporates modules for Cyber Wellness, Sexuality
 Education, Education &amp; Career Guidance (ECG) and Social Skills. In
 addition, we foster in our students a strong sense of social responsibility
