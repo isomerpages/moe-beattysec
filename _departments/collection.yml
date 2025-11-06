@@ -1,5 +1,0 @@
-collections:
-  departments:
-    output: true
-    order:
-      - ENGLISH LANGUAGE AND LITERATURE DEPARTMENT.md
