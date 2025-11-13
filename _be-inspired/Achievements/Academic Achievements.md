@@ -16,6 +16,16 @@ service, and moral integrity, serving as a role model for the Beatty community.<
 <p><a href="/images/Awards/1_Beattyian_of_the_year.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
+<h3><strong>SAC Navigator of Personal Excellence &amp; Growth Award</strong></h3>
+<p>This award recognises a student who has demonstrated significant personal
+and academic growth. The recipient embodies the values of discipline, resilience,
+empathy, adaptability, and mindfulness (DREAM), and has shown steady improvement
+across multiple domains. The student has navigated challenges with perseverance,
+adaptive thinking and a growth mindset. This award celebrates not just
+achievement but growth and perseverance, reinforcing the school's mission
+of nurturing agile learners.</p>
+<p>2025</p>
+<hr>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
