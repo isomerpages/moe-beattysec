@@ -5,6 +5,85 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
+<h3><strong>RAI CREATIVE EXCELLENCE AWARD</strong></h3>
+<p>The Rai Creative Excellence Award is generously sponsored by our alumna,
+Ms Rajeshwari Rai. Years ago, within these very halls, Ms Rajeshwari discovered
+her own potential through the encouragement of her teacher, Mr Simon Foo.
+His simple words, 'You have potential', sparked a transformation in a young
+student who had not yet recognised her own capabilities. This award recognises
+students who have demonstrated outstanding talent, creativity and/or achievement
+in the visual or performing arts. It celebrates their creativity, innovation,
+and artistic excellence, reflecting our mission to nurture agile learners
+and active contributors. These students exemplify the values of discipline,
+resilience, and adaptability, embodying the spirit of purpose-driven stewardship
+through their artistic contributions to the school and broader community,
+reflecting strong creative, artistic expression. To our award recipients,
+Ms Rajeshwari's message resonates deeply: 'I see you. I see your potential.
+May your wildest dreams become your reality. And once you become the rising
+star I know you will be, I trust you will pay it forward in your creative
+endeavours!'</p>
+<p><a href="/images/Awards/10_Rai_creative_arts.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+<hr>
+<h3><strong>JANET YEONG COMMUNITY, ACTION, REACH &amp; ENGAGEMENT (CARE) AWARD</strong></h3>
+<p>This award honours students who have demonstrated outstanding empathy
+and made significant contributions to their community through service.
+Recipients have shown leadership in community projects, peer support, and
+initiatives that promote the well-being of others. The award celebrates
+students who exemplify civic literacy, compassionate connection and purpose-driven
+service.</p>
+<p><a href="/images/Awards/11_CARE.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+<hr>
+<h3><strong>LOGANATHAN SPORTS EXCELLENCE AWARD</strong></h3>
+<p>This award recognises students who have demonstrated outstanding talent
+and achievement in sports. It celebrates their discipline, resilience,
+adaptability and mindfulness in the sporting arena.</p>
+<p><a href="/images/Awards/12_sports_excellence.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+<hr>
+<h3><strong>SINGAPORE SCHOOLS SPORTS COUNCIL COLOURS AWARD</strong></h3>
+<p>The SSSC Colours Award is given to student-athletes who have excelled
+in their sports and have shown exemplary sporting character. It is awarded
+at both the national and zone levels.</p>
+<hr>
+<h3><strong>OUTSTANDING CONTRIBUTION IN CCA AWARD</strong></h3>
+<p>This award recognises students who have made significant contributions
+to their Co-curricular Activities (CCA). The recipient displays leadership,
+commitment, and collaboration within their CCA, contributing to the growth
+and success of their team or group. This award reflects our school’s emphasis
+on unity and community.</p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/images/Awards/14_CCA_clubs.png" rel="noopener nofollow" target="_blank">Club &amp; Society</a>
+</p>
+</li>
+<li>
+<p><a href="/images/Awards/14_CCA_PA.png" rel="noopener nofollow" target="_blank">Performing Arts</a>
+</p>
+</li>
+<li>
+<p><a href="/images/Awards/14_CCA_sports.png" rel="noopener nofollow" target="_blank">Sports</a>
+</p>
+</li>
+<li>
+<p><a href="/images/Awards/14_CCA_sports_leaders.png" rel="noopener nofollow" target="_blank">Sports Leaders' Council</a>
+</p>
+</li>
+<li>
+<p><a href="/images/Awards/14_CCA_council.png" rel="noopener nofollow" target="_blank">Students' Council</a>
+</p>
+</li>
+<li>
+<p><a href="/images/Awards/14_CCA_UG.png" rel="noopener nofollow" target="_blank">Uniform Groups</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
