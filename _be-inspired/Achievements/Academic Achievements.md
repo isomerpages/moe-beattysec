@@ -24,9 +24,18 @@ across multiple domains. The student has navigated challenges with perseverance,
 adaptive thinking and a growth mindset. This award celebrates not just
 achievement but growth and perseverance, reinforcing the school's mission
 of nurturing agile learners.</p>
-<p>2025</p>
+<p><a href="/images/Awards/2_SAC_navigator.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
 <hr>
-<p></p>
+<h3><strong>Low Cheng Lum Civic, GLOBAL &amp; CROSS-CULTURAL LITERACY Award</strong></h3>
+<p>This award is presented to students who have actively participated in
+international exchanges or cross-cultural projects through programmes such
+as NEXUS. The recipient demonstrates global awareness, leadership, and
+the ability to connect and contribute meaningfully across cultures. This
+award highlights the importance of global citizenship, reflecting the school's
+emphasis on active contributors who think and act beyond their local context.</p>
+<p><a href="/images/Awards/3_civic_global_cross_cultural.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
