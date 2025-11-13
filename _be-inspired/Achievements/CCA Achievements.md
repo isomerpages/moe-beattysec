@@ -65,38 +65,37 @@ on unity and community.</p>
 <td rowspan="1" colspan="3">
 <p><strong>2025</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/images/Awards/14_CCA_clubs.png" rel="noopener nofollow" target="_blank">Club &amp; Society</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="/images/Awards/14_CCA_PA.png" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="/images/Awards/14_CCA_sports.png" rel="noopener nofollow" target="_blank">Sports</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="/images/Awards/14_CCA_sports_leaders.png" rel="noopener nofollow" target="_blank">Sports Leaders' Council</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="/images/Awards/14_CCA_council.png" rel="noopener nofollow" target="_blank">Students' Council</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p><a href="/images/Awards/14_CCA_UG.png" rel="noopener nofollow" target="_blank">Uniform Groups</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
