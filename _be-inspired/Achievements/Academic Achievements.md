@@ -5,6 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
+<h3><strong>SAC Beattyian of the Year Award</strong></h3>
+<p>This prestigious award recognises a student who is a paragon of the school's
+mission and values. The recipient consistently demonstrates discipline,
+resilience, empathy, adaptability, and mindfulness, while contributing
+meaningfully to the school community. This student exemplifies excellence
+across multiple domains and is set to become a purpose-driven steward beyond
+his time at Beatty. The recipient demonstrates hallmark qualities in leadership,
+service, and moral integrity, serving as a role model for the Beatty community.</p>
+<p>2025</p>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
