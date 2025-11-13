@@ -53,16 +53,6 @@ to their Co-curricular Activities (CCA). The recipient displays leadership,
 commitment, and collaboration within their CCA, contributing to the growth
 and success of their team or group. This award reflects our school’s emphasis
 on unity and community.</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
 <p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -91,10 +81,7 @@ on unity and community.</p>
 </p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
