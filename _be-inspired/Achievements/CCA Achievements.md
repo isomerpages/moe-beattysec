@@ -42,11 +42,6 @@ adaptability and mindfulness in the sporting arena.</p>
 <p><a href="/images/Awards/12_sports_excellence.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>SINGAPORE SCHOOLS SPORTS COUNCIL COLOURS AWARD</strong></h3>
-<p>The SSSC Colours Award is given to student-athletes who have excelled
-in their sports and have shown exemplary sporting character. It is awarded
-at both the national and zone levels.</p>
-<hr>
 <h3><strong>OUTSTANDING CONTRIBUTION IN CCA AWARD</strong></h3>
 <p>This award recognises students who have made significant contributions
 to their Co-curricular Activities (CCA). The recipient displays leadership,
@@ -77,7 +72,7 @@ on unity and community.</p>
 </p>
 </li>
 <li>
-<p><a href="/images/Awards/14_CCA_UG.png" rel="noopener nofollow" target="_blank">Uniform Groups</a>
+<p><a href="/images/Awards/14_CCA_UG.png" rel="noopener nofollow" target="_blank">Uniformed Groups</a>
 </p>
 </li>
 </ul>
