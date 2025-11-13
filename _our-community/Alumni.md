@@ -4,48 +4,61 @@ permalink: /our-community/alumni/
 variant: tiptap
 description: ""
 ---
-<p>Dear fellow Beattyians,</p>
-<p>Greetings and welcome to our Beatty Alumni Website. How swiftly time has
-flown! Beatty Secondary School and the Beatty Alumni celebrated their 65th
-and 25th years of founding respectively in 2018.</p>
-<p>15th&nbsp;June was the date of Beatty Alumni’s 26th Annual General Meeting
-with the agenda including election of Management Committee for term 2019
-to 2021.</p>
-<p>Another milestone was reached in our Alumni history when I was re-elected
-as the first female president to lead the Beatty Alumni Management Committee
-(BAMC) for 4 consecutive terms, from 2013 to 2021.</p>
-<p>The committee line up is appended with their names, cohort and photos.</p>
-<p>This prestigious honour is indeed a blessing and motivating force for
-me to work even more closely with the BAMC team and key stakeholders in
-steering our alma mater to greater heights.</p>
-<p>It is notable that we have a balanced mix of senior and junior BA members
-in the committee. We have Mr Mun Chor Seng from the Pioneer Generation,
-Patrick, Michael, Lawrence and myself from the Merdeka generation , as
-well as BA Life members from 1990 &amp; 1980s – Katheryn Tan and Brixton
-Jeou as well as the millennial cohort – Cheryl and Rafiee.</p>
-<p>The success of the BAMC is made possible with strong support from key
-stakeholders, namely past and present School Leaders, the School Advisory
-Committee, Beatty Alumni comrades and last but not least, the teaching
-and non-teaching staff of Beatty.</p>
-<p>Special mention goes to our Patron, Mr Low Cheng Lum for his unwavering
-and generous support. He has contributed to the establishment of the Low
-Cheng Lum Annual Scholarship Award and financially supported in students’
-academic development. In addition, he has also generously sponsored many
-events, such as the school’s 65th and alumni’s 25th Silver Jubilee celebration
-events, just to name a few.</p>
-<p>Since its humble inauguration in 1993, our Alumni has come a long way
-in nurturing comradeship and the Beatty Family spirit since&nbsp;<strong>yesterday</strong>,
-which remains&nbsp;<strong>today</strong>&nbsp;and will certainly flourish&nbsp;<strong>tomorrow</strong>.</p>
-<p><em>We will always do our best to bring glory to Beatty. <br>Non Vi Sed Arte – Not with Force, but with Skill!</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:15%" height="auto" width="100%" src="/images/janet%20signature.jpg">
-</div>
-<p>Janet Yeong
-<br>President, Beatty Alumni (2013 - 2021)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BAMC.png">
-</div>
+<p>Dear Fellow Beattyians,</p>
+<p>Thirty-two years ago, Mr Bob Fang, our Alumni First President, planted
+a seed of fellowship that has since blossomed into something far greater
+than any of us could have imagined. Today, as I reflect on our journey
+since 1993, I am struck not by how far we have traveled, but by how deeply
+our roots have intertwined with the very essence of what it means to be
+Beattyian.</p>
+<p>We are more than alumni. We are living testament to a truth our school
+has always known: that within each Beattyian lies latent gifts that, given
+opportunities, and time, can ignite brilliant flames of purpose. Our Alumni
+exists not merely to reminisce about yesteryears, but to ensure that every
+current and future Beattyian discovers, uncovers, and perhaps recovers
+his/her potential to become purpose-driven stewards.</p>
+<p>Our motto, Fellowship and Interaction, speaks to something profound. In
+a world increasingly fractured by division, we choose connection. In an
+age where digital connections often replace genius relationships, and individual
+achievement often overshadows collective contribution, we embody Ubuntu:
+I am because we are. This is not sentiment; this is our lived practice.</p>
+<p>Through the visionary generosity of our first Patron, Mr Low Cheng Lum,
+and the continued dedication of alumni like Mr Jimmy Soon, Ms Janet Yeong,
+Mr Satianathan, Ms Rajeshwari Rai, the Hee family, Mr Loganathan, and countless
+others, we have created a constellation of support that illuminates pathways
+for our students. These awards and scholarships are not mere recognition;
+they are investments in futures we may never see but will certainly shape.</p>
+<p>Our partnership with the School Advisory Committee, Parent Support Group,
+and the school leadership forms an unbreakable nexus, strengthing our shared
+commitment to nuture the Beatty spirit for generations to come. Together,
+we create spaces where adaptive thinkers emerge, where agile learners flourish,
+and where active contributors are born. We do this not because it is expected,
+but because it is essential. Each career talk, each mentoring session,
+each moment of guidance we provide is our way of paying forward the gifts
+Beatty gave us.</p>
+<p>As we approach our 33rd year, I see both challenge and opportunity. The
+world our current students will inherit demands more than academic excellence.
+It requires individuals who can navigate complexity with wisdom, embrace
+change with courage, and contribute with compassion. Our role is to bridge
+the wisdom of experience with the energy of youth, ensuring that the Beattyian
+spirit not only endures but evolves.</p>
+<p>To our senior alumni: your stories are our foundation. To our recent graduates:
+your energy is our future. To those who have yet to join us: remember that
+once a Beattyian, always a Beattyian. Come back not just for fellowship,
+but to serve. Come back not just to remember, but to build. Come back because
+the next generation of Beattyians deserves to stand on shoulders even stronger
+than the ones that lifted us.</p>
+<p>The invitation is simple yet profound: be part of something larger than
+yourself. Join us in ensuring that every Beattyian who walks through those
+familiar gates discovers not just knowledge, but purpose; not just skills,
+but wisdom; not just success, but significance.</p>
+<p>Together, we continue to build lives and forge frontiers. Together, we
+ensure that Beatty's light shines ever brighter.</p>
+<p>Non Vi Sed Arte.</p>
+<p><em>Patrick Lim</em>
+<br>President
+<br>Beatty Alumni</p>
+<hr>
 <ul data-tight="true" class="tight">
 <li>
 <p>Click <a href="/files/Presidents%20Report%20from%201%20June%202020%20to%2031%20Aug%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
