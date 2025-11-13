@@ -100,10 +100,13 @@ performance in the Primary School Leaving Examination.</p>
 <p><a href="/images/Awards/8_oustanding_PSLE.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN SEC 1-4 </strong></h3>
+<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN SEC 1-4</strong></h3>
 <p>This scholarship award recognises students who have demonstrated outstanding
 performance in the Primary School Leaving Examination and maintained strong
 academic performance in Secondary 1 to 4.</p>
+<p><a href="/images/Awards/9_outstanding_Sec_1_to_4.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+<hr>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
