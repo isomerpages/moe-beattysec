@@ -13,7 +13,8 @@ meaningfully to the school community. This student exemplifies excellence
 across multiple domains and is set to become a purpose-driven steward beyond
 his time at Beatty. The recipient demonstrates hallmark qualities in leadership,
 service, and moral integrity, serving as a role model for the Beatty community.</p>
-<p>2025</p>
+<p><a href="/images/IP/A_T_Dept.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
 <hr>
 <p></p>
 <table style="minWidth: 50px">
