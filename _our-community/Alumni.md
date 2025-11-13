@@ -61,10 +61,6 @@ ensure that Beatty's light shines ever brighter.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/Presidents%20Report%20from%201%20June%202020%20to%2031%20Aug%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Presidents Report from 1 June 2020 to 31 Aug 2021</p>
-</li>
-<li>
 <p>Click <a href="/files/ba_membership_applicationform.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 Beatty Alumni Membership Form</p>
 </li>
