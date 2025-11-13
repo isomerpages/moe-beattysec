@@ -25,7 +25,7 @@ endeavours!'</p>
 <p><a href="/images/Awards/10_Rai_creative_arts.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>JANET YEONG COMMUNITY, ACTION, REACH &amp; ENGAGEMENT (CARE) AWARD </strong></h3>
+<h3><strong>JANET YEONG COMMUNITY, ACTION, REACH &amp; ENGAGEMENT (CARE) AWARD</strong></h3>
 <p>This award honours students who have demonstrated outstanding empathy
 and made significant contributions to their community through service.
 Recipients have shown leadership in community projects, peer support, and
@@ -42,7 +42,7 @@ adaptability and mindfulness in the sporting arena.</p>
 <p><a href="/images/Awards/12_sports_excellence.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>SINGAPORE SCHOOLS SPORTS COUNCIL COLOURS AWARD </strong></h3>
+<h3><strong>SINGAPORE SCHOOLS SPORTS COUNCIL COLOURS AWARD</strong></h3>
 <p>The SSSC Colours Award is given to student-athletes who have excelled
 in their sports and have shown exemplary sporting character. It is awarded
 at both the national and zone levels.</p>
@@ -54,22 +54,20 @@ commitment, and collaboration within their CCA, contributing to the growth
 and success of their team or group. This award reflects our school’s emphasis
 on unity and community.</p>
 <p></p>
-<table style="minWidth: 175px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>2025:</strong>
+<td rowspan="1" colspan="3">
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Awards/14_CCA_clubs.png" rel="noopener nofollow" target="_blank">Club &amp; Society</a>
 </p>
@@ -82,6 +80,8 @@ on unity and community.</p>
 <p><a href="/images/Awards/14_CCA_sports.png" rel="noopener nofollow" target="_blank">Sports</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Awards/14_CCA_sports_leaders.png" rel="noopener nofollow" target="_blank">Sports Leaders' Council</a>
 </p>
