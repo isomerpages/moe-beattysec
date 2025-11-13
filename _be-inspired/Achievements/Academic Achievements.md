@@ -27,7 +27,7 @@ of nurturing agile learners.</p>
 <p><a href="/images/Awards/2_SAC_navigator.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>LOW CHENG LUM CIVIC, GLOBAL &amp; CROSS-CULTURAL LITERACY AWARD </strong></h3>
+<h3><strong>LOW CHENG LUM CIVIC, GLOBAL &amp; CROSS-CULTURAL LITERACY AWARD</strong></h3>
 <p>This award is presented to students who have actively participated in
 international exchanges or cross-cultural projects through programmes such
 as NEXUS. The recipient demonstrates global awareness, leadership, and
@@ -37,7 +37,7 @@ emphasis on active contributors who think and act beyond their local context.</p
 <p><a href="/images/Awards/3_civic_global_cross_cultural.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>HEE SWEE KHEE STEM EXCELLENCE AWARD </strong></h3>
+<h3><strong>HEE SWEE KHEE STEM EXCELLENCE AWARD</strong></h3>
 <p>The STEM Excellence Award is established in memory of Mr Hee Swee Khee,
 a pioneering educator who served at Beatty Secondary School from 1953 to
 1969. As a Mathematics teacher, Mr Hee was known for his unwavering dedication,
@@ -55,7 +55,7 @@ fields.</p>
 <p><a href="/images/Awards/4_STEM_Excellence.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>RENUKA D/O SATIANATHAN HUMANITIES VOYAGER AWARD </strong></h3>
+<h3><strong>RENUKA D/O SATIANATHAN HUMANITIES VOYAGER AWARD</strong></h3>
 <p>The Renuka d/o Satianathan Humanities Voyager Award honours the memory
 of an extraordinary educator (1987-2025) whose vibrant spirit and passion
 for learning touched all who knew her. This award celebrates students who
@@ -73,7 +73,7 @@ connections through joyful learning and selfless service.</p>
 <p><a href="/images/Awards/5_Humanities_voyager.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>BEATTY ALUMNI BILINGUAL BRIDGE AWARD </strong></h3>
+<h3><strong>BEATTY ALUMNI BILINGUAL BRIDGE AWARD</strong></h3>
 <p>The Bilingual Bridge Award recognises students who demonstrate outstanding
 proficiency and appreciation in both English Language, and their respective
 Mother Tongue Languages and/or Singapore Sign Language. These students
@@ -91,7 +91,13 @@ cohort, recognising their exceptional academic achievements. It celebrates
 their discipline, resilience, and adaptability, exemplifying our vision
 of every Beattyian as a purpose-driven steward. This award highlights general
 competencies, not just those associated with the cognitive domain.</p>
-<p><a href="/images/Awards/" rel="noopener nofollow" target="_blank">2025</a>
+<p><a href="/images/Awards/7_top_in_national_exam.png" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+<hr>
+<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN THE PRIMARY SCHOOL LEAVING EXAMINATION </strong></h3>
+<p>This scholarship award recognises students who have demonstrated outstanding
+performance in the Primary School Leaving Examination.</p>
+<p><a href="/images/Awards/8_oustanding_PSLE.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <p></p>
 <table style="minWidth: 50px">
