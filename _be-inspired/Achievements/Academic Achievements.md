@@ -94,11 +94,16 @@ competencies, not just those associated with the cognitive domain.</p>
 <p><a href="/images/Awards/7_top_in_national_exam.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <hr>
-<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN THE PRIMARY SCHOOL LEAVING EXAMINATION </strong></h3>
+<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN THE PRIMARY SCHOOL LEAVING EXAMINATION</strong></h3>
 <p>This scholarship award recognises students who have demonstrated outstanding
 performance in the Primary School Leaving Examination.</p>
 <p><a href="/images/Awards/8_oustanding_PSLE.png" rel="noopener nofollow" target="_blank">2025</a>
 </p>
+<hr>
+<h3><strong>LOW CHENG LUM SCHOLARSHIP FOR OUTSTANDING PERFORMANCE IN SEC 1-4 </strong></h3>
+<p>This scholarship award recognises students who have demonstrated outstanding
+performance in the Primary School Leaving Examination and maintained strong
+academic performance in Secondary 1 to 4.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
