@@ -17,6 +17,14 @@ here.</p>
 <p>Come and see how we nurture our students to be adaptive thinkers, agile
 learners and active contributors!</p>
 <h4><strong>Open House 2025 Details</strong></h4><a class="isomer-image-wrapper" href="https://go.gov.sg/btyoh2025"><img style="width: 80%;" height="auto" width="100%" alt="Open House 2025" src="/images/BTYSS_MOTD_2025.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Open House Programme A" src="/images/OpenHouse25_A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Open House Programme B" src="/images/OpenHouse25_B.jpg">
+</div>
 <h4><strong>Read our corporate brochure to discover what Beatty has to offer you and your child!</strong></h4>
 <p>Access this link for more information: <a href="https://go.gov.sg/probeatty" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/probeatty</a>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/probeatty"><img style="width: 50%;" height="auto" width="100%" alt="Beatty Brochure" src="/images/e_brochre.jpg"></a>
