@@ -33,7 +33,7 @@ sections:
       subtitle: Prospective Students
       id: infopic
       description: What makes Beatty Secondary School truly special?
-      button: Find out More
+      button: Watch the video!
       url: https://youtu.be/6xpckUCGIlE?si=QVIig17ug2cZAW4E
       alt: Image alt text
       image: /images/Beatty_Flag.png
