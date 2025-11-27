@@ -26,13 +26,13 @@ experience, to operate a Japanese or Korean cuisine stall in our canteen.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asian Food</p>
+<p>Rice Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Dec 2024</p>
+<p>4 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese or Korean</p>
+<p>Malay-Indian food</p>
 </td>
 </tr>
 </tbody>
@@ -56,11 +56,11 @@ experience, to operate a Japanese or Korean cuisine stall in our canteen.</p>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
 etc</p>
 </li>
 </ul>
-<p><strong>3. Submit the completed application form and documents by closing date via email OR to the School's General Office.</strong>
+<p><strong>3. Submit the completed application form and documents by closing date via email OR to the School's General Office by the closing date.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,7 +74,7 @@ etc</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mdm Coleen Lee or Mr Rosman Atan</p>
+<p>Contact Person: Mr Rosman Atan</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
@@ -93,54 +93,48 @@ etc</p>
 <h4><strong>Interested applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
+<p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
 </li>
 <li>
-<p>Able to provide good service and quality food with prices determined in
-consultation with the school.</p>
+<p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
+LTVP-Plus holder with Letter of Consent to work.</p>
 </li>
 <li>
-<p>Able to provide cooked delicious, wholesome meals that meets the health
-/ nutritional standards set by the Health Promotion Board (HPB) under the
-<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">"Healthy Meals in Schools Programme (HMSP)" guidelines</a>.</p>
+<p>Able to provide good service and quality food/drinks at reasonable prices.
+Prices will be determined in consultation with the school.</p>
 </li>
 <li>
-<p>Able to provide a varied menu featuring nutritious options.</p>
+<p>Able to provide cooked food/drinks that meets the health / nutritional
+standards set by the Health Promotion Board (HPB) under the “Healthy Meals
+in Schools Programme (HMSP)” guidelines (see link).</p>
 </li>
 <li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
 </li>
 <li>
-<p>Able to meet other requirements set by the school - Must be in personal
-attendance at the stall during operation hours.</p>
+<p>Must be in personal attendance at the stall.</p>
+</li>
+<li>
+<p>Preferably possess catering experience or experience operating in a school
+environment.</p>
 </li>
 </ul>
-<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
+<h4><strong>Note to successful applicants:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-</li>
-<li>
-<p>Possess catering experience or experience operating in a school environment.</p>
-</li>
-<li>
-<p>Possess experience in Japanese or Korean cuisine.</p>
-</li>
-<li>
-<p>Possess knowledge of healthy cooking methods.</p>
-</li>
-<li>
-<p>Possess strong customer service skills.</p>
+<p>Successful applicant and stall assistant(s) operating the stall must attend
+and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore
+approved training providers.</p>
 </li>
 <li>
 <p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+Singapore Food Agency (SFA) to operate the stall.</p>
 </li>
 </ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
+<p></p>
