@@ -32,11 +32,11 @@ school does not disclose reasons for selection / non-selection of students.</p>
 the <strong>transfer is approved</strong>.</p>
 </li>
 <li>
-<p>For more information, please refer to MOE’s website:</p>
+<p>For more information, please refer to MOE’s website:
+<br><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
+</p>
 </li>
 </ol>
-<p><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
-</p>
 <h4><strong>Instructions:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
