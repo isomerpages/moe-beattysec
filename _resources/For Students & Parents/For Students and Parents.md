@@ -25,14 +25,13 @@ variant: tiptap
 <p><a href="https://beattysec.moe.edu.sg/achievements/our-illustrious-alumni" rel="noopener noreferrer nofollow" target="_blank">Beatty Alumni</a>
 </p>
 <h4><strong>For Parents</strong></h4>
-<p></p>
 <p><a href="https://beattysec.moe.edu.sg/useful-links/useful-links-for-students-n-parents/parents-gateway" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
-<p></p>
 <p><a href="https://go.gov.sg/btysschangeofoptionsdma2023" rel="noopener noreferrer nofollow" target="_blank">PLD Change of DMA Option</a>
 </p>
-<p></p>
 <p><a href="https://www.asiapac.com.sg/pld-apple/account/login" rel="noopener noreferrer nofollow" target="_blank">PLD Purchase of Accessories</a>
+</p>
+<p><a href="https://www.seab.gov.sg/access-arrangements/" rel="noopener nofollow" target="_blank">SEAB Access Arrangements</a>
 </p>
 <h4><strong>Institutes of Higher Learning</strong></h4>
 <h5><strong>Universities in Singapore</strong></h5>
