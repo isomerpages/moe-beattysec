@@ -4,7 +4,7 @@ permalink: /2026s1transferbeatty/
 variant: tiptap
 description: ""
 ---
-<h4><strong>(2026 Cohort) Secondary One – Appeal for Transfer to Beatty Secondary School </strong></h4>
+<h4><strong>(2026 Cohort) Secondary One – Appeal for Transfer to Beatty Secondary School</strong></h4>
 <h4><strong>Information to note:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -37,7 +37,7 @@ the <strong>transfer is approved</strong>.</p>
 </ol>
 <p><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
 </p>
-<h4><strong>Instructions: </strong></h4>
+<h4><strong>Instructions:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to <a href="https://go.gov.sg/2026s1appeal-bty" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026s1appeal-bty</a> (Opens
