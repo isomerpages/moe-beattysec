@@ -39,4 +39,9 @@ sections:
   - resources:
       title: What's Buzzing?
       id: resources
+  - infobar:
+      title: 2026 Secondary 1 Appeal for Transfer to Beatty
+      id: infobar
+      button: Click here
+      url: /prospective-students/2026s1transferbeatty/
 ---
