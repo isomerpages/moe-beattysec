@@ -1,6 +1,6 @@
 ---
 title: 2026 Sec 1 Appeal for Transfer to Beatty
-permalink: /2026s1transferbeatty/
+permalink: /prospective-students/2026s1transferbeatty/
 variant: tiptap
 description: ""
 ---

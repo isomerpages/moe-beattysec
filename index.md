@@ -20,14 +20,13 @@ sections:
           url: /resources/ndlp/
       background: /images/WBannerv3.gif
   - infopic:
-      title: Open House 2025
+      title: 2026 Secondary 1 Registration
       subtitle: Prospective Students
       id: infopic
-      description: Discover the Beatty Experience. See you there!
       button: Find out more
-      url: /prospective-students/open-house/
-      image: /images/BTYSS_MOTD_2025.jpg
-      alt: Open House 2025
+      url: /prospective-students/2026secondary1registration/
+      image: /images/2026S1reg.png
+      alt: 2026 Sec 1 Registration
   - infopic:
       title: Discover
       subtitle: Prospective Students
