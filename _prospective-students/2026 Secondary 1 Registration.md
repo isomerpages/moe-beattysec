@@ -18,8 +18,8 @@ in person for registration.</p>
 detailed instructions on the registration process and administrative procedures.</p>
 </li>
 <li>
-<p>Students who wish to apply for transfer to Beatty may click <a href="/2026s1transferbeatty/" rel="noopener nofollow" target="_blank">here</a> to access
-the application form.</p>
+<p>Students who wish to apply for transfer to Beatty may click <a href="/prospective-students/2026s1transferbeatty/" rel="noopener nofollow" target="_blank">here</a> to
+access the application form.</p>
 </li>
 </ul>
 <p></p>
