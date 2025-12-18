@@ -24,7 +24,7 @@ sections:
       subtitle: Prospective Students
       id: infopic
       button: Find out more
-      url: /prospective-students/open-house/
+      url: /prospective-students/2026secondary1registration/
       image: /images/2026S1reg.png
       alt: 2026 Sec 1 Registration
   - infopic:
