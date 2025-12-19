@@ -4,13 +4,10 @@ permalink: /resources/ndlp/
 description: ""
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
-Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
-Learning to help students strengthen their digital literacy.</p>
-<p>One of the components of the NDLP is the introduction of the Personalised
-Digital Learning Programme (PDLP) for all secondary school students, whereby
-every secondary school student will own a school-prescribed Personal Learning
-Device (PLD).</p>
+<p>The NDLP was launched in March 2020 to help students <strong>strengthen their digital literacy and acquire digital skills</strong> needed
+to navigate an increasingly digitalised world.</p>
+<p>Under the NDLP, every secondary school student will <strong>own a school-prescribed Personal Learning Device (PLD)</strong>.
+Students may use funds from their Edusave Account to pay for the PLD.</p>
 <h4><strong>The PLD Initiative</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PLD Info" src="/images/PLD_Info.png">
@@ -21,22 +18,14 @@ technology to personalise and enhance students’ learning. This will also
 enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <h4><strong>School-Prescribed PLD Bundle</strong></h4>
-<p><em>Updated: December 2024</em>
+<p><em>Updated: December 2025</em>
 </p>
-<p>Beatty Secondary School has selected the Apple iPad 10.9” 10th Generation
-(Enhanced Bundle) for Teaching &amp; Learning.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Enhance Bundle includes 3 year Apple Care+ &amp; 3 year Insurance.</p>
-</li>
-<li>
-<p>Each PLD bundle will come with the Apple Pencil (USB-C) &amp; Logitech
-Keyboard Case (Ruggedized Combo 4).</p>
-</li>
-</ul>
-<p></p>
+<p>Beatty Secondary School has selected the Apple iPad 11-inch (A16) (Enhanced
+Bundle) for Teaching &amp; Learning.
+<br>Each PLD bundle will come with the Apple Pencil (USB-C) &amp; Logitech
+Keyboard Case (Rugged Combo 4).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ipad 10th Gen Bundle" src="/images/ipad_Enhance_bundle.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad11.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -64,28 +53,45 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apple iPad 10.9" 64GB, Wi-Fi (2022)
-<br><em>with 3-year Apple Care+ for Schools &amp; 3-year insurance</em>
+<p>Apple iPad 11-inch (A-16), 128GB, Wi-Fi
+<br>&nbsp;<em>with 3-year Apple Care+ for Schools &amp; 3-year insurance</em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Allow for two repairs or one replacement. </em>&nbsp;</p>
+</li>
+<li>
+<p><em>Insurance coverage includes accidental damage and theft of device</em>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>$555.00</p>
+<p>$459.90</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Apple Pencil (1st Generation)</p>
+<p>Upgrade Warranty &amp; Insurance (4 Years Coverage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$97.00</p>
+<p>$90.00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logitech Keyboard Case (Ruggedized Combo 4)</p>
+<p>Apple Pencil (USB-C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$131.00</p>
+<p>$96.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logitech Keyboard Case (Rugged Combo 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$115.00</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +100,7 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$783.00</p>
+<p>$760.90</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +109,7 @@ Keyboard Case (Ruggedized Combo 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$853.40</p>
+<p>$829.30</p>
 </td>
 </tr>
 </tbody>
@@ -137,12 +143,12 @@ Keyboard Case (Ruggedized Combo 4).</p>
 <td rowspan="1" colspan="1">
 <p>Claimable
 <br>2 repair or 1 Replacement
-<br>(3-Year Insurance)</p>
+<br>(4-Year Insurance)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>3-year Apple Care+</strong></h4>
+<h4><strong>4-year Apple Care+</strong></h4>
 <p>Every iPad comes with one&nbsp;year of hardware repair coverage through
 its one-year limited warranty and up to 90 days of complimentary technical
 support. AppleCare+ extends your iPad, Apple&nbsp;Pencil and Apple-branded
