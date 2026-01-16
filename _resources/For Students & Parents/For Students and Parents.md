@@ -6,7 +6,8 @@ third_nav_title: For Students & Parents
 variant: tiptap
 ---
 <h3><strong>Useful links for Students and Parents</strong></h3>
-<h4><strong>Student Handbook</strong></h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Skv_JBejyD_2_mt5hDj5MzHgt0Cl4yS4/view"><img style="width: 20%;" height="auto" width="100%" alt="2025 Handbook" src="/images/Student_Handbook_2025.png"></a>
+<h4><strong>Student Handbook</strong></h4>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1fUXHi95iZQozwD35Ma9q4ZY2CvtxWgFu/view?usp=sharing"><img style="width: 20%;" height="auto" width="100%" alt="Student Handbook" src="/images/2026_S_Handbook_Cover.png"></a>
 <h4><strong>Yearbook</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/btyyb25"><img style="width: 20%;" height="auto" width="100%" alt="Yearbook 2025" src="/images/Yearbook_Cover.png"></a>
 <h4><strong>Beattyian Links</strong></h4>
