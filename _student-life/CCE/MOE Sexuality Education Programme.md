@@ -16,7 +16,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The <strong>Goals </strong>of Sexuality Education are to:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>(a) Support students in managing their physiological, social and emotional
@@ -32,7 +32,7 @@ others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>3. The<strong> Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>(a) Love and respect yourself as you love and respect others;</p>
@@ -51,9 +51,8 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<h3><strong>OVERVIEW OF BEATTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h3>
+<p>You may click here for more information on MOE Sexuality Education.</p>
+<h3><strong>OVERVIEW OF BEATTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -68,7 +67,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<h4><strong><u>Sexuality Education Lessons:</u></strong></h4>
+<h4><strong><u>Sexuality Education Lessons: </u></strong></h4>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -87,58 +86,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h3><strong>At Beatty Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h3>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
-<h4><strong>SECONDARY 1</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 1" src="/images/2025SEL_S1.jpg">
-</div>
-<h4><strong>SECONDARY 2</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2" src="/images/2025SEL_S2.jpg">
-</div>
-<h4><strong>SECONDARY 3</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 3" src="/images/2025SEL_S3.jpg">
-</div>
-<h4><strong>SECONDARY 4</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 4" src="/images/2025SEL_S4.jpg">
-</div>
-<h4><strong>SECONDARY 5</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 5" src="/images/2025SEL_S5.jpg">
-</div>
-<h4><strong><em><u>eTeens</u></em><u> Programme:</u></strong></h4>
-<p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens </em>is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens </em>programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
-<p>9. Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STIs/HIV extends beyond themselves and involves their
-family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
-<h4><strong>At Beatty Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eteens programme" src="/images/eteensProgramme.jpg">
-</div>
-<h4><strong>INFORMATION FOR PARENTS</strong></h4>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025_Annex_A_MOE_Sexuality_Education_In_Schools_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
-<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2025_Annex_B_eTeens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
-completed form is to be submitted by 28/01/2025.</p>
-<p>13. Parents can contact the school at 62569108 or write in to <a href="mailto:low_beng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_beng_hong@schools.gov.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<hr>
+<h3><strong>At Beatty Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h3>
+<h4><strong>Secondary 1</strong></h4>
 <p></p>
