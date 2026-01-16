@@ -260,12 +260,33 @@ on the <strong>insurance claim procedure</strong>
 <h5><strong>Resources for Students/Parents</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parent_Handbook__I__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parent_Handbook__II__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p><a href="https://go.gov.sg/parentingwithmoesg" rel="noopener nofollow" target="_blank">Parenting with MOEsg Instagram Page</a>
 </p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pfw" rel="noopener nofollow" target="_blank">Parenting for Wellness Website</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">MOE Cyber Wellness Webpage</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II)</a>
+</p>
+<p></p>
 </li>
 </ul>
 <p></p>
