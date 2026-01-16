@@ -135,14 +135,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also available <u>here</u>. The completed form is to be submitted
-by 28/02/2026.</p>
+and is also available <a href="/files/ANNEX_A___parent_opt_out_form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 28/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also available <u>here</u> (please upload parents opt-out form found
-in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink for parents
-to access the form). &nbsp;The completed form is to be submitted by 28/02/2026.</p>
+and is also available <a href="/files/ANNEX_B___eTeens_Parents_Opt_out_Form__Sec__2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+&nbsp;The completed form is to be submitted by 28/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62569108
 or write in to <a rel="noopener noreferrer nofollow" target="_blank">pang_wai-san_ivy@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
