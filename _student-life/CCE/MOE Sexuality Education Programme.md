@@ -67,7 +67,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>b. Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<h4><strong><u>Sexuality Education Lessons: </u></strong></h4>
+<h4><strong><u>Sexuality Education Lessons:</u></strong></h4>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -86,7 +86,64 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<hr>
 <h3><strong>At Beatty Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h3>
 <h4><strong>Secondary 1</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1" src="/images/MOE SEd 2026/MOE_Sed_S1.png">
+</div>
+<h4><strong>Secondary 2</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S2" src="/images/MOE SEd 2026/MOE_Sed_S2.png">
+</div>
+<h4><strong>Secondary 3</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S3" src="/images/MOE SEd 2026/MOE_Sed_S3.png">
+</div>
+<h4><strong>Secondary 4</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S4" src="/images/MOE SEd 2026/MOE_Sed_S4.png">
+</div>
+<h4><strong>Secondary 5</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S5" src="/images/MOE SEd 2026/MOE_Sed_S5.png">
+</div>
+<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. <em>eTeens</em> is conducted in two segments – a mass talk segment and
+a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+as decision-making, assertiveness and negotiation to say “no” to sex and
+negative peer pressure. They also learn that the impact of STIs/HIV extends
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<h4><strong>At Beatty Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eteens" src="/images/MOE SEd 2026/MOE_Sed_Eteens.png">
+</div>
+<h4><strong>&nbsp;Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
+Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
+of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
+form. This form will be communicated to parents at the start of the year
+and is also available <u>here</u>. The completed form is to be submitted
+by 28/02/2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
+of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
+form. This form will be communicated to parents at the start of the year
+and is also available <u>here</u> (please upload parents opt-out form found
+in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink for parents
+to access the form). &nbsp;The completed form is to be submitted by 28/02/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62569108
+or write in to <a rel="noopener noreferrer nofollow" target="_blank">pang_wai-san_ivy@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
