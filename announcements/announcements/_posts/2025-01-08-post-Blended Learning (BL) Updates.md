@@ -9,21 +9,32 @@ variant: tiptap
 ---
 <h3><strong>Instructions for Blended Learning</strong></h3>
 <p>Dear Parents/ Guardians and students,</p>
-<p>Blended Learning for Semester 1 will begin on 15 January 2025.</p>
-<p>The subjects rostered for blended learning days are as follows.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_BL_schedule__Sem_1_.png">
-</div>
-<p>Students are required to complete all lessons assigned on the blended
-learning day itself.</p>
-<p>Secondary 1 students: Click <a href="https://go.gov.sg/beattyblplans" rel="noopener noreferrer nofollow" target="_blank">here</a> for the plans and instructions
-for blended learning assignments.
-<br>
-<br>Secondary 2-5 students: Refer to your subject teams for the various blended
-learning assignments.</p>
-<p>All instructions for blended learning lessons will be available by 9pm
-on the Tuesday before the blended learning day.</p>
-<p>Do check with your child’s FTs if you have any queries.</p>
+<p>Blended Learning will begin on 31 January 2026. The dates for Home-Based
+Learning (HBL) Days are as follows.</p>
+<p><strong>Term 1</strong>
+<br><strong>HBL 1:</strong> 30 Jan (Fri)
+<br><strong>HBL 2:</strong> 9 Feb (Mon)
+<br><strong>HBL 3</strong>: 13 Mar (Fri)</p>
+<p><strong>Term 2 </strong>
+<br><strong>HBL 4:</strong> 2 Apr (Thurs)
+<br><strong>HBL 5:</strong> 24 Apr (Fri)
+<br><strong>HBL 6:</strong> 27 Apr (Mon)
+<br><strong>HBL 7:</strong> 6 May (Wed)</p>
+<p><strong>Term 3 </strong>
+<br><strong>HBL 8:</strong> 14 Jul (Tues)
+<br><strong>HBL 9: </strong>15 Jul (Wed)
+<br><strong>HBL 10: </strong>16 Jul (Thurs)
+<br><strong>HBL 11: </strong>11 Aug (Tues)
+<br><strong>HBL 12: </strong>2 Sept (Wed)</p>
+<p><strong>Term 4</strong>
+<br><strong>HBL 13:</strong> 25 Sept (Fri)</p>
+<p>As Blended Learning (BL) is spread across different days of the week throughout
+the year, the subjects for each BL day will follow the timetable of the
+day on which the BL day falls.</p>
+<p>Subject teachers will provide BL instructions via posts in their respective
+class subject Teams. For Secondary One students, BL instructions will be
+given directly by their subject teachers before they gain access to their
+Microsoft Teams accounts.</p>
 <h3><strong>Blended Learning (BL) Information</strong></h3>
 <p>Some of the BL lessons will be available via the Singapore Student Learning
 Space (SLS). All students are required to complete the lessons assigned
