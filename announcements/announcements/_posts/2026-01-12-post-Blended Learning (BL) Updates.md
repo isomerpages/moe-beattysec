@@ -1,7 +1,7 @@
 ---
 title: Blended Learning (BL) Updates
 permalink: /blended-learning-bl-updates/
-date: 2025-01-08
+date: 2026-01-12
 layout: post
 description: ""
 image: ""
