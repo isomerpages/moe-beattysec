@@ -289,5 +289,22 @@ on the <strong>insurance claim procedure</strong>
 <p></p>
 </li>
 </ul>
+<h4><strong>JAMF Resources for Parents</strong></h4>
+<p>Parents may refer below for the guides to the respective Parent DMA Options
+that they have chose.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent DMA Option Default Guide</a>
+</p>
+</li>
+<li>
+<p><a href="/files/iPadOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent DMA Option A Guide</a>
+</p>
+</li>
+<li>
+<p><a href="/files/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent DMA Option B Guide</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
