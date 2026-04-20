@@ -4,8 +4,8 @@ permalink: /prospective-students/dsa/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission – Sec (DSA-Sec) for 2026</strong></h3>
-<p>We invite all interested 2025 Primary 6 students to apply for Beatty Secondary
+<h3><strong>Direct School Admission – Sec (DSA-Sec) for 2027</strong></h3>
+<p>We invite all interested 2026 Primary 6 students to apply for Beatty Secondary
 School via the DSA-Sec Exercise.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -16,19 +16,19 @@ to honour their commitment to the school and participate in the activities
 related to the talent area they are selected for from Year 1 – 4.</p>
 <h4><strong>Sports &amp; Games</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/04w2fOx-xsA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/04w2fOx-xsA"></iframe>
 </div>
 <h4><strong>Performing Arts</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RkdUtU_xVj4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RkdUtU_xVj4"></iframe>
 </div>
 <h4><strong>Applied Learning Programme</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nHT7MQSG6zs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nHT7MQSG6zs"></iframe>
 </div>
 <h4><strong>Learning for Life Programme</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tBn5QE_Ulb4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tBn5QE_Ulb4"></iframe>
 </div>
 <p>The talent areas and their respective criteria are listed in the table
 below.</p>
@@ -450,24 +450,26 @@ and</p>
 in the preceding year.</p>
 </li>
 </ul>
-<h4><strong>Application (7 May 2025, 11am to 3 June 2025, 3pm)</strong></h4>
+<p><strong>Application (6 May 2026, 11am to 2 June 2026, 4.30pm)</strong>
+</p>
 <p>All applicants can apply for DSA-SEC through the centralized DSA-Sec Portal.</p>
-<p>1.&nbsp;&nbsp;&nbsp; <strong>For applicants studying in MOE mainstream primary schools</strong>:
-Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass
-is required. Parents/guardians who are unable to apply online can approach
-their child’s primary school for assistance.</p>
-<p>2.&nbsp;&nbsp;&nbsp; <strong>For applicants <u>NOT</u> studying in MOE mainstream primary schools</strong>:
-They need to apply for a Registration Number (RGxxxxxxx) to access the
-DSA-Sec Portal. For more details, please refer to MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> .</p>
-<p>3.&nbsp;&nbsp;&nbsp; Applicants who do not have prior experience may also
-apply. The school will assess applicants based on the selection criteria,
-which may include assessing the potential of the applicants.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Students can indicate <strong>up to three choices</strong> (maximum
-of two choices for the same school under two different talent areas).</p>
-<p>5.&nbsp;&nbsp;&nbsp; Applicants studying in mainstream primary schools
-will have their primary school information shared directly with DSA-Sec
-schools that they apply to. It is optional to indicate non-school-based
-activities and achievements.</p>
+<p>1.	<strong>For applicants studying in MOE mainstream primary schools:</strong> Parent
+may log in directly to DSA-Sec Portal at: <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a> .
+Only one parent’s Singpass is required. Parents/guardians who are unable
+to apply online can approach their child’s primary school for assistance.</p>
+<p>2.	<strong>For applicants NOT studying in MOE mainstream primary schools:</strong> They
+need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
+Portal. For more details, please refer to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a> .
+Parents can log in to the website at: <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>,
+which will go live from 6 May 2026, 11am.</p>
+<p>3. Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>4. Students can indicate <strong>up to three choices</strong> (maximum of
+two choices for the same school under two different talent areas).</p>
+<p>5. Applicants studying in mainstream primary schools will have their primary
+school information shared directly with DSA-Sec schools that they apply
+to. It is optional to indicate non-school-based activities and achievements.</p>
 <p>6.&nbsp;&nbsp;&nbsp; <strong>Application Timeline</strong>
 </p>
 <table style="minWidth: 50px">
@@ -488,7 +490,8 @@ activities and achievements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025</p>
+<p><strong>6 May 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application opens at 11am</p>
@@ -496,15 +499,17 @@ activities and achievements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Jun 2025</p>
+<p><strong>2 Jun 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application closes at 3pm</p>
+<p>Application closes at 4.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun&nbsp; – 25 Jul</p>
+<p><strong>29 Jun – 14 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person interview for shortlisted applicants. Shortlisted applicants
@@ -514,7 +519,8 @@ and trial (if applicable).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep</p>
+<p><strong>Between 17 Aug and 28 Aug</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will be informed of the results of their application via
@@ -523,11 +529,12 @@ mail (Confirmed Offer/ Wait List / Unsuccessful)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 31 Oct 2025</p>
+<p><strong>By 23 Oct 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of School Preference Form through DSA-Sec Portal</p>
-<p><strong>Both parents are required to log in to the DSA-Sec Portal using their Singpass to submit up to three school preferences. </strong>If
+<p><strong>Only one parent is required to log in to the DSA-Sec Portal using his/her Singpass to submit school preferences. </strong>If
 parent(s) are unable to submit online, they can approach their child’s
 primary school for assistance to submit the school preferences on their
 behalf.</p>
@@ -535,7 +542,8 @@ behalf.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2025</p>
+<p><strong>Late Nov 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Allocation Results Release</p>
@@ -545,5 +553,4 @@ behalf.</p>
 </table>
 <p>7.&nbsp;&nbsp;&nbsp; You may contact the General Office at 62569108 if
 you have queries regarding the DSA process. Alternatively, you could contact
-Mr Kelvin Goh (SH/PE &amp; CCA) at 62569108 ext 210 or Ms Tng Ee Hwei (HOD/PE
-&amp; CCA) at 62569108 ext 121, or email us at <a rel="noopener noreferrer nofollow" target="_blank">beatty_ss@moe.edu.sg</a>.</p>
+Mr Kelvin Goh (SH/PE &amp; CCA) at 62569108 ext 210, or email us at <a href="mailto:beatty_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beatty_ss@moe.edu.sg</a>.</p>
