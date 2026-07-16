@@ -11,3 +11,7 @@ description: ""
 </p>
 <p><em>The first thing we must all do is love and care for our students; everything else will fall in place. To love and care is to do what is required for our young charges to realise and actualise their potential, and to gradually become the best version of themselves. It is about learning who they are, learning with and from them, and to then know what they need most at every stage of their journey so as to set them on the right course to lead meaningful and purposeful lives.</em>
 </p>
+<p></p>
+<p><a href="/files/Staff_Contact_List_2026_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to access the Staff Contact List</a>
+<a href="/files/Staff_Contact_List_2026_v2.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
